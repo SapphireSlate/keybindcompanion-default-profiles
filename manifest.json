@@ -1,0 +1,16 @@
+        {
+          "default_cs2_v1": {
+            "version": "1.0.0",
+            "filePath": "profiles/default-cs2-profile.json",
+            "gameName": "Counter-Strike 2",
+            "profileDisplayName": "Default CS2 Controls",
+            "lastUpdated": "2024-05-27T10:00:00Z"
+          },
+          "default_valorant_v1": {
+            "version": "1.0.0",
+            "filePath": "profiles/default-valorant-profile.json",
+            "gameName": "Valorant",
+            "profileDisplayName": "Default Valorant Controls",
+            "lastUpdated": "2024-05-27T10:00:00Z"
+          }
+        }
