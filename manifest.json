@@ -1,7 +1,7 @@
         {
           "default_cs2_v1": {
             "version": "1.0.0",
-            "filePath": "profiles/default-cs2-profile.json",
+            "filePath": "default-cs2-profiles.json",
             "gameName": "Counter-Strike 2",
             "profileDisplayName": "Default CS2 Controls",
             "lastUpdated": "2024-05-27T10:00:00Z"
