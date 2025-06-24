@@ -1,1 +1,72 @@
-
+{
+  "profileName": "Default Valorant Controls",
+  "gameName": "Valorant",
+  "author": "Community",
+  "description": "Standard default keybinds for Valorant. A good starting point for new players.",
+  "version": "1.0.0",
+  "tags": ["Default", "Standard", "FPS"],
+  "gameProcessNames": ["VALORANT.exe"],
+  "gameWindowTitles": ["VALORANT"],
+  "profileData": {
+    "devices": [
+      {
+        "name": "Keyboard",
+        "categories": [
+          {
+            "name": "Movement",
+            "keybinds": [
+              { "name": "Move Forward", "key": "W", "modifiers": [] },
+              { "name": "Move Backward", "key": "S", "modifiers": [] },
+              { "name": "Strafe Left", "key": "A", "modifiers": [] },
+              { "name": "Strafe Right", "key": "D", "modifiers": [] },
+              { "name": "Walk", "key": "Shift", "modifiers": ["L"] },
+              { "name": "Jump", "key": "Space", "modifiers": [] },
+              { "name": "Crouch", "key": "Control", "modifiers": ["L"] }
+            ]
+          },
+          {
+            "name": "Combat",
+            "keybinds": [
+              { "name": "Fire", "key": "Mouse 1", "modifiers": [] },
+              { "name": "Aim Down Sights", "key": "Mouse 2", "modifiers": [] },
+              { "name": "Reload", "key": "R", "modifiers": [] },
+              { "name": "Primary Weapon", "key": "1", "modifiers": [] },
+              { "name": "Secondary Weapon", "key": "2", "modifiers": [] },
+              { "name": "Melee Weapon", "key": "3", "modifiers": [] },
+              { "name": "Use/Equip Spike", "key": "4", "modifiers": [] }
+            ]
+          },
+          {
+            "name": "Abilities",
+            "keybinds": [
+              { "name": "Ability 1", "key": "Q", "modifiers": [] },
+              { "name": "Ability 2", "key": "E", "modifiers": [] },
+              { "name": "Ability 3 (Signature)", "key": "C", "modifiers": [] },
+              { "name": "Ultimate Ability", "key": "X", "modifiers": [] }
+            ]
+          },
+          {
+            "name": "Communication",
+            "keybinds": [
+              { "name": "Push to Talk (Team)", "key": "V", "modifiers": [] },
+              { "name": "Ping", "key": "Z", "modifiers": [] },
+              { "name": "Radio Command Menu", "key": ".", "modifiers": [] }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Mouse",
+        "categories": [
+          {
+            "name": "General",
+            "keybinds": [
+               { "name": "Mouse Sensitivity", "key": "0.78", "modifiers": [] },
+               { "name": "Scoped Sensitivity Multiplier", "key": "1.0", "modifiers": [] }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
