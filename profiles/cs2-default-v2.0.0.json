@@ -274,6 +274,12 @@
                 "actionName": "Choose Team",
                 "defaultBinding": "M",
                 "userBinding": null
+              },
+              {
+                "id": "act_console_csgo",
+                "actionName": "Toggle Console",
+                "defaultBinding": "`",
+                "userBinding": null
               }
             ]
           }

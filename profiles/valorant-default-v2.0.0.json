@@ -154,6 +154,12 @@
                 "actionName": "Drop Equipped Item",
                 "defaultBinding": "G",
                 "userBinding": null
+              },
+              {
+                "id": "act_inspectWeapon_valorant",
+                "actionName": "Inspect Weapon",
+                "defaultBinding": "Y",
+                "userBinding": null
               }
             ]
           },
