@@ -1,0 +1,37 @@
+{
+  "csgo_default_v2": {
+    "version": "2.0.0",
+    "filePath": "profiles/cs2-default-v2.0.0.json",
+    "gameName": "Counter-Strike 2",
+    "profileDisplayName": "Default CS2 Controls",
+    "lastUpdated": "2025-10-17T18:00:00Z"
+  },
+  "valorant_default_v2": {
+    "version": "2.0.0",
+    "filePath": "profiles/valorant-default-v2.0.0.json",
+    "gameName": "Valorant",
+    "profileDisplayName": "Default Valorant Controls",
+    "lastUpdated": "2025-10-17T18:00:00Z"
+  },
+  "diablo4_defaultSorc": {
+    "version": "1.0.0",
+    "filePath": "profiles/diablo4_defaultSorc_1.0.0.json",
+    "gameName": "Diablo IV",
+    "profileDisplayName": "Default Sorcerer",
+    "lastUpdated": "2024-01-15T10:00:00Z"
+  },
+  "starcraft2_defaultTerran": {
+    "version": "1.0.1",
+    "filePath": "profiles/starcraft2_defaultTerran_1.0.1.json",
+    "gameName": "StarCraft II",
+    "profileDisplayName": "Default Terran Hotkeys",
+    "lastUpdated": "2024-01-20T14:30:00Z"
+  },
+  "readyornot_defaultTactical": {
+    "version": "1.0.0",
+    "filePath": "profiles/readyornot_defaultTactical_1.0.0.json",
+    "gameName": "Ready Or Not",
+    "profileDisplayName": "Default Tactical Controls",
+    "lastUpdated": "2025-01-25T12:00:00Z"
+  }
+} 

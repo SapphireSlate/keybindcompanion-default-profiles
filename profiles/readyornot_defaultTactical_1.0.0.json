@@ -1,0 +1,404 @@
+{
+  "profileId": "readyornot_defaultTactical_v1",
+  "gameName": "Ready Or Not",
+  "profileName": "Default Tactical Controls (Cloud)",
+  "version": "1.0.0",
+  "author": "KeybindCompanion Defaults",
+  "updated": 0,
+  "description": "Complete default keybindings for Ready or Not tactical shooter, sourced from cloud.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboard_mouse_readyornot",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "ron_movement",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "ron_move_forward",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "ron_move_backward",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "ron_strafe_left",
+                "actionName": "Strafe Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "ron_strafe_right",
+                "actionName": "Strafe Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "ron_jump",
+                "actionName": "Jump",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "ron_crouch",
+                "actionName": "Crouch",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              },
+              {
+                "id": "ron_walk",
+                "actionName": "Walk",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "ron_lean_left",
+                "actionName": "Lean Left",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "ron_lean_right",
+                "actionName": "Lean Right",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "ron_toggle_lean",
+                "actionName": "Toggle Lean Mode",
+                "defaultBinding": "LAlt",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "ron_combat",
+            "categoryName": "Combat",
+            "actions": [
+              {
+                "id": "ron_fire",
+                "actionName": "Fire",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "ron_aim_down_sights",
+                "actionName": "Aim Down Sights",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "ron_reload",
+                "actionName": "Reload",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "ron_fire_select",
+                "actionName": "Fire Select",
+                "defaultBinding": "X",
+                "userBinding": null
+              },
+              {
+                "id": "ron_melee",
+                "actionName": "Melee",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "ron_quick_throw",
+                "actionName": "Quick Throw",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "ron_low_ready",
+                "actionName": "Toggle Low Ready",
+                "defaultBinding": "Home",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "ron_equipment",
+            "categoryName": "Equipment",
+            "actions": [
+              {
+                "id": "ron_primary_weapon",
+                "actionName": "Primary Weapon",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "ron_secondary_weapon",
+                "actionName": "Secondary Weapon",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "ron_grenades",
+                "actionName": "Grenades",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "ron_tactical_device",
+                "actionName": "Tactical Device",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "ron_long_tactical",
+                "actionName": "Long Tactical",
+                "defaultBinding": "5",
+                "userBinding": null
+              },
+              {
+                "id": "ron_miscellaneous",
+                "actionName": "Miscellaneous",
+                "defaultBinding": "6",
+                "userBinding": null
+              },
+              {
+                "id": "ron_night_vision",
+                "actionName": "Night Vision",
+                "defaultBinding": "N",
+                "userBinding": null
+              },
+              {
+                "id": "ron_chem_light_drop",
+                "actionName": "Chem Light Drop",
+                "defaultBinding": "C",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "ron_tactical_equipment",
+            "categoryName": "Tactical Equipment",
+            "actions": [
+              {
+                "id": "ron_stinger",
+                "actionName": "Stinger",
+                "defaultBinding": "Numpad0",
+                "userBinding": null
+              },
+              {
+                "id": "ron_cs_gas",
+                "actionName": "CS Gas",
+                "defaultBinding": "Numpad1",
+                "userBinding": null
+              },
+              {
+                "id": "ron_pepper_ball",
+                "actionName": "Pepper Ball",
+                "defaultBinding": "Numpad2",
+                "userBinding": null
+              },
+              {
+                "id": "ron_flashbang",
+                "actionName": "Flashbang",
+                "defaultBinding": "Numpad3",
+                "userBinding": null
+              },
+              {
+                "id": "ron_sting",
+                "actionName": "Sting",
+                "defaultBinding": "Numpad4",
+                "userBinding": null
+              },
+              {
+                "id": "ron_opti_wand",
+                "actionName": "Opti Wand",
+                "defaultBinding": "Numpad5",
+                "userBinding": null
+              },
+              {
+                "id": "ron_mirror_gun",
+                "actionName": "Mirror Gun",
+                "defaultBinding": "Numpad6",
+                "userBinding": null
+              },
+              {
+                "id": "ron_cs_ball",
+                "actionName": "CS Ball",
+                "defaultBinding": "Numpad7",
+                "userBinding": null
+              },
+              {
+                "id": "ron_breaching_charge",
+                "actionName": "Breaching Charge",
+                "defaultBinding": "Numpad8",
+                "userBinding": null
+              },
+              {
+                "id": "ron_wedge",
+                "actionName": "Wedge",
+                "defaultBinding": "Numpad9",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "ron_communication",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "ron_team_chat",
+                "actionName": "Team Chat",
+                "defaultBinding": "K",
+                "userBinding": null
+              },
+              {
+                "id": "ron_chat",
+                "actionName": "Chat",
+                "defaultBinding": "J",
+                "userBinding": null
+              },
+              {
+                "id": "ron_push_to_talk",
+                "actionName": "Push to Talk",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "ron_team_view_cam",
+                "actionName": "Team View Cam",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "ron_voice_channels_cycle",
+                "actionName": "Voice Channels Cycle",
+                "defaultBinding": "L",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "ron_interaction",
+            "categoryName": "Interaction & Commands",
+            "actions": [
+              {
+                "id": "ron_interact",
+                "actionName": "Interact",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "ron_next_element",
+                "actionName": "Next Element",
+                "defaultBinding": "MWheelUp",
+                "userBinding": null
+              },
+              {
+                "id": "ron_prev_element",
+                "actionName": "Previous Element",
+                "defaultBinding": "MWheelDown",
+                "userBinding": null
+              },
+              {
+                "id": "ron_swat_command_cycle",
+                "actionName": "SWAT Command Interface Cycle",
+                "defaultBinding": "MMB",
+                "userBinding": null
+              },
+              {
+                "id": "ron_gold_element",
+                "actionName": "Select Gold Element",
+                "defaultBinding": "F5",
+                "userBinding": null
+              },
+              {
+                "id": "ron_blue_element",
+                "actionName": "Select Blue Element",
+                "defaultBinding": "F6",
+                "userBinding": null
+              },
+              {
+                "id": "ron_red_element",
+                "actionName": "Select Red Element",
+                "defaultBinding": "F7",
+                "userBinding": null
+              },
+              {
+                "id": "ron_default_command",
+                "actionName": "Default Command",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "ron_command_back",
+                "actionName": "Command Back",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "ron_interface",
+            "categoryName": "Interface & Menus",
+            "actions": [
+              {
+                "id": "ron_pause_menu",
+                "actionName": "Pause Menu",
+                "defaultBinding": "Escape",
+                "userBinding": null
+              },
+              {
+                "id": "ron_toggle_hud",
+                "actionName": "Toggle HUD",
+                "defaultBinding": "F3",
+                "userBinding": null
+              },
+              {
+                "id": "ron_multiplayer_menu",
+                "actionName": "Multiplayer Menu",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "ron_spectate_next",
+                "actionName": "Spectate Next Player",
+                "defaultBinding": "RightArrow",
+                "userBinding": null
+              },
+              {
+                "id": "ron_spectate_prev",
+                "actionName": "Spectate Previous Player",
+                "defaultBinding": "LeftArrow",
+                "userBinding": null
+              },
+              {
+                "id": "ron_vote_yes",
+                "actionName": "Vote Yes",
+                "defaultBinding": "PageUp",
+                "userBinding": null
+              },
+              {
+                "id": "ron_vote_no",
+                "actionName": "Vote No",
+                "defaultBinding": "PageDown",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["ReadyOrNot.exe", "ReadyOrNot-Win64-Shipping.exe"],
+  "gameWindowTitles": ["Ready or Not"],
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+} 

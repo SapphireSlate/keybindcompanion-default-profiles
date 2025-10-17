@@ -1,0 +1,252 @@
+{
+  "profileId": "valorant_default_v2",
+  "gameName": "Valorant",
+  "profileName": "Default Valorant Controls",
+  "version": "2.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729195200,
+  "description": "Complete default keybindings for Valorant (2025).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_valorant",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_valorant",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_moveForward_valorant",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveBackward_valorant",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_valorant",
+                "actionName": "Strafe Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_valorant",
+                "actionName": "Strafe Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_jump_valorant",
+                "actionName": "Jump",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouch_valorant",
+                "actionName": "Crouch",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              },
+              {
+                "id": "act_walk_valorant",
+                "actionName": "Walk",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_combat_valorant",
+            "categoryName": "Combat",
+            "actions": [
+              {
+                "id": "act_primaryFire_valorant",
+                "actionName": "Fire",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_aimDownSights_valorant",
+                "actionName": "Alternate Fire",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_reload_valorant",
+                "actionName": "Reload",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_usePlant_valorant",
+                "actionName": "Use Object",
+                "defaultBinding": "F",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_abilities_valorant",
+            "categoryName": "Abilities",
+            "actions": [
+              {
+                "id": "act_ability1_valorant",
+                "actionName": "Equip Ability 1",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_ability2_valorant",
+                "actionName": "Equip Ability 2",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_ability3_valorant",
+                "actionName": "Equip Ability 3",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_ultimate_valorant",
+                "actionName": "Equip Ultimate Ability",
+                "defaultBinding": "X",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_equipment_valorant",
+            "categoryName": "Equipment",
+            "actions": [
+              {
+                "id": "act_equipPrimary_valorant",
+                "actionName": "Equip Primary Weapon",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_equipSecondary_valorant",
+                "actionName": "Equip Secondary Weapon",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_equipMelee_valorant",
+                "actionName": "Equip Melee Weapon",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "act_equipSpike_valorant",
+                "actionName": "Equip Spike",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_dropEquipped_valorant",
+                "actionName": "Drop Equipped Item",
+                "defaultBinding": "G",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_valorant",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_voiceParty_valorant",
+                "actionName": "Use Voice Chat (Party)",
+                "defaultBinding": "U",
+                "userBinding": null
+              },
+              {
+                "id": "act_voiceTeam_valorant",
+                "actionName": "Use Voice Chat (Team)",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_chatAll_valorant",
+                "actionName": "Text Chat (All)",
+                "defaultBinding": "Enter",
+                "userBinding": null
+              },
+              {
+                "id": "act_chatTeam_valorant",
+                "actionName": "Text Chat (Team)",
+                "defaultBinding": "LShift+Enter",
+                "userBinding": null
+              },
+              {
+                "id": "act_pingTap_valorant",
+                "actionName": "Ping (Tap)",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_pingHold_valorant",
+                "actionName": "Ping Wheel (Hold)",
+                "defaultBinding": "MMB",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_interface_valorant",
+            "categoryName": "Interface",
+            "actions": [
+              {
+                "id": "act_buyMenu_valorant",
+                "actionName": "Open Buy Menu",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_mapToggle_valorant",
+                "actionName": "Open Map (Toggle)",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "act_mapHold_valorant",
+                "actionName": "Open Map (Hold)",
+                "defaultBinding": "CapsLock",
+                "userBinding": null
+              },
+              {
+                "id": "act_scoreboard_valorant",
+                "actionName": "Show Scoreboard (Hold)",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleCursor_valorant",
+                "actionName": "Toggle Cursor",
+                "defaultBinding": "MMB",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["valorant.exe", "VALORANT-Win64-Shipping.exe"],
+  "gameWindowTitles": ["Valorant", "VALORANT"],
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
+

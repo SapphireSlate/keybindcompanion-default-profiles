@@ -1,0 +1,56 @@
+{
+  "profileId": "starcraft2_defaultTerran_v1",
+  "gameName": "StarCraft II",
+  "profileName": "Default Terran Hotkeys (Cloud)",
+  "version": "1.0.1",
+  "author": "KeybindCompanion Defaults",
+  "updated": 0,
+  "description": "Standard default hotkeys for Terran in StarCraft II, sourced from cloud.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboard_mouse_sc2terran",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "sc2_production_terran",
+            "categoryName": "Unit Production",
+            "actions": [
+              {
+                "id": "sc2_terran_train_marine",
+                "actionName": "Train Marine",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "sc2_terran_train_marauder",
+                "actionName": "Train Marauder",
+                "defaultBinding": "D",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "sc2_abilities_terran",
+            "categoryName": "Unit Abilities",
+            "actions": [
+              {
+                "id": "sc2_terran_stimpack",
+                "actionName": "Stimpack",
+                "defaultBinding": "T",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["SC2_x64.exe"],
+  "gameWindowTitles": ["StarCraft II"],
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+} 

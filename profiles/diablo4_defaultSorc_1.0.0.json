@@ -1,0 +1,58 @@
+{
+  "profileId": "diablo4_defaultSorc_v1",
+  "gameName": "Diablo IV",
+  "profileName": "Default Sorcerer (Cloud)",
+  "version": "1.0.0",
+  "author": "KeybindCompanion Defaults",
+  "updated": 0,
+  "description": "Standard default keybindings for the Sorcerer class in Diablo IV, sourced from cloud.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboard_mouse_d4sorc",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "d4_combat_sorc",
+            "categoryName": "Combat",
+            "actions": [
+              {
+                "id": "d4_sorc_primary_attack",
+                "actionName": "Primary Attack",
+                "defaultBinding": "mouse0",
+                "userBinding": null,
+                "description": "Basic attack skill."
+              },
+              {
+                "id": "d4_sorc_teleport",
+                "actionName": "Teleport",
+                "defaultBinding": "1+Shift",
+                "userBinding": null,
+                "description": "Movement and escape skill."
+              }
+            ]
+          },
+          {
+            "id": "d4_general_sorc",
+            "categoryName": "General",
+            "actions": [
+              {
+                "id": "d4_sorc_town_portal",
+                "actionName": "Town Portal",
+                "defaultBinding": "T",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["Diablo IV.exe"],
+  "gameWindowTitles": ["Diablo IV"],
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+} 

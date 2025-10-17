@@ -1,0 +1,294 @@
+{
+  "profileId": "csgo_default_v2",
+  "gameName": "Counter-Strike 2",
+  "profileName": "Default CS2 Controls",
+  "version": "2.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729195200,
+  "description": "Complete default keybindings for Counter-Strike 2 (2025).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_csgo",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_csgo",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_moveForward_csgo",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveBackward_csgo",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_csgo",
+                "actionName": "Strafe Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_csgo",
+                "actionName": "Strafe Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_jump_csgo",
+                "actionName": "Jump",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouch_csgo",
+                "actionName": "Crouch",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              },
+              {
+                "id": "act_walk_csgo",
+                "actionName": "Walk",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_combat_csgo",
+            "categoryName": "Combat",
+            "actions": [
+              {
+                "id": "act_primaryFire_csgo",
+                "actionName": "Primary Fire",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_secondaryFire_csgo",
+                "actionName": "Secondary Fire / Aim",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_reload_csgo",
+                "actionName": "Reload",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_useInteract_csgo",
+                "actionName": "Use / Interact",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_dropWeapon_csgo",
+                "actionName": "Drop Weapon",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_inspectWeapon_csgo",
+                "actionName": "Inspect Weapon",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_lastWeapon_csgo",
+                "actionName": "Last Used Weapon",
+                "defaultBinding": "Q",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_weapons_csgo",
+            "categoryName": "Weapons",
+            "actions": [
+              {
+                "id": "act_nextWeapon_csgo",
+                "actionName": "Next Weapon",
+                "defaultBinding": "MWheelDown",
+                "userBinding": null
+              },
+              {
+                "id": "act_prevWeapon_csgo",
+                "actionName": "Previous Weapon",
+                "defaultBinding": "MWheelUp",
+                "userBinding": null
+              },
+              {
+                "id": "act_primarySelect_csgo",
+                "actionName": "Primary Weapon",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_secondarySelect_csgo",
+                "actionName": "Secondary Weapon",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_meleeSelect_csgo",
+                "actionName": "Melee Weapon",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "act_grenadeCycle_csgo",
+                "actionName": "Cycle Grenades",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_bombSelect_csgo",
+                "actionName": "Bomb / C4",
+                "defaultBinding": "5",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_grenades_csgo",
+            "categoryName": "Grenades",
+            "actions": [
+              {
+                "id": "act_heGrenade_csgo",
+                "actionName": "HE Grenade",
+                "defaultBinding": "6",
+                "userBinding": null
+              },
+              {
+                "id": "act_flashbang_csgo",
+                "actionName": "Flashbang",
+                "defaultBinding": "7",
+                "userBinding": null
+              },
+              {
+                "id": "act_smokeGrenade_csgo",
+                "actionName": "Smoke Grenade",
+                "defaultBinding": "8",
+                "userBinding": null
+              },
+              {
+                "id": "act_decoyGrenade_csgo",
+                "actionName": "Decoy Grenade",
+                "defaultBinding": "9",
+                "userBinding": null
+              },
+              {
+                "id": "act_molotov_csgo",
+                "actionName": "Molotov / Incendiary",
+                "defaultBinding": "0",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_csgo",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_voiceComm_csgo",
+                "actionName": "Use Voice Communication",
+                "defaultBinding": "K",
+                "userBinding": null
+              },
+              {
+                "id": "act_radioStandard_csgo",
+                "actionName": "Standard Radio Messages",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_radioGroup_csgo",
+                "actionName": "Group Radio Messages",
+                "defaultBinding": "X",
+                "userBinding": null
+              },
+              {
+                "id": "act_radioReport_csgo",
+                "actionName": "Report Radio Messages",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_chatAll_csgo",
+                "actionName": "Chat Message (All)",
+                "defaultBinding": "Y",
+                "userBinding": null
+              },
+              {
+                "id": "act_chatTeam_csgo",
+                "actionName": "Team Message",
+                "defaultBinding": "U",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_buymenu_csgo",
+            "categoryName": "Buy Menu",
+            "actions": [
+              {
+                "id": "act_buyMenu_csgo",
+                "actionName": "Open Buy Menu",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_autoBuy_csgo",
+                "actionName": "Auto Buy",
+                "defaultBinding": "F3",
+                "userBinding": null
+              },
+              {
+                "id": "act_rebuy_csgo",
+                "actionName": "Re-buy Previous",
+                "defaultBinding": "F4",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_interface_csgo",
+            "categoryName": "Interface",
+            "actions": [
+              {
+                "id": "act_scoreboard_csgo",
+                "actionName": "Scoreboard",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_chooseTeam_csgo",
+                "actionName": "Choose Team",
+                "defaultBinding": "M",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["csgo.exe", "cs2.exe"],
+  "gameWindowTitles": ["Counter-Strike 2", "Counter-Strike"],
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
+
