@@ -1,0 +1,408 @@
+{
+  "profileId": "starcraft2_default_v2",
+  "gameName": "StarCraft II",
+  "profileName": "Default Terran Hotkeys",
+  "version": "2.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729195200,
+  "description": "Complete default hotkeys for Terran in StarCraft II (2025).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_sc2terran",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_basicControls_sc2",
+            "categoryName": "Basic Controls",
+            "actions": [
+              {
+                "id": "act_select_sc2",
+                "actionName": "Select / Interact",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_command_sc2",
+                "actionName": "Command / Deselect",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_attack_sc2",
+                "actionName": "Attack",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_stop_sc2",
+                "actionName": "Stop",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_hold_sc2",
+                "actionName": "Hold Position",
+                "defaultBinding": "H",
+                "userBinding": null
+              },
+              {
+                "id": "act_patrol_sc2",
+                "actionName": "Patrol",
+                "defaultBinding": "P",
+                "userBinding": null
+              },
+              {
+                "id": "act_move_sc2",
+                "actionName": "Move",
+                "defaultBinding": "M",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_selection_sc2",
+            "categoryName": "Selection & Control Groups",
+            "actions": [
+              {
+                "id": "act_selectAll_sc2",
+                "actionName": "Select All Army",
+                "defaultBinding": "F2",
+                "userBinding": null
+              },
+              {
+                "id": "act_addToSelection_sc2",
+                "actionName": "Add to Selection",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_createControlGroup_sc2",
+                "actionName": "Create Control Group",
+                "defaultBinding": "LCtrl+0-9",
+                "userBinding": null
+              },
+              {
+                "id": "act_recallControlGroup_sc2",
+                "actionName": "Recall Control Group",
+                "defaultBinding": "0-9",
+                "userBinding": null
+              },
+              {
+                "id": "act_centerOnSelection_sc2",
+                "actionName": "Center on Selection",
+                "defaultBinding": "Space",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_buildings_sc2",
+            "categoryName": "Buildings",
+            "actions": [
+              {
+                "id": "act_commandCenter_sc2",
+                "actionName": "Command Center",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_supplyDepot_sc2",
+                "actionName": "Supply Depot",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_refinery_sc2",
+                "actionName": "Refinery",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_barracks_sc2",
+                "actionName": "Barracks",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_engineeringBay_sc2",
+                "actionName": "Engineering Bay",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_missileTurret_sc2",
+                "actionName": "Missile Turret",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_bunker_sc2",
+                "actionName": "Bunker",
+                "defaultBinding": "U",
+                "userBinding": null
+              },
+              {
+                "id": "act_sensoryTower_sc2",
+                "actionName": "Sensor Tower",
+                "defaultBinding": "N",
+                "userBinding": null
+              },
+              {
+                "id": "act_factory_sc2",
+                "actionName": "Factory",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_starport_sc2",
+                "actionName": "Starport",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_armory_sc2",
+                "actionName": "Armory",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_fusionCore_sc2",
+                "actionName": "Fusion Core",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_ghostAcademy_sc2",
+                "actionName": "Ghost Academy",
+                "defaultBinding": "G",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_units_sc2",
+            "categoryName": "Unit Production",
+            "actions": [
+              {
+                "id": "act_scv_sc2",
+                "actionName": "Train SCV",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_marine_sc2",
+                "actionName": "Train Marine",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_marauder_sc2",
+                "actionName": "Train Marauder",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_reaper_sc2",
+                "actionName": "Train Reaper",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_ghost_sc2",
+                "actionName": "Train Ghost",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_hellion_sc2",
+                "actionName": "Train Hellion",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_siegeTank_sc2",
+                "actionName": "Train Siege Tank",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_thor_sc2",
+                "actionName": "Train Thor",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_viking_sc2",
+                "actionName": "Train Viking",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_medivac_sc2",
+                "actionName": "Train Medivac",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_banshee_sc2",
+                "actionName": "Train Banshee",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_raven_sc2",
+                "actionName": "Train Raven",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_battlecruiser_sc2",
+                "actionName": "Train Battlecruiser",
+                "defaultBinding": "B",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_abilities_sc2",
+            "categoryName": "Unit Abilities",
+            "actions": [
+              {
+                "id": "act_stimpack_sc2",
+                "actionName": "Stimpack",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_concussiveShells_sc2",
+                "actionName": "Concussive Shells",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_siegeMode_sc2",
+                "actionName": "Siege Mode",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_unsiegeMode_sc2",
+                "actionName": "Unsiege Mode",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_transformMode_sc2",
+                "actionName": "Transform (Viking)",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_cloakField_sc2",
+                "actionName": "Cloak",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_scan_sc2",
+                "actionName": "Scanner Sweep",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_mule_sc2",
+                "actionName": "Calldown: MULE",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_supplyDrop_sc2",
+                "actionName": "Calldown: Extra Supplies",
+                "defaultBinding": "C",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_camera_sc2",
+            "categoryName": "Camera & Interface",
+            "actions": [
+              {
+                "id": "act_panCamera_sc2",
+                "actionName": "Pan Camera",
+                "defaultBinding": "Arrow Keys",
+                "userBinding": null
+              },
+              {
+                "id": "act_createLocation_sc2",
+                "actionName": "Create Camera Location",
+                "defaultBinding": "LCtrl+F5-F8",
+                "userBinding": null
+              },
+              {
+                "id": "act_jumpLocation_sc2",
+                "actionName": "Jump to Camera Location",
+                "defaultBinding": "F5-F8",
+                "userBinding": null
+              },
+              {
+                "id": "act_baseCamera_sc2",
+                "actionName": "Base Camera",
+                "defaultBinding": "Backspace",
+                "userBinding": null
+              },
+              {
+                "id": "act_idleWorker_sc2",
+                "actionName": "Select Idle Worker",
+                "defaultBinding": "F1",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_ui_sc2",
+            "categoryName": "Game Interface",
+            "actions": [
+              {
+                "id": "act_gameMenu_sc2",
+                "actionName": "Game Menu",
+                "defaultBinding": "F10",
+                "userBinding": null
+              },
+              {
+                "id": "act_chat_sc2",
+                "actionName": "Send Chat Message",
+                "defaultBinding": "Enter",
+                "userBinding": null
+              },
+              {
+                "id": "act_allyChat_sc2",
+                "actionName": "Send Ally Chat",
+                "defaultBinding": "LShift+Enter",
+                "userBinding": null
+              },
+              {
+                "id": "act_minimap_sc2",
+                "actionName": "Minimap Commands",
+                "defaultBinding": "LMB on Minimap",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["SC2_x64.exe", "SC2.exe"],
+  "gameWindowTitles": ["StarCraft II"],
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
+

@@ -1,0 +1,185 @@
+{
+  "profileId": "diablo4_default_v2",
+  "gameName": "Diablo IV",
+  "profileName": "Default Diablo IV Controls",
+  "version": "2.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729195200,
+  "description": "Complete default keybindings for Diablo IV (2025).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_diablo4",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_combat_diablo4",
+            "categoryName": "Combat & Skills",
+            "actions": [
+              {
+                "id": "act_basicSkill_diablo4",
+                "actionName": "Move / Interact / Basic Skill",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_coreSkill_diablo4",
+                "actionName": "Core Skill",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_skill1_diablo4",
+                "actionName": "Skill Slot 1",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_skill2_diablo4",
+                "actionName": "Skill Slot 2",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_skill3_diablo4",
+                "actionName": "Skill Slot 3",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "act_skill4_diablo4",
+                "actionName": "Skill Slot 4",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_usePotion_diablo4",
+                "actionName": "Use Potion",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_evade_diablo4",
+                "actionName": "Evade",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_holdPosition_diablo4",
+                "actionName": "Hold Position",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_interface_diablo4",
+            "categoryName": "Interface",
+            "actions": [
+              {
+                "id": "act_characterPanel_diablo4",
+                "actionName": "Character Panel",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_skillTree_diablo4",
+                "actionName": "Skill Tree Panel",
+                "defaultBinding": "LShift+S",
+                "userBinding": null
+              },
+              {
+                "id": "act_mapPanel_diablo4",
+                "actionName": "Map Panel",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_journal_diablo4",
+                "actionName": "Journal Panel",
+                "defaultBinding": "J",
+                "userBinding": null
+              },
+              {
+                "id": "act_abilities_diablo4",
+                "actionName": "Abilities Panel",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_actionWheel_diablo4",
+                "actionName": "Action Wheel",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_showItemLabels_diablo4",
+                "actionName": "Show Item Labels",
+                "defaultBinding": "LAlt",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_world_diablo4",
+            "categoryName": "World & Travel",
+            "actions": [
+              {
+                "id": "act_townPortal_diablo4",
+                "actionName": "Town Portal",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_mount_diablo4",
+                "actionName": "Mount",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_spurMount_diablo4",
+                "actionName": "Spur Mount",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_mountDismount_diablo4",
+                "actionName": "Mount Dismount",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_mountCombatDismount_diablo4",
+                "actionName": "Mount Combat Dismount",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_fastQuestTrack_diablo4",
+                "actionName": "Fast Quest Track",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_forceInteract_diablo4",
+                "actionName": "Force Interact",
+                "defaultBinding": "F",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["Diablo IV.exe"],
+  "gameWindowTitles": ["Diablo IV"],
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
