@@ -1,0 +1,113 @@
+{
+  "profileId": "marvelrivals_default_v1",
+  "gameName": "Marvel Rivals",
+  "profileName": "Marvel Rivals",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729476000,
+  "description": "Complete default keybindings for Marvel Rivals (2025) - Hero shooter mechanics.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_marvelrivals",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_marvelrivals",
+            "categoryName": "Movement & Basic Controls",
+            "actions": [
+              {"id": "act_moveForward_marvelrivals", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_moveBackward_marvelrivals", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_strafeLeft_marvelrivals", "actionName": "Strafe Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_strafeRight_marvelrivals", "actionName": "Strafe Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_jump_marvelrivals", "actionName": "Jump", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_sprint_marvelrivals", "actionName": "Sprint", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_crouch_marvelrivals", "actionName": "Crouch", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_look_marvelrivals", "actionName": "Look Around", "defaultBinding": "Mouse", "userBinding": null},
+              {"id": "act_primaryFire_marvelrivals", "actionName": "Primary Fire", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_secondaryFire_marvelrivals", "actionName": "Secondary Fire", "defaultBinding": "RMB", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_heroAbilities_marvelrivals",
+            "categoryName": "Hero Abilities",
+            "actions": [
+              {"id": "act_ability1_marvelrivals", "actionName": "Ability 1", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_ability2_marvelrivals", "actionName": "Ability 2", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_mobilityAbility_marvelrivals", "actionName": "Mobility Ability", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_ultimate_marvelrivals", "actionName": "Ultimate Ability", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_reload_marvelrivals", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_melee_marvelrivals", "actionName": "Melee Attack", "defaultBinding": "V", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_marvelrivals",
+            "categoryName": "Communication",
+            "actions": [
+              {"id": "act_chat_marvelrivals", "actionName": "Chat", "defaultBinding": "Enter", "userBinding": null},
+              {"id": "act_teamChat_marvelrivals", "actionName": "Team Chat", "defaultBinding": "T", "userBinding": null},
+              {"id": "act_voiceChat_marvelrivals", "actionName": "Voice Chat", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_commsWheel_marvelrivals", "actionName": "Communications Wheel", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_ping_marvelrivals", "actionName": "Ping", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_heroStatus_marvelrivals", "actionName": "Hero Status", "defaultBinding": "Z", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_interface_marvelrivals",
+            "categoryName": "Interface & System",
+            "actions": [
+              {"id": "act_scoreboard_marvelrivals", "actionName": "Scoreboard", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_heroInfo_marvelrivals", "actionName": "Hero Information", "defaultBinding": "H", "userBinding": null},
+              {"id": "act_map_marvelrivals", "actionName": "Map", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_menu_marvelrivals", "actionName": "Menu", "defaultBinding": "Escape", "userBinding": null},
+              {"id": "act_help_marvelrivals", "actionName": "Help", "defaultBinding": "F1", "userBinding": null},
+              {"id": "act_screenshot_marvelrivals", "actionName": "Screenshot", "defaultBinding": "F12", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_marvelrivals",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerMovement_marvelrivals",
+            "categoryName": "Movement & Aim",
+            "actions": [
+              {"id": "act_controllerMove_marvelrivals", "actionName": "Move", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerAim_marvelrivals", "actionName": "Aim/Look", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerJump_marvelrivals", "actionName": "Jump", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerCrouch_marvelrivals", "actionName": "Crouch", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerSprint_marvelrivals", "actionName": "Sprint", "defaultBinding": "Left Stick Click", "userBinding": null},
+              {"id": "act_controllerReload_marvelrivals", "actionName": "Reload", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerMelee_marvelrivals", "actionName": "Melee", "defaultBinding": "Right Stick Click", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerAbilities_marvelrivals",
+            "categoryName": "Abilities & Combat",
+            "actions": [
+              {"id": "act_controllerPrimaryFire_marvelrivals", "actionName": "Primary Fire", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerSecondaryFire_marvelrivals", "actionName": "Secondary Fire", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerAbility1_marvelrivals", "actionName": "Ability 1", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerAbility2_marvelrivals", "actionName": "Ability 2", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerUltimate_marvelrivals", "actionName": "Ultimate", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerComms_marvelrivals", "actionName": "Communications", "defaultBinding": "D-Pad", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["MarvelRivals.exe", "Marvel_Rivals.exe", "MarvelRivals-Win64-Shipping.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}

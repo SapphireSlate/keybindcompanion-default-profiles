@@ -96,5 +96,19 @@
     "gameName": "Rust",
     "profileDisplayName": "Default Rust Controls",
     "lastUpdated": "2025-10-21T01:00:00Z"
+  },
+  "marvelrivals_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/marvel-rivals-default-v1.0.0.json",
+    "gameName": "Marvel Rivals",
+    "profileDisplayName": "Default Marvel Rivals Controls",
+    "lastUpdated": "2025-10-21T02:00:00Z"
+  },
+  "deadbydaylight_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/dead-by-daylight-default-v1.0.0.json",
+    "gameName": "Dead by Daylight",
+    "profileDisplayName": "Default Dead by Daylight Controls",
+    "lastUpdated": "2025-10-21T02:30:00Z"
   }
 } 

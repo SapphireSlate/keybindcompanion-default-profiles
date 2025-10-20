@@ -1,0 +1,122 @@
+{
+  "profileId": "deadbydaylight_default_v1",
+  "gameName": "Dead by Daylight",
+  "profileName": "Dead by Daylight",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729479600,
+  "description": "Complete default keybindings for Dead by Daylight (2025) - Asymmetric horror.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_dbd",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_survivorMovement_dbd",
+            "categoryName": "Survivor - Movement",
+            "actions": [
+              {"id": "act_survivorForward_dbd", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_survivorBackward_dbd", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_survivorLeft_dbd", "actionName": "Move Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_survivorRight_dbd", "actionName": "Move Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_survivorRun_dbd", "actionName": "Run", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_survivorCrouch_dbd", "actionName": "Crouch", "defaultBinding": "LCtrl", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_survivorInteractions_dbd",
+            "categoryName": "Survivor - Interactions",
+            "actions": [
+              {"id": "act_survivorUseItem_dbd", "actionName": "Use Item", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_survivorDropItem_dbd", "actionName": "Drop Item", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_survivorPickUp_dbd", "actionName": "Pick Up Item / Interact", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_survivorAction_dbd", "actionName": "Action / Skill Check", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_survivorAbility1_dbd", "actionName": "Activate Ability 1", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_survivorAbility2_dbd", "actionName": "Activate Ability 2", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_survivorEventAbility_dbd", "actionName": "Activate Event Ability", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_survivorPointAt_dbd", "actionName": "Point At", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_survivorFollowMe_dbd", "actionName": "Follow Me / Come Here", "defaultBinding": "2", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_killerControls_dbd",
+            "categoryName": "Killer - Controls",
+            "actions": [
+              {"id": "act_killerForward_dbd", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_killerBackward_dbd", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_killerLeft_dbd", "actionName": "Move Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_killerRight_dbd", "actionName": "Move Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_killerAttack_dbd", "actionName": "Attack", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_killerUsePower_dbd", "actionName": "Use Power", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_killerSecondaryPower_dbd", "actionName": "Secondary Power", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_killerEventAbility_dbd", "actionName": "Activate Event Ability", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_killerDropSurvivor_dbd", "actionName": "Drop Survivor", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_killerPickUpSurvivor_dbd", "actionName": "Pick Up Survivor", "defaultBinding": "Space", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_interface_dbd",
+            "categoryName": "Interface & System",
+            "actions": [
+              {"id": "act_scoreboard_dbd", "actionName": "Scoreboard", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_map_dbd", "actionName": "Map", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_menu_dbd", "actionName": "Menu", "defaultBinding": "Escape", "userBinding": null},
+              {"id": "act_screenshot_dbd", "actionName": "Screenshot", "defaultBinding": "F12", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_dbd",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerSurvivor_dbd",
+            "categoryName": "Survivor - Controller",
+            "actions": [
+              {"id": "act_controllerSurvivorMove_dbd", "actionName": "Move", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerSurvivorLook_dbd", "actionName": "Look / Aim", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerSurvivorRun_dbd", "actionName": "Run", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerSurvivorCrouch_dbd", "actionName": "Crouch", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerSurvivorUseItem_dbd", "actionName": "Use Item", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerSurvivorDropItem_dbd", "actionName": "Drop Item", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerSurvivorPickUp_dbd", "actionName": "Pick Up / Interact", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerSurvivorAction_dbd", "actionName": "Action / Skill Check", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerSurvivorAbility1_dbd", "actionName": "Activate Ability 1", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerSurvivorAbility2_dbd", "actionName": "Activate Ability 2", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerSurvivorEventAbility_dbd", "actionName": "Activate Event Ability", "defaultBinding": "R/R3", "userBinding": null},
+              {"id": "act_controllerSurvivorPointAt_dbd", "actionName": "Point At", "defaultBinding": "D-Pad Up", "userBinding": null},
+              {"id": "act_controllerSurvivorFollowMe_dbd", "actionName": "Follow Me", "defaultBinding": "D-Pad Down", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerKiller_dbd",
+            "categoryName": "Killer - Controller",
+            "actions": [
+              {"id": "act_controllerKillerMove_dbd", "actionName": "Move", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerKillerLook_dbd", "actionName": "Look / Aim", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerKillerAttack_dbd", "actionName": "Attack", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerKillerUsePower_dbd", "actionName": "Use Power", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerKillerSecondaryPower_dbd", "actionName": "Secondary Power", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerKillerEventAbility_dbd", "actionName": "Activate Event Ability", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerKillerDropSurvivor_dbd", "actionName": "Drop Survivor", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerKillerPickUpSurvivor_dbd", "actionName": "Pick Up Survivor", "defaultBinding": "RB/R1", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["DeadByDaylight.exe", "DeadByDaylight-Win64-Shipping.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
