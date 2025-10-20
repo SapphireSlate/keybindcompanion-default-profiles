@@ -1,0 +1,251 @@
+{
+  "profileId": "arcraiders_default_v1",
+  "gameName": "ARC Raiders",
+  "profileName": "ARC Raiders",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729468800,
+  "description": "Complete default keybindings for ARC Raiders (2025).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_arcraiders",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_arcraiders",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_moveForward_arcraiders",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveBackward_arcraiders",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_arcraiders",
+                "actionName": "Move Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_arcraiders",
+                "actionName": "Move Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_jump_arcraiders",
+                "actionName": "Jump / Vault",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_sprint_arcraiders",
+                "actionName": "Sprint (Hold)",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouchHold_arcraiders",
+                "actionName": "Crouch (Hold)",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouchToggle_arcraiders",
+                "actionName": "Crouch (Toggle)",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_dodgeRoll_arcraiders",
+                "actionName": "Dodge Roll",
+                "defaultBinding": "LAlt",
+                "userBinding": null
+              },
+              {
+                "id": "act_walkToggle_arcraiders",
+                "actionName": "Walk (Toggle)",
+                "defaultBinding": "V",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_combat_arcraiders",
+            "categoryName": "Combat",
+            "actions": [
+              {
+                "id": "act_primaryWeapon_arcraiders",
+                "actionName": "Primary Weapon",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_secondaryWeapon_arcraiders",
+                "actionName": "Secondary Weapon",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_meleeWeapon_arcraiders",
+                "actionName": "Melee Weapon",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_unarmed_arcraiders",
+                "actionName": "Unarmed",
+                "defaultBinding": "5",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickEquip_arcraiders",
+                "actionName": "Quick Equip Items",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_fire_arcraiders",
+                "actionName": "Fire / Throw / Deploy",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_aim_arcraiders",
+                "actionName": "Aim",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_reload_arcraiders",
+                "actionName": "Reload Weapon",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_swapShoulder_arcraiders",
+                "actionName": "Swap Shoulder",
+                "defaultBinding": "X",
+                "userBinding": null
+              },
+              {
+                "id": "act_cycleEquipment_arcraiders",
+                "actionName": "Cycle Equipment",
+                "defaultBinding": "MWheel",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_arcraiders",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_ping_arcraiders",
+                "actionName": "Ping",
+                "defaultBinding": "MWheel Click",
+                "userBinding": null
+              },
+              {
+                "id": "act_pingWheel_arcraiders",
+                "actionName": "Ping Wheel (Hold)",
+                "defaultBinding": "MWheel Click",
+                "userBinding": null
+              },
+              {
+                "id": "act_emoteWheel_arcraiders",
+                "actionName": "Emote Wheel (Hold)",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_pushToTalk_arcraiders",
+                "actionName": "Push to Talk",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_proximityChat_arcraiders",
+                "actionName": "Push to Talk (Proximity)",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleGlobalPing_arcraiders",
+                "actionName": "Toggle Global Ping",
+                "defaultBinding": "K",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_general_arcraiders",
+            "categoryName": "General",
+            "actions": [
+              {
+                "id": "act_interact_arcraiders",
+                "actionName": "Interact",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_flashlight_arcraiders",
+                "actionName": "Flashlight (Toggle)",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_inventory_arcraiders",
+                "actionName": "Inventory",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_map_arcraiders",
+                "actionName": "Map",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "act_controls_arcraiders",
+                "actionName": "Controls (Hold)",
+                "defaultBinding": "H",
+                "userBinding": null
+              },
+              {
+                "id": "act_gameMenu_arcraiders",
+                "actionName": "Game Menu",
+                "defaultBinding": "Escape",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleHUD_arcraiders",
+                "actionName": "Toggle HUD",
+                "defaultBinding": "F12",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["ArcRaiders.exe", "ARC_Raiders.exe", "ArcRaiders-Win64-Shipping.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
