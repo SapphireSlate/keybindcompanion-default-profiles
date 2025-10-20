@@ -40,5 +40,33 @@
     "gameName": "Minecraft",
     "profileDisplayName": "Default Minecraft Controls",
     "lastUpdated": "2025-10-20T12:00:00Z"
+  },
+  "apexlegends_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/apex-legends-default-v1.0.0.json",
+    "gameName": "Apex Legends",
+    "profileDisplayName": "Default Apex Legends Controls",
+    "lastUpdated": "2025-10-20T14:00:00Z"
+  },
+  "r6siege_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/rainbow-six-siege-default-v1.0.0.json",
+    "gameName": "Rainbow Six Siege",
+    "profileDisplayName": "Default Rainbow Six Siege Controls",
+    "lastUpdated": "2025-10-20T16:00:00Z"
+  },
+  "eft_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/escape-from-tarkov-default-v1.0.0.json",
+    "gameName": "Escape From Tarkov",
+    "profileDisplayName": "Default Escape From Tarkov Controls",
+    "lastUpdated": "2025-10-20T18:00:00Z"
+  },
+  "pubg_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/pubg-default-v1.0.0.json",
+    "gameName": "PUBG: BATTLEGROUNDS",
+    "profileDisplayName": "Default PUBG: BATTLEGROUNDS Controls",
+    "lastUpdated": "2025-10-20T20:00:00Z"
   }
 } 

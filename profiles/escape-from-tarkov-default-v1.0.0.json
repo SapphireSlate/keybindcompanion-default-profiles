@@ -1,0 +1,438 @@
+{
+  "profileId": "eft_default_v1",
+  "gameName": "Escape From Tarkov",
+  "profileName": "Escape From Tarkov",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729468800,
+  "description": "Complete default keybindings for Escape From Tarkov (2025).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_eft",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_eft",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_moveForward_eft",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveBackward_eft",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_eft",
+                "actionName": "Move Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_eft",
+                "actionName": "Move Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_jump_eft",
+                "actionName": "Jump",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_sprint_eft",
+                "actionName": "Sprint",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouch_eft",
+                "actionName": "Crouch",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_prone_eft",
+                "actionName": "Prone",
+                "defaultBinding": "X",
+                "userBinding": null
+              },
+              {
+                "id": "act_leanLeft_eft",
+                "actionName": "Lean Left",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_leanRight_eft",
+                "actionName": "Lean Right",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleWalk_eft",
+                "actionName": "Toggle Walk/Run",
+                "defaultBinding": "CapsLock",
+                "userBinding": null
+              },
+              {
+                "id": "act_adjustSpeed_eft",
+                "actionName": "Adjust Movement Speed",
+                "defaultBinding": "MWheelUp/Down",
+                "userBinding": null
+              },
+              {
+                "id": "act_adjustStance_eft",
+                "actionName": "Adjust Crouch Height",
+                "defaultBinding": "C+MWheel",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_advancedMovement_eft",
+            "categoryName": "Advanced Movement",
+            "actions": [
+              {
+                "id": "act_smoothLeanLeft_eft",
+                "actionName": "Smooth Lean Left",
+                "defaultBinding": "LAlt+A",
+                "userBinding": null
+              },
+              {
+                "id": "act_smoothLeanRight_eft",
+                "actionName": "Smooth Lean Right",
+                "defaultBinding": "LAlt+D",
+                "userBinding": null
+              },
+              {
+                "id": "act_sidestepLeft_eft",
+                "actionName": "Side Step Left",
+                "defaultBinding": "LAlt+Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_sidestepRight_eft",
+                "actionName": "Side Step Right",
+                "defaultBinding": "LAlt+E",
+                "userBinding": null
+              },
+              {
+                "id": "act_blindFireOverhead_eft",
+                "actionName": "Overhead Blind Fire",
+                "defaultBinding": "LAlt+W",
+                "userBinding": null
+              },
+              {
+                "id": "act_blindFireRight_eft",
+                "actionName": "Right Side Blind Fire",
+                "defaultBinding": "LAlt+S",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_combat_eft",
+            "categoryName": "Combat",
+            "actions": [
+              {
+                "id": "act_fireWeapon_eft",
+                "actionName": "Fire Weapon",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_aimDownSights_eft",
+                "actionName": "Aim Down Sights",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_holdBreath_eft",
+                "actionName": "Hold Breath (Steady Aim)",
+                "defaultBinding": "LAlt",
+                "userBinding": null
+              },
+              {
+                "id": "act_switchSights_eft",
+                "actionName": "Switch Between Sights",
+                "defaultBinding": "LCtrl+RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_scopeMagnification_eft",
+                "actionName": "Change Scope Magnification",
+                "defaultBinding": "LAlt+RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_reload_eft",
+                "actionName": "Reload Weapon",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_checkMagazine_eft",
+                "actionName": "Check Magazine",
+                "defaultBinding": "LAlt+R",
+                "userBinding": null
+              },
+              {
+                "id": "act_checkChamber_eft",
+                "actionName": "Check Chamber / Fix Malfunction",
+                "defaultBinding": "LShift+T",
+                "userBinding": null
+              },
+              {
+                "id": "act_changeFireMode_eft",
+                "actionName": "Change Fire Mode",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_checkFireMode_eft",
+                "actionName": "Check Fire Mode",
+                "defaultBinding": "LAlt+B",
+                "userBinding": null
+              },
+              {
+                "id": "act_inspectWeapon_eft",
+                "actionName": "Inspect Weapon",
+                "defaultBinding": "L",
+                "userBinding": null
+              },
+              {
+                "id": "act_foldStock_eft",
+                "actionName": "Fold/Unfold Stock",
+                "defaultBinding": "LAlt+L",
+                "userBinding": null
+              },
+              {
+                "id": "act_melee_eft",
+                "actionName": "Equip Melee Weapon",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_throwGrenade_eft",
+                "actionName": "Throw Grenade",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleTactical_eft",
+                "actionName": "Toggle Tactical Device (Laser/Light)",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_switchTactical_eft",
+                "actionName": "Switch Tactical Device Mode",
+                "defaultBinding": "LCtrl+T",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_tacticalEquipment_eft",
+            "categoryName": "Tactical Equipment",
+            "actions": [
+              {
+                "id": "act_toggleNVG_eft",
+                "actionName": "Toggle NVG / Face Shield",
+                "defaultBinding": "N",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleHelmetLight_eft",
+                "actionName": "Toggle Helmet Light",
+                "defaultBinding": "H",
+                "userBinding": null
+              },
+              {
+                "id": "act_switchHelmetLight_eft",
+                "actionName": "Switch Helmet Light Mode",
+                "defaultBinding": "LCtrl+H",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_quickSlots_eft",
+            "categoryName": "Quick Slots",
+            "actions": [
+              {
+                "id": "act_quickSlot1_eft",
+                "actionName": "Quick Slot 1",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickSlot2_eft",
+                "actionName": "Quick Slot 2",
+                "defaultBinding": "5",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickSlot3_eft",
+                "actionName": "Quick Slot 3",
+                "defaultBinding": "6",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickSlot4_eft",
+                "actionName": "Quick Slot 4",
+                "defaultBinding": "7",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickSlot5_eft",
+                "actionName": "Quick Slot 5",
+                "defaultBinding": "8",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickSlot6_eft",
+                "actionName": "Quick Slot 6",
+                "defaultBinding": "9",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickSlot7_eft",
+                "actionName": "Quick Slot 7",
+                "defaultBinding": "0",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_inventory_eft",
+            "categoryName": "Inventory & Interaction",
+            "actions": [
+              {
+                "id": "act_toggleInventory_eft",
+                "actionName": "Open/Close Inventory",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_interact_eft",
+                "actionName": "Interact (Loot/Doors)",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_discardItem_eft",
+                "actionName": "Discard Item",
+                "defaultBinding": "Delete",
+                "userBinding": null
+              },
+              {
+                "id": "act_equipItem_eft",
+                "actionName": "Equip Item (Quick)",
+                "defaultBinding": "LAlt+LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveToStash_eft",
+                "actionName": "Move to Stash/Container",
+                "defaultBinding": "LCtrl+LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_rotateItem_eft",
+                "actionName": "Rotate Item (While Dragging)",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_dropBackpack_eft",
+                "actionName": "Drop Backpack",
+                "defaultBinding": "Z",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_eft",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_pushToTalk_eft",
+                "actionName": "Push to Talk (VOIP)",
+                "defaultBinding": "K",
+                "userBinding": null
+              },
+              {
+                "id": "act_voiceLine_eft",
+                "actionName": "Use Situational Voice Line",
+                "defaultBinding": "Y",
+                "userBinding": null
+              },
+              {
+                "id": "act_gesturesVoiceLines_eft",
+                "actionName": "Gestures / Voice Lines",
+                "defaultBinding": "F1-F12",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_interface_eft",
+            "categoryName": "Interface",
+            "actions": [
+              {
+                "id": "act_checkTime_eft",
+                "actionName": "Check Time",
+                "defaultBinding": "O",
+                "userBinding": null
+              },
+              {
+                "id": "act_freeLook_eft",
+                "actionName": "Free Look",
+                "defaultBinding": "MMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_menu_eft",
+                "actionName": "Menu / Settings",
+                "defaultBinding": "Escape",
+                "userBinding": null
+              },
+              {
+                "id": "act_console_eft",
+                "actionName": "Toggle Console",
+                "defaultBinding": "`",
+                "userBinding": null
+              },
+              {
+                "id": "act_hideoutIcons_eft",
+                "actionName": "Toggle Hideout Icons",
+                "defaultBinding": "I",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["EscapeFromTarkov.exe", "EscapeFromTarkov_BE.exe", "BSGLauncher.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
+

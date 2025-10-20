@@ -1,0 +1,360 @@
+{
+  "profileId": "r6siege_default_v1",
+  "gameName": "Rainbow Six Siege",
+  "profileName": "Rainbow Six Siege",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729468800,
+  "description": "Complete default keybindings for Rainbow Six Siege (2025).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_r6s",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_r6s",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_moveForward_r6s",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveBackward_r6s",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_r6s",
+                "actionName": "Strafe Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_r6s",
+                "actionName": "Strafe Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_sprint_r6s",
+                "actionName": "Sprint",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_walk_r6s",
+                "actionName": "Walk",
+                "defaultBinding": "LAlt",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouch_r6s",
+                "actionName": "Crouch",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_prone_r6s",
+                "actionName": "Prone",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              },
+              {
+                "id": "act_vault_r6s",
+                "actionName": "Vault / Jump",
+                "defaultBinding": "Space",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_leaning_r6s",
+            "categoryName": "Leaning",
+            "actions": [
+              {
+                "id": "act_leanLeft_r6s",
+                "actionName": "Lean Left",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_leanRight_r6s",
+                "actionName": "Lean Right",
+                "defaultBinding": "E",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_combat_r6s",
+            "categoryName": "Combat",
+            "actions": [
+              {
+                "id": "act_fireWeapon_r6s",
+                "actionName": "Fire Weapon",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_aimDownSights_r6s",
+                "actionName": "Aim Down Sights",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_reload_r6s",
+                "actionName": "Reload",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_melee_r6s",
+                "actionName": "Melee Attack",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_cycleWeaponNext_r6s",
+                "actionName": "Next Weapon",
+                "defaultBinding": "MWheelDown",
+                "userBinding": null
+              },
+              {
+                "id": "act_cycleWeaponPrev_r6s",
+                "actionName": "Previous Weapon",
+                "defaultBinding": "MWheelUp",
+                "userBinding": null
+              },
+              {
+                "id": "act_primaryWeapon_r6s",
+                "actionName": "Equip Primary Weapon",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_secondaryWeapon_r6s",
+                "actionName": "Equip Secondary Weapon",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_gadgetSlot_r6s",
+                "actionName": "Equip Gadget",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "act_utilitySlot_r6s",
+                "actionName": "Equip Utility",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleFireMode_r6s",
+                "actionName": "Toggle Fire Mode",
+                "defaultBinding": "B",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_gadgets_r6s",
+            "categoryName": "Gadgets & Equipment",
+            "actions": [
+              {
+                "id": "act_useGadget_r6s",
+                "actionName": "Use Gadget",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_uniqueAbility_r6s",
+                "actionName": "Use Unique Ability",
+                "defaultBinding": "MMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_interact_r6s",
+                "actionName": "Interact (Barricade/Reinforce/Defuse)",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_throwDrone_r6s",
+                "actionName": "Throw Drone",
+                "defaultBinding": "6",
+                "userBinding": null
+              },
+              {
+                "id": "act_deploySecondary_r6s",
+                "actionName": "Deploy Secondary Gadget",
+                "defaultBinding": "7",
+                "userBinding": null
+              },
+              {
+                "id": "act_throwC4_r6s",
+                "actionName": "Throw C4/Breach Charge",
+                "defaultBinding": "8",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_observation_r6s",
+            "categoryName": "Observation & Drones",
+            "actions": [
+              {
+                "id": "act_observationTool_r6s",
+                "actionName": "Observation Tool (Cameras)",
+                "defaultBinding": "5",
+                "userBinding": null
+              },
+              {
+                "id": "act_ping_r6s",
+                "actionName": "Ping",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_scan_r6s",
+                "actionName": "Scan (Yellow Ping)",
+                "defaultBinding": "X",
+                "userBinding": null
+              },
+              {
+                "id": "act_droneJump_r6s",
+                "actionName": "Drone Jump",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_switchCamera_r6s",
+                "actionName": "Switch Camera",
+                "defaultBinding": "1-9",
+                "userBinding": null
+              },
+              {
+                "id": "act_exitCamera_r6s",
+                "actionName": "Exit Camera/Drone",
+                "defaultBinding": "Escape",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_r6s",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_pushToTalk_r6s",
+                "actionName": "Push to Talk",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_teamChat_r6s",
+                "actionName": "Team Text Chat",
+                "defaultBinding": "Y",
+                "userBinding": null
+              },
+              {
+                "id": "act_allChat_r6s",
+                "actionName": "All Text Chat",
+                "defaultBinding": "U",
+                "userBinding": null
+              },
+              {
+                "id": "act_scoreboard_r6s",
+                "actionName": "Scoreboard",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_rappelling_r6s",
+            "categoryName": "Rappelling",
+            "actions": [
+              {
+                "id": "act_rappelAscend_r6s",
+                "actionName": "Rappel Ascend",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_rappelDescend_r6s",
+                "actionName": "Rappel Descend",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              },
+              {
+                "id": "act_rappelDetach_r6s",
+                "actionName": "Rappel Detach",
+                "defaultBinding": "F",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_interface_r6s",
+            "categoryName": "Interface",
+            "actions": [
+              {
+                "id": "act_menu_r6s",
+                "actionName": "Menu / Settings",
+                "defaultBinding": "Escape",
+                "userBinding": null
+              },
+              {
+                "id": "act_map_r6s",
+                "actionName": "Toggle Map",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "act_objectives_r6s",
+                "actionName": "View Objectives",
+                "defaultBinding": "H",
+                "userBinding": null
+              },
+              {
+                "id": "act_operatorInfo_r6s",
+                "actionName": "Operator Info",
+                "defaultBinding": "O",
+                "userBinding": null
+              },
+              {
+                "id": "act_vote1_r6s",
+                "actionName": "Vote Option 1",
+                "defaultBinding": "F1",
+                "userBinding": null
+              },
+              {
+                "id": "act_vote2_r6s",
+                "actionName": "Vote Option 2",
+                "defaultBinding": "F2",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["R6S.exe", "RainbowSix.exe", "RainbowSixGame.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
+

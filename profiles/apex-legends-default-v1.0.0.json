@@ -1,0 +1,324 @@
+{
+  "profileId": "apexlegends_default_v1",
+  "gameName": "Apex Legends",
+  "profileName": "Apex Legends",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729468800,
+  "description": "Complete default keybindings for Apex Legends (2025).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_apex",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_apex",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_moveForward_apex",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveBackward_apex",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_apex",
+                "actionName": "Move Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_apex",
+                "actionName": "Move Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_jump_apex",
+                "actionName": "Jump / Climb",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_sprint_apex",
+                "actionName": "Sprint",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouchToggle_apex",
+                "actionName": "Crouch (Toggle)",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouchHold_apex",
+                "actionName": "Crouch (Hold)",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_combat_apex",
+            "categoryName": "Combat",
+            "actions": [
+              {
+                "id": "act_fireWeapon_apex",
+                "actionName": "Fire Weapon",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_aimDownSights_apex",
+                "actionName": "Aim Down Sights",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_reload_apex",
+                "actionName": "Reload",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_melee_apex",
+                "actionName": "Melee Attack",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_cycleWeaponNext_apex",
+                "actionName": "Cycle Weapon (Next)",
+                "defaultBinding": "MWheelDown",
+                "userBinding": null
+              },
+              {
+                "id": "act_cycleWeaponPrev_apex",
+                "actionName": "Cycle Weapon (Previous)",
+                "defaultBinding": "MWheelUp",
+                "userBinding": null
+              },
+              {
+                "id": "act_equipWeapon1_apex",
+                "actionName": "Equip Weapon 1",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_equipWeapon2_apex",
+                "actionName": "Equip Weapon 2",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_holsterWeapons_apex",
+                "actionName": "Holster Weapons",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "act_equipGrenade_apex",
+                "actionName": "Equip Grenade",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleFireMode_apex",
+                "actionName": "Toggle Fire Mode",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_inspectWeapon_apex",
+                "actionName": "Inspect Weapon",
+                "defaultBinding": "N",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_abilities_apex",
+            "categoryName": "Legend Abilities",
+            "actions": [
+              {
+                "id": "act_tacticalAbility_apex",
+                "actionName": "Tactical Ability",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_ultimateAbility_apex",
+                "actionName": "Ultimate Ability",
+                "defaultBinding": "Z",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_inventory_apex",
+            "categoryName": "Inventory & Items",
+            "actions": [
+              {
+                "id": "act_interact_apex",
+                "actionName": "Interact / Pickup",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_alternateInteract_apex",
+                "actionName": "Alternate Interact",
+                "defaultBinding": "X",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleInventory_apex",
+                "actionName": "Toggle Inventory",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_useHealthItem_apex",
+                "actionName": "Use Selected Health Item",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_useShieldItem_apex",
+                "actionName": "Use Selected Shield Item",
+                "defaultBinding": "5",
+                "userBinding": null
+              },
+              {
+                "id": "act_dropItem_apex",
+                "actionName": "Drop Item",
+                "defaultBinding": "I",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleAttachments_apex",
+                "actionName": "Toggle Weapon Attachments",
+                "defaultBinding": "LAlt",
+                "userBinding": null
+              },
+              {
+                "id": "act_pingInventory_apex",
+                "actionName": "Ping (In Inventory)",
+                "defaultBinding": "MMB",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_apex",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_ping_apex",
+                "actionName": "Ping / Context Ping",
+                "defaultBinding": "MMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_pingEnemy_apex",
+                "actionName": "Ping Enemy Here",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_pushToTalk_apex",
+                "actionName": "Push to Talk (Hold)",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_textChat_apex",
+                "actionName": "Text Chat",
+                "defaultBinding": "Enter",
+                "userBinding": null
+              },
+              {
+                "id": "act_thankYou_apex",
+                "actionName": "Thank You / Acknowledge",
+                "defaultBinding": "H",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleVoice_apex",
+                "actionName": "Toggle Team Voice Chat",
+                "defaultBinding": "Y",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_interface_apex",
+            "categoryName": "Interface",
+            "actions": [
+              {
+                "id": "act_toggleMap_apex",
+                "actionName": "Toggle Map",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "act_scoreboard_apex",
+                "actionName": "Scoreboard (Hold Tab)",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_menu_apex",
+                "actionName": "Menu / Settings",
+                "defaultBinding": "Escape",
+                "userBinding": null
+              },
+              {
+                "id": "act_inventoryScreen_apex",
+                "actionName": "Inventory Screen",
+                "defaultBinding": "I",
+                "userBinding": null
+              },
+              {
+                "id": "act_squadSummary_apex",
+                "actionName": "Squad Summary",
+                "defaultBinding": "U",
+                "userBinding": null
+              },
+              {
+                "id": "act_clubsSocial_apex",
+                "actionName": "Clubs / Social",
+                "defaultBinding": "O",
+                "userBinding": null
+              },
+              {
+                "id": "act_legendSelect_apex",
+                "actionName": "Legend Selection",
+                "defaultBinding": "F1",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["r5apex.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
+

@@ -1,0 +1,366 @@
+{
+  "profileId": "pubg_default_v1",
+  "gameName": "PUBG: BATTLEGROUNDS",
+  "profileName": "PUBG: BATTLEGROUNDS",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729468800,
+  "description": "Complete default keybindings for PUBG: BATTLEGROUNDS (2025).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_pubg",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_pubg",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_moveForward_pubg",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveBackward_pubg",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_pubg",
+                "actionName": "Move Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_pubg",
+                "actionName": "Move Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_jump_pubg",
+                "actionName": "Jump / Vault",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_sprint_pubg",
+                "actionName": "Sprint",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_walk_pubg",
+                "actionName": "Walk",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouch_pubg",
+                "actionName": "Crouch",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_prone_pubg",
+                "actionName": "Prone",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_autoRun_pubg",
+                "actionName": "Auto Run",
+                "defaultBinding": "=",
+                "userBinding": null
+              },
+              {
+                "id": "act_freeLook_pubg",
+                "actionName": "Free Look",
+                "defaultBinding": "LAlt",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_combat_pubg",
+            "categoryName": "Combat",
+            "actions": [
+              {
+                "id": "act_fireWeapon_pubg",
+                "actionName": "Fire Weapon",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_aimDownSights_pubg",
+                "actionName": "Aim Down Sights",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_reload_pubg",
+                "actionName": "Reload",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_changeFireMode_pubg",
+                "actionName": "Change Fire Mode",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_leanLeft_pubg",
+                "actionName": "Lean Left",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_leanRight_pubg",
+                "actionName": "Lean Right",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_primaryWeapon1_pubg",
+                "actionName": "Equip Primary Weapon 1",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_primaryWeapon2_pubg",
+                "actionName": "Equip Primary Weapon 2",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_sidearm_pubg",
+                "actionName": "Equip Sidearm",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "act_melee_pubg",
+                "actionName": "Equip Melee Weapon",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_throwables_pubg",
+                "actionName": "Equip Throwables",
+                "defaultBinding": "5",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleCamera_pubg",
+                "actionName": "Toggle Camera (1st/3rd Person)",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_reloadAll_pubg",
+                "actionName": "Reload All Weapons",
+                "defaultBinding": "X",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_medical_pubg",
+            "categoryName": "Medical & Consumables",
+            "actions": [
+              {
+                "id": "act_medKit_pubg",
+                "actionName": "Use Med Kit",
+                "defaultBinding": "7",
+                "userBinding": null
+              },
+              {
+                "id": "act_firstAid_pubg",
+                "actionName": "Use First Aid Kit",
+                "defaultBinding": "8",
+                "userBinding": null
+              },
+              {
+                "id": "act_bandage_pubg",
+                "actionName": "Use Bandage",
+                "defaultBinding": "9",
+                "userBinding": null
+              },
+              {
+                "id": "act_boostItem_pubg",
+                "actionName": "Use Boost Item",
+                "defaultBinding": "0",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_inventory_pubg",
+            "categoryName": "Inventory & Interaction",
+            "actions": [
+              {
+                "id": "act_toggleInventory_pubg",
+                "actionName": "Toggle Inventory",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_inventoryAlt_pubg",
+                "actionName": "Inventory (Alternate)",
+                "defaultBinding": "I",
+                "userBinding": null
+              },
+              {
+                "id": "act_interact_pubg",
+                "actionName": "Interact / Pickup",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_dropItem_pubg",
+                "actionName": "Drop Item",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_markPosition_pubg",
+                "actionName": "Mark Current Position",
+                "defaultBinding": "Insert",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_vehicles_pubg",
+            "categoryName": "Vehicles",
+            "actions": [
+              {
+                "id": "act_vehicleAccelerate_pubg",
+                "actionName": "Accelerate",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleBrake_pubg",
+                "actionName": "Brake / Reverse",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleSteerLeft_pubg",
+                "actionName": "Steer Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleSteerRight_pubg",
+                "actionName": "Steer Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleHandbrake_pubg",
+                "actionName": "Handbrake",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleBoost_pubg",
+                "actionName": "Vehicle Boost",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleHorn_pubg",
+                "actionName": "Horn",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_switchSeats_pubg",
+                "actionName": "Switch Seats",
+                "defaultBinding": "LCtrl+1-6",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_pubg",
+            "categoryName": "Map & Communication",
+            "actions": [
+              {
+                "id": "act_toggleMap_pubg",
+                "actionName": "Toggle Map",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "act_placeMarker_pubg",
+                "actionName": "Place Marker (On Map)",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleVoice_pubg",
+                "actionName": "Toggle Voice Chat",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_pushToTalk_pubg",
+                "actionName": "Push to Talk",
+                "defaultBinding": "CapsLock",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_interface_pubg",
+            "categoryName": "Interface",
+            "actions": [
+              {
+                "id": "act_menu_pubg",
+                "actionName": "Menu / Settings",
+                "defaultBinding": "Escape",
+                "userBinding": null
+              },
+              {
+                "id": "act_scoreboard_pubg",
+                "actionName": "Scoreboard (Hold Tab)",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleUI_pubg",
+                "actionName": "Toggle UI",
+                "defaultBinding": "U",
+                "userBinding": null
+              },
+              {
+                "id": "act_console_pubg",
+                "actionName": "Toggle Console",
+                "defaultBinding": "`",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["TslGame.exe", "TslGame_BE.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
+
