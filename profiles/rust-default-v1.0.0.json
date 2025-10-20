@@ -1,0 +1,521 @@
+{
+  "profileId": "rust_default_v1",
+  "gameName": "Rust",
+  "profileName": "Rust",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729472400,
+  "description": "Complete default keybindings for Rust (2025) - Survival mechanics.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_rust",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_rust",
+            "categoryName": "Movement & Basic Controls",
+            "actions": [
+              {
+                "id": "act_moveForward_rust",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveBackward_rust",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_rust",
+                "actionName": "Strafe Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_rust",
+                "actionName": "Strafe Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_jump_rust",
+                "actionName": "Jump",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_sprint_rust",
+                "actionName": "Sprint",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouch_rust",
+                "actionName": "Crouch",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              },
+              {
+                "id": "act_prone_rust",
+                "actionName": "Prone",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_walk_rust",
+                "actionName": "Walk",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_look_rust",
+                "actionName": "Look Around",
+                "defaultBinding": "Mouse",
+                "userBinding": null
+              },
+              {
+                "id": "act_primaryAction_rust",
+                "actionName": "Primary Action",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_secondaryAction_rust",
+                "actionName": "Secondary Action",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_combat_rust",
+            "categoryName": "Combat & Weapons",
+            "actions": [
+              {
+                "id": "act_fireWeapon_rust",
+                "actionName": "Fire Weapon",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_aimDownSights_rust",
+                "actionName": "Aim Down Sights",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_reload_rust",
+                "actionName": "Reload",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_weaponInspect_rust",
+                "actionName": "Weapon Inspect",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar1_rust",
+                "actionName": "Hotbar Slot 1",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar2_rust",
+                "actionName": "Hotbar Slot 2",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar3_rust",
+                "actionName": "Hotbar Slot 3",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar4_rust",
+                "actionName": "Hotbar Slot 4",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar5_rust",
+                "actionName": "Hotbar Slot 5",
+                "defaultBinding": "5",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar6_rust",
+                "actionName": "Hotbar Slot 6",
+                "defaultBinding": "6",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar7_rust",
+                "actionName": "Hotbar Slot 7",
+                "defaultBinding": "7",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar8_rust",
+                "actionName": "Hotbar Slot 8",
+                "defaultBinding": "8",
+                "userBinding": null
+              },
+              {
+                "id": "act_useItem_rust",
+                "actionName": "Use Item",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_throwItem_rust",
+                "actionName": "Throw Item",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_dropItem_rust",
+                "actionName": "Drop Item",
+                "defaultBinding": "X",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_building_rust",
+            "categoryName": "Building & Construction",
+            "actions": [
+              {
+                "id": "act_buildingPlan_rust",
+                "actionName": "Building Plan",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_placeBuilding_rust",
+                "actionName": "Place Building",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_rotateBuilding_rust",
+                "actionName": "Rotate Building",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_demolishBuilding_rust",
+                "actionName": "Demolish Building",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_changeMaterial_rust",
+                "actionName": "Change Building Material",
+                "defaultBinding": "MWheel",
+                "userBinding": null
+              },
+              {
+                "id": "act_buildingMode_rust",
+                "actionName": "Building Mode",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_upgradeBuilding_rust",
+                "actionName": "Upgrade Building",
+                "defaultBinding": "U",
+                "userBinding": null
+              },
+              {
+                "id": "act_repairBuilding_rust",
+                "actionName": "Repair Building",
+                "defaultBinding": "H",
+                "userBinding": null
+              },
+              {
+                "id": "act_doorControls_rust",
+                "actionName": "Door Controls",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_lockControls_rust",
+                "actionName": "Lock Controls",
+                "defaultBinding": "L",
+                "userBinding": null
+              },
+              {
+                "id": "act_foundation_rust",
+                "actionName": "Foundation",
+                "defaultBinding": "F1",
+                "userBinding": null
+              },
+              {
+                "id": "act_wall_rust",
+                "actionName": "Wall",
+                "defaultBinding": "F2",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_crafting_rust",
+            "categoryName": "Crafting & Inventory",
+            "actions": [
+              {
+                "id": "act_inventory_rust",
+                "actionName": "Inventory",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_craftingMenu_rust",
+                "actionName": "Crafting Menu",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickCraft_rust",
+                "actionName": "Quick Craft",
+                "defaultBinding": "Ctrl+C",
+                "userBinding": null
+              },
+              {
+                "id": "act_splitStack_rust",
+                "actionName": "Split Stack",
+                "defaultBinding": "Shift+LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveStack_rust",
+                "actionName": "Move Stack",
+                "defaultBinding": "Ctrl+LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_sortInventory_rust",
+                "actionName": "Sort Inventory",
+                "defaultBinding": "Ctrl+S",
+                "userBinding": null
+              },
+              {
+                "id": "act_searchItems_rust",
+                "actionName": "Search Items",
+                "defaultBinding": "Ctrl+F",
+                "userBinding": null
+              },
+              {
+                "id": "act_favoriteItem_rust",
+                "actionName": "Favorite Item",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickMove_rust",
+                "actionName": "Quick Move",
+                "defaultBinding": "Shift+RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_useAll_rust",
+                "actionName": "Use All",
+                "defaultBinding": "Ctrl+RMB",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_vehicles_rust",
+            "categoryName": "Vehicles",
+            "actions": [
+              {
+                "id": "act_enterVehicle_rust",
+                "actionName": "Enter Vehicle",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_exitVehicle_rust",
+                "actionName": "Exit Vehicle",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleAccelerate_rust",
+                "actionName": "Accelerate",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleBrake_rust",
+                "actionName": "Brake",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleSteerLeft_rust",
+                "actionName": "Steer Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleSteerRight_rust",
+                "actionName": "Steer Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleHandbrake_rust",
+                "actionName": "Handbrake",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleBoost_rust",
+                "actionName": "Boost",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleHorn_rust",
+                "actionName": "Horn",
+                "defaultBinding": "H",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleLights_rust",
+                "actionName": "Toggle Lights",
+                "defaultBinding": "L",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_rust",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_chat_rust",
+                "actionName": "Chat",
+                "defaultBinding": "Enter",
+                "userBinding": null
+              },
+              {
+                "id": "act_teamChat_rust",
+                "actionName": "Team Chat",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_globalChat_rust",
+                "actionName": "Global Chat",
+                "defaultBinding": "Y",
+                "userBinding": null
+              },
+              {
+                "id": "act_voiceChat_rust",
+                "actionName": "Voice Chat",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_emote_rust",
+                "actionName": "Emote",
+                "defaultBinding": "N",
+                "userBinding": null
+              },
+              {
+                "id": "act_teamMenu_rust",
+                "actionName": "Team Menu",
+                "defaultBinding": "M",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_advanced_rust",
+            "categoryName": "Advanced Mechanics",
+            "actions": [
+              {
+                "id": "act_electricity_rust",
+                "actionName": "Electricity Panel",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_farming_rust",
+                "actionName": "Farming",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_animalTaming_rust",
+                "actionName": "Animal Taming",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_baseManagement_rust",
+                "actionName": "Base Management",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_serverBrowser_rust",
+                "actionName": "Server Browser",
+                "defaultBinding": "F1",
+                "userBinding": null
+              },
+              {
+                "id": "act_settings_rust",
+                "actionName": "Settings",
+                "defaultBinding": "F2",
+                "userBinding": null
+              },
+              {
+                "id": "act_map_rust",
+                "actionName": "Map",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "act_console_rust",
+                "actionName": "Console",
+                "defaultBinding": "F1",
+                "userBinding": null
+              },
+              {
+                "id": "act_screenshot_rust",
+                "actionName": "Screenshot",
+                "defaultBinding": "F12",
+                "userBinding": null
+              },
+              {
+                "id": "act_spectator_rust",
+                "actionName": "Spectator Mode",
+                "defaultBinding": "F3",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["RustClient.exe", "rust.exe", "RustClient_DirectX11.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}

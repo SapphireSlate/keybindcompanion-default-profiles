@@ -89,5 +89,12 @@
     "gameName": "Dota 2",
     "profileDisplayName": "Default Dota 2 Controls",
     "lastUpdated": "2025-10-21T00:00:00Z"
+  },
+  "rust_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/rust-default-v1.0.0.json",
+    "gameName": "Rust",
+    "profileDisplayName": "Default Rust Controls",
+    "lastUpdated": "2025-10-21T01:00:00Z"
   }
 } 
