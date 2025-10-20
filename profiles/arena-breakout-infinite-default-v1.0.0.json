@@ -1,0 +1,123 @@
+{
+  "profileId": "arenabreakout_default_v1",
+  "gameName": "Arena Breakout: Infinite",
+  "profileName": "Arena Breakout: Infinite",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729501800,
+  "description": "Complete default keybindings for Arena Breakout: Infinite (2025) - Extraction shooter mechanics.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_arenabreakout",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_arenabreakout",
+            "categoryName": "Movement & Stance",
+            "actions": [
+              {"id": "act_moveForward_arenabreakout", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_moveBackward_arenabreakout", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_strafeLeft_arenabreakout", "actionName": "Strafe Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_strafeRight_arenabreakout", "actionName": "Strafe Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_sprint_arenabreakout", "actionName": "Sprint", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_crouch_arenabreakout", "actionName": "Crouch", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_prone_arenabreakout", "actionName": "Prone", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_jump_arenabreakout", "actionName": "Jump / Mantle", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_leanLeft_arenabreakout", "actionName": "Lean Left", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_leanRight_arenabreakout", "actionName": "Lean Right", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_walk_arenabreakout", "actionName": "Walk / Sneak", "defaultBinding": "Alt", "userBinding": null},
+              {"id": "act_holdBreath_arenabreakout", "actionName": "Hold Breath", "defaultBinding": "LShift", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_combat_arenabreakout",
+            "categoryName": "Combat",
+            "actions": [
+              {"id": "act_fireWeapon_arenabreakout", "actionName": "Fire Weapon", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_aimDownSights_arenabreakout", "actionName": "Aim Down Sights", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_reload_arenabreakout", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_checkMagazine_arenabreakout", "actionName": "Check Magazine", "defaultBinding": "LAlt+T", "userBinding": null},
+              {"id": "act_fireMode_arenabreakout", "actionName": "Fire Mode Select", "defaultBinding": "B", "userBinding": null},
+              {"id": "act_primaryWeapon_arenabreakout", "actionName": "Primary Weapon", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_secondaryWeapon_arenabreakout", "actionName": "Secondary Weapon", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_sidearm_arenabreakout", "actionName": "Sidearm", "defaultBinding": "3", "userBinding": null},
+              {"id": "act_nextWeapon_arenabreakout", "actionName": "Next Weapon", "defaultBinding": "MWheel Up", "userBinding": null},
+              {"id": "act_previousWeapon_arenabreakout", "actionName": "Previous Weapon", "defaultBinding": "MWheel Down", "userBinding": null},
+              {"id": "act_melee_arenabreakout", "actionName": "Melee", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_holster_arenabreakout", "actionName": "Holster Weapon", "defaultBinding": "H", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_equipment_arenabreakout",
+            "categoryName": "Equipment & Grenades",
+            "actions": [
+              {"id": "act_grenade_arenabreakout", "actionName": "Grenade", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_grenadeMenu_arenabreakout", "actionName": "Grenade Menu", "defaultBinding": "G (Hold)", "userBinding": null},
+              {"id": "act_tacticalEquipment_arenabreakout", "actionName": "Tactical Equipment", "defaultBinding": "4", "userBinding": null},
+              {"id": "act_flashbang_arenabreakout", "actionName": "Flashbang", "defaultBinding": "5", "userBinding": null},
+              {"id": "act_smokeGrenade_arenabreakout", "actionName": "Smoke Grenade", "defaultBinding": "6", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_healing_arenabreakout",
+            "categoryName": "Healing & Medical",
+            "actions": [
+              {"id": "act_quickHeal_arenabreakout", "actionName": "Quick Heal", "defaultBinding": "7", "userBinding": null},
+              {"id": "act_medkit_arenabreakout", "actionName": "Medkit", "defaultBinding": "8", "userBinding": null},
+              {"id": "act_painkiller_arenabreakout", "actionName": "Painkiller", "defaultBinding": "9", "userBinding": null},
+              {"id": "act_surgeryKit_arenabreakout", "actionName": "Surgery Kit", "defaultBinding": "0", "userBinding": null},
+              {"id": "act_medWheel_arenabreakout", "actionName": "Med Wheel", "defaultBinding": "LAlt+1", "userBinding": null},
+              {"id": "act_bandage_arenabreakout", "actionName": "Bandage", "defaultBinding": "LAlt+2", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_inventory_arenabreakout",
+            "categoryName": "Inventory & Looting",
+            "actions": [
+              {"id": "act_openInventory_arenabreakout", "actionName": "Open Inventory / Backpack", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_interact_arenabreakout", "actionName": "Interact / Loot", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_quickLoot_arenabreakout", "actionName": "Quick Loot", "defaultBinding": "F (Hold)", "userBinding": null},
+              {"id": "act_search_arenabreakout", "actionName": "Search Container", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_dropItem_arenabreakout", "actionName": "Drop Item", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_quickTransfer_arenabreakout", "actionName": "Quick Transfer", "defaultBinding": "LMB", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_tactical_arenabreakout",
+            "categoryName": "Tactical & System",
+            "actions": [
+              {"id": "act_map_arenabreakout", "actionName": "Map", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_extractionInfo_arenabreakout", "actionName": "Extraction Info", "defaultBinding": "O", "userBinding": null},
+              {"id": "act_markers_arenabreakout", "actionName": "Markers", "defaultBinding": "K", "userBinding": null},
+              {"id": "act_flashlight_arenabreakout", "actionName": "Flashlight", "defaultBinding": "L", "userBinding": null},
+              {"id": "act_nightVision_arenabreakout", "actionName": "Night Vision", "defaultBinding": "N", "userBinding": null},
+              {"id": "act_compass_arenabreakout", "actionName": "Compass", "defaultBinding": "Num Enter", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_arenabreakout",
+            "categoryName": "Communication",
+            "actions": [
+              {"id": "act_chat_arenabreakout", "actionName": "Chat", "defaultBinding": "Enter", "userBinding": null},
+              {"id": "act_teamChat_arenabreakout", "actionName": "Team Chat", "defaultBinding": "Y", "userBinding": null},
+              {"id": "act_voiceChat_arenabreakout", "actionName": "Voice Chat", "defaultBinding": "T", "userBinding": null},
+              {"id": "act_handSignal_arenabreakout", "actionName": "Hand Signal", "defaultBinding": "Z", "userBinding": null},
+              {"id": "act_ping_arenabreakout", "actionName": "Ping", "defaultBinding": "MMB", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["ArenaBreakout.exe", "ArenaBreakoutInfinite.exe", "ABI.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
