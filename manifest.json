@@ -33,5 +33,12 @@
     "gameName": "Ready Or Not",
     "profileDisplayName": "Default Tactical Controls",
     "lastUpdated": "2025-01-25T12:00:00Z"
+  },
+  "minecraft_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/minecraft-default-v1.0.0.json",
+    "gameName": "Minecraft",
+    "profileDisplayName": "Default Minecraft Controls",
+    "lastUpdated": "2025-10-20T12:00:00Z"
   }
 } 

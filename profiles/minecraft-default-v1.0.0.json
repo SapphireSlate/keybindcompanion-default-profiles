@@ -1,0 +1,270 @@
+{
+  "profileId": "minecraft_default_v1",
+  "gameName": "Minecraft",
+  "profileName": "Minecraft",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729468800,
+  "description": "Complete default keybindings for Minecraft Java Edition (2025).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_minecraft",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_minecraft",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_moveForward_minecraft",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveBackward_minecraft",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_minecraft",
+                "actionName": "Strafe Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_minecraft",
+                "actionName": "Strafe Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_jump_minecraft",
+                "actionName": "Jump",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_sneak_minecraft",
+                "actionName": "Sneak",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_sprint_minecraft",
+                "actionName": "Sprint",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_gameplay_minecraft",
+            "categoryName": "Gameplay",
+            "actions": [
+              {
+                "id": "act_attackDestroy_minecraft",
+                "actionName": "Attack / Destroy",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_usePlace_minecraft",
+                "actionName": "Use Item / Place Block",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_pickBlock_minecraft",
+                "actionName": "Pick Block",
+                "defaultBinding": "MMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_dropItem_minecraft",
+                "actionName": "Drop Item",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_swapOffhand_minecraft",
+                "actionName": "Swap Item to Offhand",
+                "defaultBinding": "F",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_inventory_minecraft",
+            "categoryName": "Inventory & Hotbar",
+            "actions": [
+              {
+                "id": "act_openInventory_minecraft",
+                "actionName": "Open Inventory",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar1_minecraft",
+                "actionName": "Hotbar Slot 1",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar2_minecraft",
+                "actionName": "Hotbar Slot 2",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar3_minecraft",
+                "actionName": "Hotbar Slot 3",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar4_minecraft",
+                "actionName": "Hotbar Slot 4",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar5_minecraft",
+                "actionName": "Hotbar Slot 5",
+                "defaultBinding": "5",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar6_minecraft",
+                "actionName": "Hotbar Slot 6",
+                "defaultBinding": "6",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar7_minecraft",
+                "actionName": "Hotbar Slot 7",
+                "defaultBinding": "7",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar8_minecraft",
+                "actionName": "Hotbar Slot 8",
+                "defaultBinding": "8",
+                "userBinding": null
+              },
+              {
+                "id": "act_hotbar9_minecraft",
+                "actionName": "Hotbar Slot 9",
+                "defaultBinding": "9",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_multiplayer_minecraft",
+            "categoryName": "Multiplayer",
+            "actions": [
+              {
+                "id": "act_openChat_minecraft",
+                "actionName": "Open Chat",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_openCommand_minecraft",
+                "actionName": "Open Command",
+                "defaultBinding": "/",
+                "userBinding": null
+              },
+              {
+                "id": "act_playerList_minecraft",
+                "actionName": "Player List",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_interface_minecraft",
+            "categoryName": "Interface",
+            "actions": [
+              {
+                "id": "act_pauseMenu_minecraft",
+                "actionName": "Pause Menu",
+                "defaultBinding": "Escape",
+                "userBinding": null
+              },
+              {
+                "id": "act_screenshot_minecraft",
+                "actionName": "Take Screenshot",
+                "defaultBinding": "F2",
+                "userBinding": null
+              },
+              {
+                "id": "act_togglePerspective_minecraft",
+                "actionName": "Toggle Perspective",
+                "defaultBinding": "F5",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleHUD_minecraft",
+                "actionName": "Toggle HUD",
+                "defaultBinding": "F1",
+                "userBinding": null
+              },
+              {
+                "id": "act_debugScreen_minecraft",
+                "actionName": "Debug Screen",
+                "defaultBinding": "F3",
+                "userBinding": null
+              },
+              {
+                "id": "act_smoothCamera_minecraft",
+                "actionName": "Smooth Camera (while F5)",
+                "defaultBinding": "F4",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleFullscreen_minecraft",
+                "actionName": "Toggle Fullscreen",
+                "defaultBinding": "F11",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_creative_minecraft",
+            "categoryName": "Creative Mode",
+            "actions": [
+              {
+                "id": "act_saveToolbar_minecraft",
+                "actionName": "Save Toolbar Activator",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_loadToolbar_minecraft",
+                "actionName": "Load Toolbar Activator",
+                "defaultBinding": "X",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["javaw.exe", "Minecraft.exe", "MinecraftLauncher.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
+
