@@ -152,5 +152,12 @@
     "gameName": "Arena Breakout: Infinite",
     "profileDisplayName": "Default Arena Breakout: Infinite Controls",
     "lastUpdated": "2025-10-21T05:30:00Z"
+  },
+  "dayz_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/dayz-default-v1.0.0.json",
+    "gameName": "DayZ",
+    "profileDisplayName": "Default DayZ Controls",
+    "lastUpdated": "2025-10-21T06:00:00Z"
   }
 } 

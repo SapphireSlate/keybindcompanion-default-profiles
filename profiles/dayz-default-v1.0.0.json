@@ -1,0 +1,178 @@
+{
+  "profileId": "dayz_default_v1",
+  "gameName": "DayZ",
+  "profileName": "DayZ",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729505400,
+  "description": "Complete default keybindings for DayZ (2025) - Survival horror with extensive gesture system.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_dayz",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_dayz",
+            "categoryName": "Movement & Stance",
+            "actions": [
+              {"id": "act_moveForward_dayz", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_moveBackward_dayz", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_strafeLeft_dayz", "actionName": "Strafe Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_strafeRight_dayz", "actionName": "Strafe Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_leanLeft_dayz", "actionName": "Lean Left", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_leanRight_dayz", "actionName": "Lean Right", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_walk_dayz", "actionName": "Walk / Jog", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_sprint_dayz", "actionName": "Sprint", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_jump_dayz", "actionName": "Jump / Vault", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_crouch_dayz", "actionName": "Toggle Crouch", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_prone_dayz", "actionName": "Prone", "defaultBinding": "C (Hold)", "userBinding": null},
+              {"id": "act_freeLook_dayz", "actionName": "Free Look", "defaultBinding": "Alt", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_general_dayz",
+            "categoryName": "General Actions & Inventory",
+            "actions": [
+              {"id": "act_toggleInventory_dayz", "actionName": "Toggle Inventory", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_toggleHotbar_dayz", "actionName": "Toggle Hotbar / HUD", "defaultBinding": "~", "userBinding": null},
+              {"id": "act_hotkey0_dayz", "actionName": "Hotkey Slot 0", "defaultBinding": "0", "userBinding": null},
+              {"id": "act_hotkey1_dayz", "actionName": "Hotkey Slot 1", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_hotkey2_dayz", "actionName": "Hotkey Slot 2", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_hotkey3_dayz", "actionName": "Hotkey Slot 3", "defaultBinding": "3", "userBinding": null},
+              {"id": "act_hotkey4_dayz", "actionName": "Hotkey Slot 4", "defaultBinding": "4", "userBinding": null},
+              {"id": "act_hotkey5_dayz", "actionName": "Hotkey Slot 5", "defaultBinding": "5", "userBinding": null},
+              {"id": "act_hotkey6_dayz", "actionName": "Hotkey Slot 6", "defaultBinding": "6", "userBinding": null},
+              {"id": "act_hotkey7_dayz", "actionName": "Hotkey Slot 7", "defaultBinding": "7", "userBinding": null},
+              {"id": "act_hotkey8_dayz", "actionName": "Hotkey Slot 8", "defaultBinding": "8", "userBinding": null},
+              {"id": "act_hotkey9_dayz", "actionName": "Hotkey Slot 9", "defaultBinding": "9", "userBinding": null},
+              {"id": "act_lowerRaise_dayz", "actionName": "Lower / Raise Item", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_throw_dayz", "actionName": "Throw", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_drop_dayz", "actionName": "Drop", "defaultBinding": "G (Hold)", "userBinding": null},
+              {"id": "act_useItem_dayz", "actionName": "Use Item", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_togglePerspective_dayz", "actionName": "Toggle 1PP / 3PP", "defaultBinding": "Enter", "userBinding": null},
+              {"id": "act_zoom_dayz", "actionName": "Zoom", "defaultBinding": "MMB (Hold)", "userBinding": null},
+              {"id": "act_action_dayz", "actionName": "Use / Action", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_nightVision_dayz", "actionName": "Toggle Night Vision", "defaultBinding": "L (Hold)", "userBinding": null},
+              {"id": "act_emptyLoadMag_dayz", "actionName": "Empty / Load Magazine", "defaultBinding": "R (Hold)", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_weapons_dayz",
+            "categoryName": "Weapons & Combat",
+            "actions": [
+              {"id": "act_fireWeapon_dayz", "actionName": "Fire Weapon / Swing", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_readyWeapon_dayz", "actionName": "Ready Weapon", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_useOptics_dayz", "actionName": "Use Optics / Iron Sights", "defaultBinding": "Mouse Scroll", "userBinding": null},
+              {"id": "act_ADS_dayz", "actionName": "Aim Down Sights", "defaultBinding": "MWheel Click", "userBinding": null},
+              {"id": "act_holdBreath_dayz", "actionName": "Hold Breath", "defaultBinding": "LCtrl (Hold)", "userBinding": null},
+              {"id": "act_chamberRound_dayz", "actionName": "Chamber New Round", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_clearChamber_dayz", "actionName": "Clear Chamber", "defaultBinding": "R (Double Tap)", "userBinding": null},
+              {"id": "act_changeMagazine_dayz", "actionName": "Change / Insert Magazine", "defaultBinding": "R (Hold)", "userBinding": null},
+              {"id": "act_toggleFiringMode_dayz", "actionName": "Toggle Firing Mode", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_zeroingUp_dayz", "actionName": "Zeroing Up", "defaultBinding": "Page Up", "userBinding": null},
+              {"id": "act_zeroingDown_dayz", "actionName": "Zeroing Down", "defaultBinding": "Page Down", "userBinding": null},
+              {"id": "act_toggleScope_dayz", "actionName": "Toggle Scope", "defaultBinding": "Numpad /", "userBinding": null},
+              {"id": "act_firearmMelee_dayz", "actionName": "Firearm Melee", "defaultBinding": "F", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_vehicles_dayz",
+            "categoryName": "Vehicle Controls",
+            "actions": [
+              {"id": "act_vehicleAccelerate_dayz", "actionName": "Accelerate", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_vehicleBrake_dayz", "actionName": "Slow Down", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_vehicleSteerLeft_dayz", "actionName": "Turn Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_vehicleSteerRight_dayz", "actionName": "Turn Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_vehicleGearDown_dayz", "actionName": "Gear Shift Down", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_vehicleGearUp_dayz", "actionName": "Gear Shift Up", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_vehicleFastAccel_dayz", "actionName": "Fast Acceleration", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_vehicleSlowAccel_dayz", "actionName": "Slow Acceleration", "defaultBinding": "LCtrl", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_dayz",
+            "categoryName": "Communication & Gestures",
+            "actions": [
+              {"id": "act_textChat_dayz", "actionName": "Text Chat", "defaultBinding": "/", "userBinding": null},
+              {"id": "act_voiceChat_dayz", "actionName": "Voice Chat", "defaultBinding": "Caps Lock", "userBinding": null},
+              {"id": "act_voiceVolume_dayz", "actionName": "Switch Voice Volume", "defaultBinding": "Up Arrow", "userBinding": null},
+              {"id": "act_gestureHello_dayz", "actionName": "Gesture: Hello", "defaultBinding": "F1", "userBinding": null},
+              {"id": "act_gestureWave_dayz", "actionName": "Gesture: Wave (Hands Up)", "defaultBinding": "F2", "userBinding": null},
+              {"id": "act_gestureHeart_dayz", "actionName": "Gesture: Heart", "defaultBinding": "F3", "userBinding": null},
+              {"id": "act_gestureRude_dayz", "actionName": "Gesture: Rude", "defaultBinding": "F4", "userBinding": null},
+              {"id": "act_gestureSurrender_dayz", "actionName": "Gesture: Surrender", "defaultBinding": "F5", "userBinding": null},
+              {"id": "act_gesturePoint_dayz", "actionName": "Gesture: Point", "defaultBinding": "F6", "userBinding": null},
+              {"id": "act_gestureThumbsUp_dayz", "actionName": "Gesture: Thumbs Up", "defaultBinding": "F7", "userBinding": null},
+              {"id": "act_gestureTaunt_dayz", "actionName": "Gesture: Taunt", "defaultBinding": "F8", "userBinding": null},
+              {"id": "act_gestureSilent_dayz", "actionName": "Gesture: Silent", "defaultBinding": "F9", "userBinding": null},
+              {"id": "act_gestureDie_dayz", "actionName": "Gesture: Die", "defaultBinding": "F10", "userBinding": null},
+              {"id": "act_gestureSuicide_dayz", "actionName": "Gesture: Suicide", "defaultBinding": "F11", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_dayz",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerMovement_dayz",
+            "categoryName": "Movement & Combat",
+            "actions": [
+              {"id": "act_controllerMove_dayz", "actionName": "Move", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerLook_dayz", "actionName": "Look Around", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerLeanLeft_dayz", "actionName": "Lean Left", "defaultBinding": "LT+LB", "userBinding": null},
+              {"id": "act_controllerLeanRight_dayz", "actionName": "Lean Right", "defaultBinding": "RT+RB", "userBinding": null},
+              {"id": "act_controllerSprint_dayz", "actionName": "Sprint", "defaultBinding": "Left Stick Click", "userBinding": null},
+              {"id": "act_controllerJump_dayz", "actionName": "Jump / Vault", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerCrouch_dayz", "actionName": "Crouch", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerProne_dayz", "actionName": "Prone", "defaultBinding": "B/Circle (Hold)", "userBinding": null},
+              {"id": "act_controllerFire_dayz", "actionName": "Fire Weapon", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerReady_dayz", "actionName": "Ready Weapon", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerADS_dayz", "actionName": "Aim Down Sights", "defaultBinding": "Right Stick Click", "userBinding": null},
+              {"id": "act_controllerHoldBreath_dayz", "actionName": "Hold Breath", "defaultBinding": "Left Stick (Hold)", "userBinding": null},
+              {"id": "act_controllerReload_dayz", "actionName": "Reload", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerClearChamber_dayz", "actionName": "Clear Chamber", "defaultBinding": "Y/Triangle (Double Tap)", "userBinding": null},
+              {"id": "act_controllerChangeMag_dayz", "actionName": "Change Magazine", "defaultBinding": "Y/Triangle (Hold)", "userBinding": null},
+              {"id": "act_controllerMelee_dayz", "actionName": "Firearm Melee", "defaultBinding": "B/Circle", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerActions_dayz",
+            "categoryName": "Actions & System",
+            "actions": [
+              {"id": "act_controllerInventory_dayz", "actionName": "Inventory", "defaultBinding": "View", "userBinding": null},
+              {"id": "act_controllerHotkeys_dayz", "actionName": "Hotkeys", "defaultBinding": "RB/R1 (Hold)", "userBinding": null},
+              {"id": "act_controllerInspect_dayz", "actionName": "Inspect Item", "defaultBinding": "LT/L2 (Hold)", "userBinding": null},
+              {"id": "act_controllerThrow_dayz", "actionName": "Throw", "defaultBinding": "X/Square (Double Tap)", "userBinding": null},
+              {"id": "act_controllerDrop_dayz", "actionName": "Drop", "defaultBinding": "X/Square (Hold)", "userBinding": null},
+              {"id": "act_controllerUse_dayz", "actionName": "Use Item", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerFreelook_dayz", "actionName": "Freelook", "defaultBinding": "LB/L1 (Hold)", "userBinding": null},
+              {"id": "act_controllerPerspective_dayz", "actionName": "Toggle Perspective", "defaultBinding": "Right Stick (Double Tap)", "userBinding": null},
+              {"id": "act_controllerZoom_dayz", "actionName": "Zoom", "defaultBinding": "LB/L1 (Double Tap)", "userBinding": null},
+              {"id": "act_controllerAction_dayz", "actionName": "Use / Action", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerNightVision_dayz", "actionName": "Toggle Night Vision", "defaultBinding": "RB/R1 (Hold)", "userBinding": null},
+              {"id": "act_controllerScope_dayz", "actionName": "Toggle Scope", "defaultBinding": "D-Pad Right", "userBinding": null},
+              {"id": "act_controllerFiringMode_dayz", "actionName": "Toggle Firing Mode", "defaultBinding": "D-Pad Left", "userBinding": null},
+              {"id": "act_controllerZeroingUp_dayz", "actionName": "Zeroing Up", "defaultBinding": "D-Pad Up", "userBinding": null},
+              {"id": "act_controllerZeroingDown_dayz", "actionName": "Zeroing Down", "defaultBinding": "D-Pad Down", "userBinding": null},
+              {"id": "act_controllerMenu_dayz", "actionName": "Menu", "defaultBinding": "Start/Options", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["DayZ.exe", "DayZ_x64.exe", "DayZ_BE.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
