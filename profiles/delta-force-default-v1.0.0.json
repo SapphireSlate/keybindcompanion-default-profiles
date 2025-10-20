@@ -1,0 +1,143 @@
+{
+  "profileId": "deltaforce_default_v1",
+  "gameName": "Delta Force",
+  "profileName": "Delta Force",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729494400,
+  "description": "Complete default keybindings for Delta Force (2025) - Tactical FPS for all game modes.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_deltaforce",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_deltaforce",
+            "categoryName": "Movement & Stance",
+            "actions": [
+              {"id": "act_moveForward_deltaforce", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_moveBackward_deltaforce", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_strafeLeft_deltaforce", "actionName": "Strafe Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_strafeRight_deltaforce", "actionName": "Strafe Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_jump_deltaforce", "actionName": "Jump / Vault", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_crouch_deltaforce", "actionName": "Crouch", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_prone_deltaforce", "actionName": "Prone", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_sprint_deltaforce", "actionName": "Sprint", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_leanLeft_deltaforce", "actionName": "Lean Left", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_leanRight_deltaforce", "actionName": "Lean Right", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_walk_deltaforce", "actionName": "Walk", "defaultBinding": "Alt", "userBinding": null},
+              {"id": "act_toggleView_deltaforce", "actionName": "Toggle View", "defaultBinding": "V", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_combat_deltaforce",
+            "categoryName": "Combat",
+            "actions": [
+              {"id": "act_fireWeapon_deltaforce", "actionName": "Fire Weapon", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_aimDownSights_deltaforce", "actionName": "Aim Down Sights", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_reload_deltaforce", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_primaryWeapon_deltaforce", "actionName": "Primary Weapon", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_secondaryWeapon_deltaforce", "actionName": "Secondary Weapon", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_sidearm_deltaforce", "actionName": "Sidearm", "defaultBinding": "3", "userBinding": null},
+              {"id": "act_nextWeapon_deltaforce", "actionName": "Next Weapon", "defaultBinding": "MWheel Up", "userBinding": null},
+              {"id": "act_previousWeapon_deltaforce", "actionName": "Previous Weapon", "defaultBinding": "MWheel Down", "userBinding": null},
+              {"id": "act_melee_deltaforce", "actionName": "Melee", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_fireMode_deltaforce", "actionName": "Fire Mode", "defaultBinding": "B", "userBinding": null},
+              {"id": "act_holster_deltaforce", "actionName": "Holster Weapon", "defaultBinding": "H", "userBinding": null},
+              {"id": "act_nightVision_deltaforce", "actionName": "Night Vision", "defaultBinding": "N", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_tactical_deltaforce",
+            "categoryName": "Tactical & Gadgets",
+            "actions": [
+              {"id": "act_tacticalEquipment_deltaforce", "actionName": "Tactical Equipment", "defaultBinding": "T", "userBinding": null},
+              {"id": "act_lethalEquipment_deltaforce", "actionName": "Lethal Equipment", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_interact_deltaforce", "actionName": "Interact / Breach", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_gadget1_deltaforce", "actionName": "Gadget 1", "defaultBinding": "4", "userBinding": null},
+              {"id": "act_gadget2_deltaforce", "actionName": "Gadget 2", "defaultBinding": "5", "userBinding": null},
+              {"id": "act_specialEquipment_deltaforce", "actionName": "Special Equipment", "defaultBinding": "6", "userBinding": null},
+              {"id": "act_squadMenu_deltaforce", "actionName": "Squad Menu", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_map_deltaforce", "actionName": "Map", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_compass_deltaforce", "actionName": "Compass", "defaultBinding": "K", "userBinding": null},
+              {"id": "act_laser_deltaforce", "actionName": "Laser Sight", "defaultBinding": "L", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_vehicles_deltaforce",
+            "categoryName": "Vehicle Controls",
+            "actions": [
+              {"id": "act_vehicleAccelerate_deltaforce", "actionName": "Accelerate", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_vehicleBrake_deltaforce", "actionName": "Brake / Reverse", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_vehicleSteerLeft_deltaforce", "actionName": "Steer Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_vehicleSteerRight_deltaforce", "actionName": "Steer Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_vehicleHandbrake_deltaforce", "actionName": "Handbrake", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_vehicleBoost_deltaforce", "actionName": "Boost", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_vehicleEnterExit_deltaforce", "actionName": "Enter / Exit Vehicle", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_vehicleWeapon_deltaforce", "actionName": "Fire Vehicle Weapon", "defaultBinding": "LMB", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_deltaforce",
+            "categoryName": "Communication",
+            "actions": [
+              {"id": "act_chat_deltaforce", "actionName": "Chat", "defaultBinding": "Enter", "userBinding": null},
+              {"id": "act_teamChat_deltaforce", "actionName": "Team Chat", "defaultBinding": "Y", "userBinding": null},
+              {"id": "act_voiceChat_deltaforce", "actionName": "Voice Chat", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_ping_deltaforce", "actionName": "Ping", "defaultBinding": "Z", "userBinding": null},
+              {"id": "act_spotEnemy_deltaforce", "actionName": "Spot Enemy", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_radioCommands_deltaforce", "actionName": "Radio Commands", "defaultBinding": "X", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_deltaforce",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerMovement_deltaforce",
+            "categoryName": "Movement & Combat",
+            "actions": [
+              {"id": "act_controllerMove_deltaforce", "actionName": "Move", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerAim_deltaforce", "actionName": "Aim / Look", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerJump_deltaforce", "actionName": "Jump / Vault", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerCrouch_deltaforce", "actionName": "Crouch", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerProne_deltaforce", "actionName": "Prone", "defaultBinding": "B/Circle (Hold)", "userBinding": null},
+              {"id": "act_controllerSprint_deltaforce", "actionName": "Sprint", "defaultBinding": "Left Stick Click", "userBinding": null},
+              {"id": "act_controllerFire_deltaforce", "actionName": "Fire Weapon", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerADS_deltaforce", "actionName": "Aim Down Sights", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerReload_deltaforce", "actionName": "Reload", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerSwitchWeapon_deltaforce", "actionName": "Switch Weapon", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerMelee_deltaforce", "actionName": "Melee", "defaultBinding": "Right Stick Click", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerEquipment_deltaforce",
+            "categoryName": "Equipment & System",
+            "actions": [
+              {"id": "act_controllerTactical_deltaforce", "actionName": "Tactical Equipment", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerLethal_deltaforce", "actionName": "Lethal Equipment", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerInteract_deltaforce", "actionName": "Interact / Breach", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerGadget_deltaforce", "actionName": "Gadget", "defaultBinding": "D-Pad", "userBinding": null},
+              {"id": "act_controllerMap_deltaforce", "actionName": "Map", "defaultBinding": "Start/Options", "userBinding": null},
+              {"id": "act_controllerPing_deltaforce", "actionName": "Ping", "defaultBinding": "D-Pad Up", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["DeltaForce.exe", "DeltaForceGame.exe", "DF.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
