@@ -117,5 +117,12 @@
     "gameName": "Destiny 2",
     "profileDisplayName": "Default Destiny 2 Controls",
     "lastUpdated": "2025-10-21T03:00:00Z"
+  },
+  "codwarzone_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/call-of-duty-warzone-default-v1.0.0.json",
+    "gameName": "Call of Duty: Warzone",
+    "profileDisplayName": "Default Call of Duty: Warzone Controls",
+    "lastUpdated": "2025-10-21T03:30:00Z"
   }
 } 

@@ -1,0 +1,116 @@
+{
+  "profileId": "codwarzone_default_v1",
+  "gameName": "Call of Duty: Warzone",
+  "profileName": "Call of Duty: Warzone",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729486800,
+  "description": "Complete default keybindings for Call of Duty: Warzone (2025) - Battle royale mechanics.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_warzone",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_warzone",
+            "categoryName": "Movement",
+            "actions": [
+              {"id": "act_moveForward_warzone", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_moveBackward_warzone", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_moveLeft_warzone", "actionName": "Move Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_moveRight_warzone", "actionName": "Move Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_jump_warzone", "actionName": "Jump / Stand / Mantle", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_crouch_warzone", "actionName": "Crouch / Slide", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_prone_warzone", "actionName": "Prone", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_sprint_warzone", "actionName": "Sprint / Tactical Sprint / Steady Aim", "defaultBinding": "LShift", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_combat_warzone",
+            "categoryName": "Combat",
+            "actions": [
+              {"id": "act_fireWeapon_warzone", "actionName": "Fire Weapon", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_aimDownSight_warzone", "actionName": "Aim Down Sight", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_reload_warzone", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_nextWeapon_warzone", "actionName": "Next Weapon", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_previousWeapon_warzone", "actionName": "Previous Weapon", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_nextWeaponScroll_warzone", "actionName": "Next Weapon (Scroll)", "defaultBinding": "MWheel Up", "userBinding": null},
+              {"id": "act_previousWeaponScroll_warzone", "actionName": "Previous Weapon (Scroll)", "defaultBinding": "MWheel Down", "userBinding": null},
+              {"id": "act_melee_warzone", "actionName": "Melee / Finishing Move", "defaultBinding": "Mouse Button 4", "userBinding": null},
+              {"id": "act_meleeAlt_warzone", "actionName": "Melee / Finishing Move (Alt)", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_lethalEquipment_warzone", "actionName": "Use Lethal Equipment", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_lethalEquipmentAlt_warzone", "actionName": "Use Lethal Equipment (Alt)", "defaultBinding": "MMB", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_equipment_warzone",
+            "categoryName": "Equipment & Abilities",
+            "actions": [
+              {"id": "act_tacticalEquipment_warzone", "actionName": "Use Tactical Equipment", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_fieldUpgrade_warzone", "actionName": "Use Field Upgrade", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_armorPlate_warzone", "actionName": "Use Armor Plate", "defaultBinding": "4", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_vehicle_warzone",
+            "categoryName": "Vehicle Controls",
+            "actions": [
+              {"id": "act_vehicleForward_warzone", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_vehicleBackward_warzone", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_vehicleLeft_warzone", "actionName": "Turn Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_vehicleRight_warzone", "actionName": "Turn Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_vehicleFire_warzone", "actionName": "Fire", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_vehicleMissiles_warzone", "actionName": "Fire Missiles", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_vehicleHandbrake_warzone", "actionName": "Drift / Handbrake", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_vehicleHonk_warzone", "actionName": "Honk", "defaultBinding": "Q", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_warzone",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerMovement_warzone",
+            "categoryName": "Movement & Basic",
+            "actions": [
+              {"id": "act_controllerMove_warzone", "actionName": "Move", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerLook_warzone", "actionName": "Look", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerJump_warzone", "actionName": "Jump / Mantle", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerCrouch_warzone", "actionName": "Crouch / Prone / Slide", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerSprint_warzone", "actionName": "Sprint / Tactical Sprint", "defaultBinding": "Left Stick Click", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerCombat_warzone",
+            "categoryName": "Combat & Equipment",
+            "actions": [
+              {"id": "act_controllerFire_warzone", "actionName": "Fire Weapon", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerADS_warzone", "actionName": "Aim Down Sight", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerReload_warzone", "actionName": "Reload / Use", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerSwitchWeapon_warzone", "actionName": "Switch Weapon", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerMelee_warzone", "actionName": "Melee / Finishing Move", "defaultBinding": "Right Stick Click", "userBinding": null},
+              {"id": "act_controllerLethal_warzone", "actionName": "Use Lethal Equipment", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerTactical_warzone", "actionName": "Use Tactical Equipment", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerFieldUpgrade_warzone", "actionName": "Use Field Upgrade", "defaultBinding": "LB+RB/L1+R1", "userBinding": null},
+              {"id": "act_controllerArmorPlate_warzone", "actionName": "Use Armor Plate", "defaultBinding": "Y/Triangle", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["cod.exe", "CoDWZ.exe", "ModernWarfare.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
