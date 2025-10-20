@@ -1,0 +1,118 @@
+{
+  "profileId": "destiny2_default_v1",
+  "gameName": "Destiny 2",
+  "profileName": "Destiny 2",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729483200,
+  "description": "Complete default keybindings for Destiny 2 (2025) - Looter-shooter mechanics.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_destiny2",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_destiny2",
+            "categoryName": "Movement",
+            "actions": [
+              {"id": "act_moveForward_destiny2", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_moveBackward_destiny2", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_strafeLeft_destiny2", "actionName": "Strafe Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_strafeRight_destiny2", "actionName": "Strafe Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_jump_destiny2", "actionName": "Jump", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_sprint_destiny2", "actionName": "Sprint", "defaultBinding": "Shift", "userBinding": null},
+              {"id": "act_crouch_destiny2", "actionName": "Crouch", "defaultBinding": "Control", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_combat_destiny2",
+            "categoryName": "Combat",
+            "actions": [
+              {"id": "act_fireWeapon_destiny2", "actionName": "Fire Weapon", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_aimDownSights_destiny2", "actionName": "Aim Down Sights", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_reload_destiny2", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_meleeAttack_destiny2", "actionName": "Melee Attack", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_grenade_destiny2", "actionName": "Grenade", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_superAbility_destiny2", "actionName": "Super Ability", "defaultBinding": "F", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_abilities_destiny2",
+            "categoryName": "Abilities",
+            "actions": [
+              {"id": "act_classAbility_destiny2", "actionName": "Class Ability", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_airMove_destiny2", "actionName": "Air Move", "defaultBinding": "X", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_weaponManagement_destiny2",
+            "categoryName": "Weapon Management",
+            "actions": [
+              {"id": "act_kineticWeapon_destiny2", "actionName": "Switch to Kinetic Weapon", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_energyWeapon_destiny2", "actionName": "Switch to Energy Weapon", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_powerWeapon_destiny2", "actionName": "Switch to Power Weapon", "defaultBinding": "3", "userBinding": null},
+              {"id": "act_nextWeapon_destiny2", "actionName": "Next Weapon", "defaultBinding": "MWheel Up", "userBinding": null},
+              {"id": "act_previousWeapon_destiny2", "actionName": "Previous Weapon", "defaultBinding": "MWheel Down", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_interaction_destiny2",
+            "categoryName": "Interaction & System",
+            "actions": [
+              {"id": "act_interact_destiny2", "actionName": "Interact", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_deployGhost_destiny2", "actionName": "Deploy Ghost", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_characterMenu_destiny2", "actionName": "Character Menu", "defaultBinding": "I", "userBinding": null},
+              {"id": "act_emotes_destiny2", "actionName": "Emotes", "defaultBinding": "Arrow Keys", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_destiny2",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerMovement_destiny2",
+            "categoryName": "Movement & Combat",
+            "actions": [
+              {"id": "act_controllerMove_destiny2", "actionName": "Move", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerAim_destiny2", "actionName": "Aim / Look", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerJump_destiny2", "actionName": "Jump", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerCrouch_destiny2", "actionName": "Crouch", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerSprint_destiny2", "actionName": "Sprint", "defaultBinding": "Left Stick Click", "userBinding": null},
+              {"id": "act_controllerFire_destiny2", "actionName": "Fire Weapon", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerADS_destiny2", "actionName": "Aim Down Sights", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerReload_destiny2", "actionName": "Reload", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerMelee_destiny2", "actionName": "Melee", "defaultBinding": "Right Stick Click", "userBinding": null},
+              {"id": "act_controllerInteract_destiny2", "actionName": "Interact", "defaultBinding": "X/Square", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerAbilities_destiny2",
+            "categoryName": "Abilities & System",
+            "actions": [
+              {"id": "act_controllerGrenade_destiny2", "actionName": "Grenade", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerClassAbility_destiny2", "actionName": "Class Ability", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerSuper_destiny2", "actionName": "Super Ability", "defaultBinding": "LB+RB/L1+R1", "userBinding": null},
+              {"id": "act_controllerWeaponSwitch_destiny2", "actionName": "Switch Weapon", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerGhost_destiny2", "actionName": "Deploy Ghost", "defaultBinding": "D-Pad Down", "userBinding": null},
+              {"id": "act_controllerMenu_destiny2", "actionName": "Character Menu", "defaultBinding": "Start/Options", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["destiny2.exe", "Destiny2.exe", "Destiny2Launcher.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}

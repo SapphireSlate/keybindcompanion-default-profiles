@@ -110,5 +110,12 @@
     "gameName": "Dead by Daylight",
     "profileDisplayName": "Default Dead by Daylight Controls",
     "lastUpdated": "2025-10-21T02:30:00Z"
+  },
+  "destiny2_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/destiny-2-default-v1.0.0.json",
+    "gameName": "Destiny 2",
+    "profileDisplayName": "Default Destiny 2 Controls",
+    "lastUpdated": "2025-10-21T03:00:00Z"
   }
 } 
