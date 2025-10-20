@@ -124,5 +124,12 @@
     "gameName": "Call of Duty: Warzone",
     "profileDisplayName": "Default Call of Duty: Warzone Controls",
     "lastUpdated": "2025-10-21T03:30:00Z"
+  },
+  "gtav_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/gta-v-default-v1.0.0.json",
+    "gameName": "Grand Theft Auto V",
+    "profileDisplayName": "Default Grand Theft Auto V Controls",
+    "lastUpdated": "2025-10-21T04:00:00Z"
   }
 } 

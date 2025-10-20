@@ -1,0 +1,116 @@
+{
+  "profileId": "gtav_default_v1",
+  "gameName": "Grand Theft Auto V",
+  "profileName": "Grand Theft Auto V",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729490400,
+  "description": "Complete default keybindings for Grand Theft Auto V (2025) - Open-world action-adventure.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_gtav",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_onFootMovement_gtav",
+            "categoryName": "On-Foot Movement",
+            "actions": [
+              {"id": "act_moveForward_gtav", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_moveBackward_gtav", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_moveLeft_gtav", "actionName": "Move Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_moveRight_gtav", "actionName": "Move Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_sprint_gtav", "actionName": "Sprint", "defaultBinding": "Shift", "userBinding": null},
+              {"id": "act_jump_gtav", "actionName": "Jump", "defaultBinding": "Space", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_onFootCombat_gtav",
+            "categoryName": "On-Foot Combat",
+            "actions": [
+              {"id": "act_fireWeapon_gtav", "actionName": "Fire Weapon", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_aimZoom_gtav", "actionName": "Aim / Zoom", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_reload_gtav", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_takeCover_gtav", "actionName": "Take Cover", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_weaponWheel_gtav", "actionName": "Weapon Wheel", "defaultBinding": "Tab", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_vehicleControls_gtav",
+            "categoryName": "Vehicle Controls",
+            "actions": [
+              {"id": "act_vehicleAccelerate_gtav", "actionName": "Accelerate", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_vehicleBrake_gtav", "actionName": "Brake / Reverse", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_vehicleSteerLeft_gtav", "actionName": "Steer Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_vehicleSteerRight_gtav", "actionName": "Steer Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_vehicleHandbrake_gtav", "actionName": "Handbrake", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_vehicleEnterExit_gtav", "actionName": "Enter / Exit Vehicle", "defaultBinding": "F", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_general_gtav",
+            "categoryName": "General & System",
+            "actions": [
+              {"id": "act_pauseMenu_gtav", "actionName": "Pause Menu", "defaultBinding": "P", "userBinding": null},
+              {"id": "act_interactionMenu_gtav", "actionName": "Interaction Menu", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_cameraView_gtav", "actionName": "Change Camera View", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_specialAbility_gtav", "actionName": "Special Ability", "defaultBinding": "Caps Lock", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_gtav",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerOnFoot_gtav",
+            "categoryName": "On-Foot - Controller",
+            "actions": [
+              {"id": "act_controllerMove_gtav", "actionName": "Move Character", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerCamera_gtav", "actionName": "Camera Control", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerSprint_gtav", "actionName": "Sprint", "defaultBinding": "X/A", "userBinding": null},
+              {"id": "act_controllerJump_gtav", "actionName": "Jump", "defaultBinding": "Square/X", "userBinding": null},
+              {"id": "act_controllerFire_gtav", "actionName": "Fire Weapon", "defaultBinding": "R2/RT", "userBinding": null},
+              {"id": "act_controllerAim_gtav", "actionName": "Aim Weapon", "defaultBinding": "L2/LT", "userBinding": null},
+              {"id": "act_controllerCover_gtav", "actionName": "Take Cover", "defaultBinding": "R1/RB", "userBinding": null},
+              {"id": "act_controllerWeaponWheel_gtav", "actionName": "Weapon Wheel", "defaultBinding": "L1/LB", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerVehicle_gtav",
+            "categoryName": "Vehicle - Controller",
+            "actions": [
+              {"id": "act_controllerVehicleAccelerate_gtav", "actionName": "Accelerate", "defaultBinding": "R2/RT", "userBinding": null},
+              {"id": "act_controllerVehicleBrake_gtav", "actionName": "Brake / Reverse", "defaultBinding": "L2/LT", "userBinding": null},
+              {"id": "act_controllerVehicleSteer_gtav", "actionName": "Steer", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerVehicleHandbrake_gtav", "actionName": "Handbrake", "defaultBinding": "Square/X", "userBinding": null},
+              {"id": "act_controllerVehicleEnterExit_gtav", "actionName": "Enter / Exit Vehicle", "defaultBinding": "Triangle/Y", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerSystem_gtav",
+            "categoryName": "System - Controller",
+            "actions": [
+              {"id": "act_controllerPause_gtav", "actionName": "Pause Menu", "defaultBinding": "Options/Menu", "userBinding": null},
+              {"id": "act_controllerInteraction_gtav", "actionName": "Interaction Menu", "defaultBinding": "Touchpad/View", "userBinding": null},
+              {"id": "act_controllerCameraView_gtav", "actionName": "Change Camera View", "defaultBinding": "R3/RS", "userBinding": null},
+              {"id": "act_controllerSpecialAbility_gtav", "actionName": "Special Ability", "defaultBinding": "L3/LS", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["GTA5.exe", "GTA5_DirectX11.exe", "GTA5_b2699.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
