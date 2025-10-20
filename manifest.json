@@ -82,5 +82,12 @@
     "gameName": "Battlefield™ 6",
     "profileDisplayName": "Default Battlefield™ 6 Controls",
     "lastUpdated": "2025-10-20T23:00:00Z"
+  },
+  "dota2_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/dota-2-default-v1.0.0.json",
+    "gameName": "Dota 2",
+    "profileDisplayName": "Default Dota 2 Controls",
+    "lastUpdated": "2025-10-21T00:00:00Z"
   }
 } 

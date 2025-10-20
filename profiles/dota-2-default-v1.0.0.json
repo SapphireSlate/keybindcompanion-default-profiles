@@ -1,0 +1,461 @@
+{
+  "profileId": "dota2_default_v1",
+  "gameName": "Dota 2",
+  "profileName": "Dota 2",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729468800,
+  "description": "Complete default keybindings for Dota 2 (2025) - MOBA mechanics.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_dota2",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_heroAbilities_dota2",
+            "categoryName": "Hero Abilities",
+            "actions": [
+              {
+                "id": "act_firstAbility_dota2",
+                "actionName": "First Ability",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_secondAbility_dota2",
+                "actionName": "Second Ability",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_thirdAbility_dota2",
+                "actionName": "Third Ability",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_ultimateAbility_dota2",
+                "actionName": "Ultimate Ability",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_fourthAbility_dota2",
+                "actionName": "Fourth Ability",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_fifthAbility_dota2",
+                "actionName": "Fifth Ability",
+                "defaultBinding": "F",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_itemManagement_dota2",
+            "categoryName": "Item Management",
+            "actions": [
+              {
+                "id": "act_itemSlot1_dota2",
+                "actionName": "Item Slot 1",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_itemSlot2_dota2",
+                "actionName": "Item Slot 2",
+                "defaultBinding": "X",
+                "userBinding": null
+              },
+              {
+                "id": "act_itemSlot3_dota2",
+                "actionName": "Item Slot 3",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_itemSlot4_dota2",
+                "actionName": "Item Slot 4",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_itemSlot5_dota2",
+                "actionName": "Item Slot 5",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_itemSlot6_dota2",
+                "actionName": "Item Slot 6",
+                "defaultBinding": "N",
+                "userBinding": null
+              },
+              {
+                "id": "act_altItemSlot1_dota2",
+                "actionName": "Alt Item Slot 1",
+                "defaultBinding": "Alt+Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_altItemSlot2_dota2",
+                "actionName": "Alt Item Slot 2",
+                "defaultBinding": "Alt+W",
+                "userBinding": null
+              },
+              {
+                "id": "act_altItemSlot3_dota2",
+                "actionName": "Alt Item Slot 3",
+                "defaultBinding": "Alt+E",
+                "userBinding": null
+              },
+              {
+                "id": "act_altItemSlot4_dota2",
+                "actionName": "Alt Item Slot 4",
+                "defaultBinding": "Alt+R",
+                "userBinding": null
+              },
+              {
+                "id": "act_altItemSlot5_dota2",
+                "actionName": "Alt Item Slot 5",
+                "defaultBinding": "Alt+D",
+                "userBinding": null
+              },
+              {
+                "id": "act_altItemSlot6_dota2",
+                "actionName": "Alt Item Slot 6",
+                "defaultBinding": "Alt+F",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_unitControl_dota2",
+            "categoryName": "Unit Control",
+            "actions": [
+              {
+                "id": "act_attackMove_dota2",
+                "actionName": "Attack Move",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_stop_dota2",
+                "actionName": "Stop",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_holdPosition_dota2",
+                "actionName": "Hold Position",
+                "defaultBinding": "H",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveCommand_dota2",
+                "actionName": "Move Command",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "act_selectHero_dota2",
+                "actionName": "Select Hero",
+                "defaultBinding": "F1",
+                "userBinding": null
+              },
+              {
+                "id": "act_controlGroup1_dota2",
+                "actionName": "Control Group 1",
+                "defaultBinding": "F2",
+                "userBinding": null
+              },
+              {
+                "id": "act_controlGroup2_dota2",
+                "actionName": "Control Group 2",
+                "defaultBinding": "F3",
+                "userBinding": null
+              },
+              {
+                "id": "act_controlGroup3_dota2",
+                "actionName": "Control Group 3",
+                "defaultBinding": "F4",
+                "userBinding": null
+              },
+              {
+                "id": "act_controlGroup4_dota2",
+                "actionName": "Control Group 4",
+                "defaultBinding": "F5",
+                "userBinding": null
+              },
+              {
+                "id": "act_cycleUnits_dota2",
+                "actionName": "Cycle Through Units",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_centerHero_dota2",
+                "actionName": "Center on Hero",
+                "defaultBinding": "Space",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_shopCourier_dota2",
+            "categoryName": "Shop & Courier",
+            "actions": [
+              {
+                "id": "act_selectCourier_dota2",
+                "actionName": "Select Courier",
+                "defaultBinding": "F2",
+                "userBinding": null
+              },
+              {
+                "id": "act_transferItems_dota2",
+                "actionName": "Transfer Items from Courier",
+                "defaultBinding": "F3",
+                "userBinding": null
+              },
+              {
+                "id": "act_openShop_dota2",
+                "actionName": "Open/Close Shop",
+                "defaultBinding": "F4",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickBuy_dota2",
+                "actionName": "Purchase Quick-Buy Items",
+                "defaultBinding": "F5",
+                "userBinding": null
+              },
+              {
+                "id": "act_courierDeliver_dota2",
+                "actionName": "Courier Deliver Items",
+                "defaultBinding": "F6",
+                "userBinding": null
+              },
+              {
+                "id": "act_courierReturn_dota2",
+                "actionName": "Courier Return to Base",
+                "defaultBinding": "F7",
+                "userBinding": null
+              },
+              {
+                "id": "act_courierSpeed_dota2",
+                "actionName": "Courier Speed Boost",
+                "defaultBinding": "F8",
+                "userBinding": null
+              },
+              {
+                "id": "act_shopSearch_dota2",
+                "actionName": "Shop Search",
+                "defaultBinding": "Ctrl+F",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_dota2",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_teamChat_dota2",
+                "actionName": "Team Chat",
+                "defaultBinding": "Enter",
+                "userBinding": null
+              },
+              {
+                "id": "act_allChat_dota2",
+                "actionName": "All Chat",
+                "defaultBinding": "Shift+Enter",
+                "userBinding": null
+              },
+              {
+                "id": "act_voiceChat_dota2",
+                "actionName": "Voice Chat",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_chatWheel_dota2",
+                "actionName": "Chat Wheel",
+                "defaultBinding": "Y",
+                "userBinding": null
+              },
+              {
+                "id": "act_ping_dota2",
+                "actionName": "Ping",
+                "defaultBinding": "Alt+Click",
+                "userBinding": null
+              },
+              {
+                "id": "act_teamPing_dota2",
+                "actionName": "Team Ping",
+                "defaultBinding": "Ctrl+Alt+Click",
+                "userBinding": null
+              },
+              {
+                "id": "act_wardPing_dota2",
+                "actionName": "Ward Ping",
+                "defaultBinding": "Alt+W",
+                "userBinding": null
+              },
+              {
+                "id": "act_roshanPing_dota2",
+                "actionName": "Roshan Ping",
+                "defaultBinding": "Alt+R",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_cameraMap_dota2",
+            "categoryName": "Camera & Map",
+            "actions": [
+              {
+                "id": "act_cameraUp_dota2",
+                "actionName": "Camera Up",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_cameraDown_dota2",
+                "actionName": "Camera Down",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_cameraLeft_dota2",
+                "actionName": "Camera Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_cameraRight_dota2",
+                "actionName": "Camera Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_zoomIn_dota2",
+                "actionName": "Zoom In",
+                "defaultBinding": "MWheel Up",
+                "userBinding": null
+              },
+              {
+                "id": "act_zoomOut_dota2",
+                "actionName": "Zoom Out",
+                "defaultBinding": "MWheel Down",
+                "userBinding": null
+              },
+              {
+                "id": "act_openMap_dota2",
+                "actionName": "Open Map",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "act_minimapClick_dota2",
+                "actionName": "Minimap Click",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_advancedMechanics_dota2",
+            "categoryName": "Advanced Mechanics",
+            "actions": [
+              {
+                "id": "act_lastHit_dota2",
+                "actionName": "Last Hit",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_deny_dota2",
+                "actionName": "Deny",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_levelUp_dota2",
+                "actionName": "Level Up Ability",
+                "defaultBinding": "Ctrl+Q/W/E/R",
+                "userBinding": null
+              },
+              {
+                "id": "act_skillPoint_dota2",
+                "actionName": "Allocate Skill Point",
+                "defaultBinding": "Ctrl+U",
+                "userBinding": null
+              },
+              {
+                "id": "act_talentSelection_dota2",
+                "actionName": "Talent Selection",
+                "defaultBinding": "Ctrl+T",
+                "userBinding": null
+              },
+              {
+                "id": "act_activateGlyph_dota2",
+                "actionName": "Activate Glyph",
+                "defaultBinding": "J",
+                "userBinding": null
+              },
+              {
+                "id": "act_activateScan_dota2",
+                "actionName": "Activate Scan",
+                "defaultBinding": "P",
+                "userBinding": null
+              },
+              {
+                "id": "act_wardPlacement_dota2",
+                "actionName": "Ward Placement",
+                "defaultBinding": "Alt+W",
+                "userBinding": null
+              },
+              {
+                "id": "act_roshanCall_dota2",
+                "actionName": "Roshan Call",
+                "defaultBinding": "Alt+R",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickcast_dota2",
+                "actionName": "Quickcast Toggle",
+                "defaultBinding": "Alt+Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_autoAttack_dota2",
+                "actionName": "Auto Attack",
+                "defaultBinding": "Ctrl+A",
+                "userBinding": null
+              },
+              {
+                "id": "act_autoCast_dota2",
+                "actionName": "Auto Cast",
+                "defaultBinding": "Ctrl+Q/W/E/R",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["dota2.exe", "Dota2.exe", "dota2_win64.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
