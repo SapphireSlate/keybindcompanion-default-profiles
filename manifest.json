@@ -75,5 +75,12 @@
     "gameName": "ARC Raiders",
     "profileDisplayName": "Default ARC Raiders Controls",
     "lastUpdated": "2025-10-20T22:00:00Z"
+  },
+  "battlefield6_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/battlefield-6-default-v1.0.0.json",
+    "gameName": "Battlefield™ 6",
+    "profileDisplayName": "Default Battlefield™ 6 Controls",
+    "lastUpdated": "2025-10-20T23:00:00Z"
   }
 } 

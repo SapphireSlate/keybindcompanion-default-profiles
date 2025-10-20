@@ -1,0 +1,552 @@
+{
+  "profileId": "battlefield6_default_v1",
+  "gameName": "Battlefield™ 6",
+  "profileName": "Battlefield™ 6",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729468800,
+  "description": "Complete default keybindings for Battlefield™ 6 (2025) - Keyboard & Controller support.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_battlefield6",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_infantryMovement_battlefield6",
+            "categoryName": "Infantry Movement",
+            "actions": [
+              {
+                "id": "act_moveForward_battlefield6",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_moveBackward_battlefield6",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_battlefield6",
+                "actionName": "Strafe Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_battlefield6",
+                "actionName": "Strafe Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_jump_battlefield6",
+                "actionName": "Jump / Vault / Parachute Deploy",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_sprint_battlefield6",
+                "actionName": "Sprint",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouchHold_battlefield6",
+                "actionName": "Crouch (Hold)",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouchToggle_battlefield6",
+                "actionName": "Crouch (Toggle)",
+                "defaultBinding": "LCtrl",
+                "userBinding": null
+              },
+              {
+                "id": "act_prone_battlefield6",
+                "actionName": "Prone",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_ping_battlefield6",
+                "actionName": "Ping / CommoRose",
+                "defaultBinding": "LAlt",
+                "userBinding": null
+              },
+              {
+                "id": "act_interact_battlefield6",
+                "actionName": "Interact / Enter Vehicle",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_changeSeat_battlefield6",
+                "actionName": "Change Seat / Melee / Takedown",
+                "defaultBinding": "F",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_infantryCombat_battlefield6",
+            "categoryName": "Infantry Combat",
+            "actions": [
+              {
+                "id": "act_fire_battlefield6",
+                "actionName": "Fire",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_zoom_battlefield6",
+                "actionName": "Zoom / Aim Down Sights",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_reload_battlefield6",
+                "actionName": "Reload",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_melee_battlefield6",
+                "actionName": "Melee / Takedown",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_primaryWeapon_battlefield6",
+                "actionName": "Primary Weapon",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_secondaryWeapon_battlefield6",
+                "actionName": "Secondary Weapon",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_gadgetOne_battlefield6",
+                "actionName": "Gadget One",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "act_gadgetTwo_battlefield6",
+                "actionName": "Gadget Two",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_grenade_battlefield6",
+                "actionName": "Grenade",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleLaser_battlefield6",
+                "actionName": "Toggle Laser / Flashlight",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_fireMode_battlefield6",
+                "actionName": "Fire Mode / Zeroing",
+                "defaultBinding": "B",
+                "userBinding": null
+              },
+              {
+                "id": "act_weaponInspect_battlefield6",
+                "actionName": "Weapon Inspect",
+                "defaultBinding": "I",
+                "userBinding": null
+              },
+              {
+                "id": "act_squadProgression_battlefield6",
+                "actionName": "Squad Progression / Class Gadget",
+                "defaultBinding": "X",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleScope_battlefield6",
+                "actionName": "Toggle Scope",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_cyclePrimary_battlefield6",
+                "actionName": "Cycle Primary Weapon",
+                "defaultBinding": "MWheel Up",
+                "userBinding": null
+              },
+              {
+                "id": "act_cycleSecondary_battlefield6",
+                "actionName": "Cycle Secondary Weapon",
+                "defaultBinding": "MWheel Down",
+                "userBinding": null
+              },
+              {
+                "id": "act_deployBipod_battlefield6",
+                "actionName": "Deploy Bipod / Mount",
+                "defaultBinding": "F",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_vehicleControls_battlefield6",
+            "categoryName": "Vehicle Controls",
+            "actions": [
+              {
+                "id": "act_vehicleAccelerate_battlefield6",
+                "actionName": "Accelerate",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleBrake_battlefield6",
+                "actionName": "Brake / Reverse",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleTurnLeft_battlefield6",
+                "actionName": "Turn Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleTurnRight_battlefield6",
+                "actionName": "Turn Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleFire_battlefield6",
+                "actionName": "Fire",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_driverZoom_battlefield6",
+                "actionName": "Driver Zoom",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_changeSeats_battlefield6",
+                "actionName": "Change Seats",
+                "defaultBinding": "F1-F6",
+                "userBinding": null
+              },
+              {
+                "id": "act_exitVehicle_battlefield6",
+                "actionName": "Exit Vehicle",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_handbrake_battlefield6",
+                "actionName": "Handbrake",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehiclePing_battlefield6",
+                "actionName": "Ping / CommoRose",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehiclePrimaryWeapon_battlefield6",
+                "actionName": "Primary Weapon",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_vehicleSecondaryWeapon_battlefield6",
+                "actionName": "Secondary Weapon",
+                "defaultBinding": "2",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_aircraftControls_battlefield6",
+            "categoryName": "Aircraft Controls",
+            "actions": [
+              {
+                "id": "act_throttleUp_battlefield6",
+                "actionName": "Throttle Up",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_throttleDown_battlefield6",
+                "actionName": "Throttle Down",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_yawLeft_battlefield6",
+                "actionName": "Yaw Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_yawRight_battlefield6",
+                "actionName": "Yaw Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_pitchRoll_battlefield6",
+                "actionName": "Pitch / Roll",
+                "defaultBinding": "Arrow Keys",
+                "userBinding": null
+              },
+              {
+                "id": "act_aircraftFire_battlefield6",
+                "actionName": "Fire",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_afterburner_battlefield6",
+                "actionName": "Afterburner",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_freelook_battlefield6",
+                "actionName": "Freelook",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_chaseCamera_battlefield6",
+                "actionName": "Chase Camera",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_exitAircraft_battlefield6",
+                "actionName": "Exit Aircraft",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_aircraftPing_battlefield6",
+                "actionName": "Ping / CommoRose",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_aircraftPrimaryWeapon_battlefield6",
+                "actionName": "Primary Weapon",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_aircraftSecondaryWeapon_battlefield6",
+                "actionName": "Secondary Weapon",
+                "defaultBinding": "2",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_general_battlefield6",
+            "categoryName": "General",
+            "actions": [
+              {
+                "id": "act_inventory_battlefield6",
+                "actionName": "Inventory / Scoreboard",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_fullMap_battlefield6",
+                "actionName": "Full Map",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "act_quickLoadout_battlefield6",
+                "actionName": "Quick Loadout Customization",
+                "defaultBinding": "Y",
+                "userBinding": null
+              },
+              {
+                "id": "act_skipDeploy_battlefield6",
+                "actionName": "Skip to Deploy",
+                "defaultBinding": "Space",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_battlefield6",
+        "deviceType": "controller",
+        "customName": "Controller (Xbox/PlayStation)",
+        "categories": [
+          {
+            "id": "cat_controllerMovement_battlefield6",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_controllerMove_battlefield6",
+                "actionName": "Move",
+                "defaultBinding": "Left Stick",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerLook_battlefield6",
+                "actionName": "Look",
+                "defaultBinding": "Right Stick",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerJump_battlefield6",
+                "actionName": "Jump / Vault / Parachute",
+                "defaultBinding": "A/X",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerSprint_battlefield6",
+                "actionName": "Sprint",
+                "defaultBinding": "Left Stick Press",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerCrouch_battlefield6",
+                "actionName": "Crouch / Prone",
+                "defaultBinding": "B/Circle",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerSlide_battlefield6",
+                "actionName": "Slide",
+                "defaultBinding": "LB + Y/L1 + Triangle",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerInteract_battlefield6",
+                "actionName": "Interact / Enter Vehicle",
+                "defaultBinding": "Left Stick Press",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_controllerCombat_battlefield6",
+            "categoryName": "Combat",
+            "actions": [
+              {
+                "id": "act_controllerFire_battlefield6",
+                "actionName": "Fire",
+                "defaultBinding": "RT/R2",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerAim_battlefield6",
+                "actionName": "Aim Down Sights",
+                "defaultBinding": "LT/L2",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerReload_battlefield6",
+                "actionName": "Reload",
+                "defaultBinding": "X/Square",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerMelee_battlefield6",
+                "actionName": "Melee / Takedown",
+                "defaultBinding": "Right Stick Press",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerPrimaryWeapon_battlefield6",
+                "actionName": "Primary Weapon",
+                "defaultBinding": "D-Pad Up",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerSecondaryWeapon_battlefield6",
+                "actionName": "Secondary Weapon",
+                "defaultBinding": "D-Pad Down",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerGadgetOne_battlefield6",
+                "actionName": "Gadget One",
+                "defaultBinding": "D-Pad Left",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerGadgetTwo_battlefield6",
+                "actionName": "Gadget Two",
+                "defaultBinding": "D-Pad Right",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerPing_battlefield6",
+                "actionName": "Ping / CommoRose / Grenade",
+                "defaultBinding": "RB/R1",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerQuickLoadout_battlefield6",
+                "actionName": "Quick Loadout",
+                "defaultBinding": "Y/Triangle",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerToggleCamera_battlefield6",
+                "actionName": "Toggle Camera",
+                "defaultBinding": "X/Square",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_controllerGeneral_battlefield6",
+            "categoryName": "General",
+            "actions": [
+              {
+                "id": "act_controllerFullMap_battlefield6",
+                "actionName": "Full Map",
+                "defaultBinding": "View/Share",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerSkipDeploy_battlefield6",
+                "actionName": "Skip to Deploy",
+                "defaultBinding": "A/X",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["Battlefield6.exe", "BF6.exe", "Battlefield6-Win64-Shipping.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
