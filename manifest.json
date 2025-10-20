@@ -138,5 +138,12 @@
     "gameName": "Delta Force",
     "profileDisplayName": "Default Delta Force Controls",
     "lastUpdated": "2025-10-21T04:30:00Z"
+  },
+  "armareforger_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/arma-reforger-default-v1.0.0.json",
+    "gameName": "Arma Reforger",
+    "profileDisplayName": "Default Arma Reforger Controls",
+    "lastUpdated": "2025-10-21T05:00:00Z"
   }
 } 

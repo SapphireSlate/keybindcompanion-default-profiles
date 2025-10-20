@@ -1,0 +1,154 @@
+{
+  "profileId": "armareforger_default_v1",
+  "gameName": "Arma Reforger",
+  "profileName": "Arma Reforger",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729498000,
+  "description": "Complete default keybindings for Arma Reforger (2025) - Military simulation with extensive controls.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_armareforger",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_armareforger",
+            "categoryName": "Movement & Stance",
+            "actions": [
+              {"id": "act_moveForward_armareforger", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_moveBackward_armareforger", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_strafeLeft_armareforger", "actionName": "Strafe Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_strafeRight_armareforger", "actionName": "Strafe Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_sprint_armareforger", "actionName": "Sprint", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_toggleSprint_armareforger", "actionName": "Toggle Sprint", "defaultBinding": "LShift (Double Tap)", "userBinding": null},
+              {"id": "act_adjustMovementSpeed_armareforger", "actionName": "Adjust Movement Speed", "defaultBinding": "Mouse Scroll", "userBinding": null},
+              {"id": "act_jump_armareforger", "actionName": "Jump", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_adjustStance_armareforger", "actionName": "Adjust Stance", "defaultBinding": "LCtrl+Mouse Scroll", "userBinding": null},
+              {"id": "act_crouchStand_armareforger", "actionName": "Crouch or Stand", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_prone_armareforger", "actionName": "Prone", "defaultBinding": "Z", "userBinding": null},
+              {"id": "act_leanLeft_armareforger", "actionName": "Lean Left", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_leanRight_armareforger", "actionName": "Lean Right", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_toggleLeanLeft_armareforger", "actionName": "Toggle Lean Left", "defaultBinding": "Q (Double Tap)", "userBinding": null},
+              {"id": "act_toggleLeanRight_armareforger", "actionName": "Toggle Lean Right", "defaultBinding": "E (Double Tap)", "userBinding": null},
+              {"id": "act_pointFinger_armareforger", "actionName": "Point with Finger", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_pointFingerContinuous_armareforger", "actionName": "Point with Finger Continuously", "defaultBinding": "C (Hold)", "userBinding": null},
+              {"id": "act_freelook_armareforger", "actionName": "Freelook", "defaultBinding": "LAlt", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_combat_armareforger",
+            "categoryName": "Combat & Weapons",
+            "actions": [
+              {"id": "act_fireWeapon_armareforger", "actionName": "Fire Weapon", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_toggleSights_armareforger", "actionName": "Toggle Sights", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_focus_armareforger", "actionName": "Focus", "defaultBinding": "RMB (Hold)", "userBinding": null},
+              {"id": "act_reload_armareforger", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_performAction_armareforger", "actionName": "Perform Action", "defaultBinding": "Y", "userBinding": null},
+              {"id": "act_primaryWeapon_armareforger", "actionName": "Primary Weapon", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_secondaryWeapon_armareforger", "actionName": "Secondary Weapon", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_sidearm_armareforger", "actionName": "Sidearm", "defaultBinding": "3", "userBinding": null},
+              {"id": "act_grenades_armareforger", "actionName": "Grenades", "defaultBinding": "4", "userBinding": null},
+              {"id": "act_fireMode_armareforger", "actionName": "Fire Mode", "defaultBinding": "V", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_equipment_armareforger",
+            "categoryName": "Equipment & Tools",
+            "actions": [
+              {"id": "act_openInventory_armareforger", "actionName": "Open Inventory", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_quickSlot_armareforger", "actionName": "Quick Slot", "defaultBinding": "Tab (Hold)", "userBinding": null},
+              {"id": "act_useItem_armareforger", "actionName": "Use Item", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_binoculars_armareforger", "actionName": "Binoculars", "defaultBinding": "B", "userBinding": null},
+              {"id": "act_compass_armareforger", "actionName": "Compass", "defaultBinding": "K", "userBinding": null},
+              {"id": "act_compassHold_armareforger", "actionName": "Compass (Hold)", "defaultBinding": "K (Hold)", "userBinding": null},
+              {"id": "act_flashlight_armareforger", "actionName": "Flashlight", "defaultBinding": "L", "userBinding": null},
+              {"id": "act_flashlightHold_armareforger", "actionName": "Flashlight (Hold)", "defaultBinding": "L (Hold)", "userBinding": null},
+              {"id": "act_map_armareforger", "actionName": "Map", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_wristwatch_armareforger", "actionName": "Wristwatch", "defaultBinding": "O", "userBinding": null},
+              {"id": "act_wristwatchHold_armareforger", "actionName": "Wristwatch (Hold)", "defaultBinding": "O (Hold)", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_armareforger",
+            "categoryName": "Communication",
+            "actions": [
+              {"id": "act_chat_armareforger", "actionName": "Chat", "defaultBinding": "Enter", "userBinding": null},
+              {"id": "act_showPlayerList_armareforger", "actionName": "Show Player List", "defaultBinding": "P", "userBinding": null},
+              {"id": "act_talk_armareforger", "actionName": "Talk", "defaultBinding": "T (Hold)", "userBinding": null},
+              {"id": "act_talkOverRadio_armareforger", "actionName": "Talk Over Radio", "defaultBinding": "Caps Lock (Hold)", "userBinding": null},
+              {"id": "act_selectActiveRadio_armareforger", "actionName": "Select Active Radio", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_togglePerspective_armareforger", "actionName": "Toggle Perspective", "defaultBinding": "Num Enter", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_vehicles_armareforger",
+            "categoryName": "Vehicle Controls",
+            "actions": [
+              {"id": "act_vehicleAccelerate_armareforger", "actionName": "Accelerate", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_vehicleBrake_armareforger", "actionName": "Brake / Reverse", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_vehicleSteerLeft_armareforger", "actionName": "Steer Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_vehicleSteerRight_armareforger", "actionName": "Steer Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_vehicleHandbrake_armareforger", "actionName": "Handbrake", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_vehicleEnterExit_armareforger", "actionName": "Enter / Exit Vehicle", "defaultBinding": "Y", "userBinding": null},
+              {"id": "act_vehicleHorn_armareforger", "actionName": "Horn", "defaultBinding": "H", "userBinding": null},
+              {"id": "act_vehicleLights_armareforger", "actionName": "Toggle Lights", "defaultBinding": "L", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_armareforger",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerMovement_armareforger",
+            "categoryName": "Movement & Combat",
+            "actions": [
+              {"id": "act_controllerMove_armareforger", "actionName": "Move", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerAim_armareforger", "actionName": "Aim / Look", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerJump_armareforger", "actionName": "Jump", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerCrouch_armareforger", "actionName": "Crouch", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerProne_armareforger", "actionName": "Prone", "defaultBinding": "B/Circle (Hold)", "userBinding": null},
+              {"id": "act_controllerSprint_armareforger", "actionName": "Sprint", "defaultBinding": "Left Stick Click", "userBinding": null},
+              {"id": "act_controllerFire_armareforger", "actionName": "Fire Weapon", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerADS_armareforger", "actionName": "Aim Down Sights", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerReload_armareforger", "actionName": "Reload", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerQuickWeaponSwitch_armareforger", "actionName": "Quick Weapon Switch", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerLeanLeft_armareforger", "actionName": "Lean Left (While Aiming)", "defaultBinding": "LS", "userBinding": null},
+              {"id": "act_controllerLeanRight_armareforger", "actionName": "Lean Right (While Aiming)", "defaultBinding": "RS", "userBinding": null},
+              {"id": "act_controllerAdjustStance_armareforger", "actionName": "Adjust Stance", "defaultBinding": "A/X (Hold)", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerEquipment_armareforger",
+            "categoryName": "Equipment & System",
+            "actions": [
+              {"id": "act_controllerInventory_armareforger", "actionName": "Inventory / Quick Slots", "defaultBinding": "View", "userBinding": null},
+              {"id": "act_controllerMap_armareforger", "actionName": "Map", "defaultBinding": "D-Pad Right", "userBinding": null},
+              {"id": "act_controllerFireMode_armareforger", "actionName": "Fire Mode Switch", "defaultBinding": "D-Pad Left", "userBinding": null},
+              {"id": "act_controllerZoomIn_armareforger", "actionName": "Zoom In", "defaultBinding": "RB/R1 + D-Pad Up", "userBinding": null},
+              {"id": "act_controllerZoomOut_armareforger", "actionName": "Zoom Out", "defaultBinding": "RB/R1 + D-Pad Down", "userBinding": null},
+              {"id": "act_controllerPerformAction_armareforger", "actionName": "Perform Action", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerRadio_armareforger", "actionName": "Talk Over Radio", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerTalk_armareforger", "actionName": "Talk", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerMenu_armareforger", "actionName": "Menu", "defaultBinding": "Start/Options", "userBinding": null},
+              {"id": "act_controllerFreelook_armareforger", "actionName": "Freelook", "defaultBinding": "D-Pad Down", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["ArmaReforger.exe", "ArmaReforger_x64.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
