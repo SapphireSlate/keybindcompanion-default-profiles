@@ -159,5 +159,12 @@
     "gameName": "DayZ",
     "profileDisplayName": "Default DayZ Controls",
     "lastUpdated": "2025-10-21T06:00:00Z"
+  },
+  "starcitizen_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/star-citizen-default-v1.0.0.json",
+    "gameName": "Star Citizen",
+    "profileDisplayName": "Default Star Citizen Controls",
+    "lastUpdated": "2025-10-21T06:30:00Z"
   }
 } 

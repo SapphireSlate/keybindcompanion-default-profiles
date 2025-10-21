@@ -1,0 +1,195 @@
+{
+  "profileId": "starcitizen_default_v1",
+  "gameName": "Star Citizen",
+  "profileName": "Star Citizen",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729509000,
+  "description": "Complete default keybindings for Star Citizen (2025) - Space simulation MMO with extensive controls.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_starcitizen",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_onFootMovement_starcitizen",
+            "categoryName": "On-Foot Movement",
+            "actions": [
+              {"id": "act_moveForward_starcitizen", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_moveBackward_starcitizen", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_strafeLeft_starcitizen", "actionName": "Strafe Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_strafeRight_starcitizen", "actionName": "Strafe Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_sprint_starcitizen", "actionName": "Sprint", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_crouch_starcitizen", "actionName": "Crouch", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_prone_starcitizen", "actionName": "Prone", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_jump_starcitizen", "actionName": "Jump", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_lean_starcitizen", "actionName": "Lean", "defaultBinding": "Q/E", "userBinding": null},
+              {"id": "act_flashlight_starcitizen", "actionName": "Flashlight", "defaultBinding": "T", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_onFootCombat_starcitizen",
+            "categoryName": "On-Foot Combat",
+            "actions": [
+              {"id": "act_fireWeapon_starcitizen", "actionName": "Fire Weapon", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_aimDownSights_starcitizen", "actionName": "Aim Down Sights", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_reload_starcitizen", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_grenade_starcitizen", "actionName": "Grenade", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_melee_starcitizen", "actionName": "Melee", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_weapon1_starcitizen", "actionName": "Primary Weapon", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_weapon2_starcitizen", "actionName": "Secondary Weapon", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_sidearm_starcitizen", "actionName": "Sidearm", "defaultBinding": "3", "userBinding": null},
+              {"id": "act_interact_starcitizen", "actionName": "Interact", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_mobiglas_starcitizen", "actionName": "MobiGlas", "defaultBinding": "F1", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_flightMovement_starcitizen",
+            "categoryName": "Flight - Movement & Navigation",
+            "actions": [
+              {"id": "act_pitchYaw_starcitizen", "actionName": "Pitch / Yaw", "defaultBinding": "Mouse", "userBinding": null},
+              {"id": "act_strafeForward_starcitizen", "actionName": "Strafe Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_strafeBackward_starcitizen", "actionName": "Strafe Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_strafeLeftFlight_starcitizen", "actionName": "Strafe Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_strafeRightFlight_starcitizen", "actionName": "Strafe Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_strafeUp_starcitizen", "actionName": "Strafe Up", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_strafeDown_starcitizen", "actionName": "Strafe Down", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_rollLeft_starcitizen", "actionName": "Roll Left", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_rollRight_starcitizen", "actionName": "Roll Right", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_throttle_starcitizen", "actionName": "Throttle", "defaultBinding": "MWheel", "userBinding": null},
+              {"id": "act_afterburner_starcitizen", "actionName": "Afterburner", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_matchTargetSpeed_starcitizen", "actionName": "Match Target Speed", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_decoupleMode_starcitizen", "actionName": "Decouple Mode", "defaultBinding": "Backspace", "userBinding": null},
+              {"id": "act_quantumTravel_starcitizen", "actionName": "Quantum Travel", "defaultBinding": "J", "userBinding": null},
+              {"id": "act_engageQuantum_starcitizen", "actionName": "Engage Quantum", "defaultBinding": "B", "userBinding": null},
+              {"id": "act_landingGear_starcitizen", "actionName": "Landing Gear", "defaultBinding": "N", "userBinding": null},
+              {"id": "act_landingMode_starcitizen", "actionName": "Landing Mode", "defaultBinding": "L", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_flightCombat_starcitizen",
+            "categoryName": "Flight - Combat & Targeting",
+            "actions": [
+              {"id": "act_weaponGroup1_starcitizen", "actionName": "Weapon Group 1", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_weaponGroup2_starcitizen", "actionName": "Weapon Group 2", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_weaponGroup3_starcitizen", "actionName": "Weapon Group 3", "defaultBinding": "3", "userBinding": null},
+              {"id": "act_weaponGroup4_starcitizen", "actionName": "Weapon Group 4", "defaultBinding": "4", "userBinding": null},
+              {"id": "act_fireGroup1_starcitizen", "actionName": "Fire Weapon Group 1", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_fireGroup2_starcitizen", "actionName": "Fire Weapon Group 2", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_cycleTargets_starcitizen", "actionName": "Cycle Targets", "defaultBinding": "T", "userBinding": null},
+              {"id": "act_lockTarget_starcitizen", "actionName": "Lock Target", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_cycleFriendly_starcitizen", "actionName": "Cycle Friendly", "defaultBinding": "Y", "userBinding": null},
+              {"id": "act_countermeasures_starcitizen", "actionName": "Countermeasures", "defaultBinding": "H", "userBinding": null},
+              {"id": "act_cycleMissiles_starcitizen", "actionName": "Cycle Missiles", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_fireMissile_starcitizen", "actionName": "Fire Missile", "defaultBinding": "MMB", "userBinding": null},
+              {"id": "act_gimbalLock_starcitizen", "actionName": "Gimbal Lock", "defaultBinding": "RMB (Hold)", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_flightSystems_starcitizen",
+            "categoryName": "Flight - Systems & Power",
+            "actions": [
+              {"id": "act_powerTriangle_starcitizen", "actionName": "Power Triangle", "defaultBinding": "I", "userBinding": null},
+              {"id": "act_powerWeapons_starcitizen", "actionName": "Power to Weapons", "defaultBinding": "F5", "userBinding": null},
+              {"id": "act_powerShields_starcitizen", "actionName": "Power to Shields", "defaultBinding": "F6", "userBinding": null},
+              {"id": "act_powerEngines_starcitizen", "actionName": "Power to Engines", "defaultBinding": "F7", "userBinding": null},
+              {"id": "act_powerReset_starcitizen", "actionName": "Power Reset", "defaultBinding": "F8", "userBinding": null},
+              {"id": "act_shieldManagement_starcitizen", "actionName": "Shield Management", "defaultBinding": "O", "userBinding": null},
+              {"id": "act_toggleShields_starcitizen", "actionName": "Toggle Shields", "defaultBinding": "U", "userBinding": null},
+              {"id": "act_flightReady_starcitizen", "actionName": "Flight Ready", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_engineToggle_starcitizen", "actionName": "Engine Toggle", "defaultBinding": "I", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_miningScanning_starcitizen",
+            "categoryName": "Mining & Scanning",
+            "actions": [
+              {"id": "act_scanMode_starcitizen", "actionName": "Scan Mode", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_scanPing_starcitizen", "actionName": "Scan Ping", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_miningMode_starcitizen", "actionName": "Mining Mode", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_miningLaser_starcitizen", "actionName": "Mining Laser", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_miningIncrease_starcitizen", "actionName": "Increase Mining Power", "defaultBinding": "MWheel Up", "userBinding": null},
+              {"id": "act_miningDecrease_starcitizen", "actionName": "Decrease Mining Power", "defaultBinding": "MWheel Down", "userBinding": null},
+              {"id": "act_collectOre_starcitizen", "actionName": "Collect Ore", "defaultBinding": "G", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_interface_starcitizen",
+            "categoryName": "MobiGlas & Interface",
+            "actions": [
+              {"id": "act_mobiGlas_starcitizen", "actionName": "MobiGlas", "defaultBinding": "F1", "userBinding": null},
+              {"id": "act_inventory_starcitizen", "actionName": "Inventory", "defaultBinding": "I", "userBinding": null},
+              {"id": "act_starMap_starcitizen", "actionName": "Star Map", "defaultBinding": "F2", "userBinding": null},
+              {"id": "act_mfd1_starcitizen", "actionName": "MFD 1", "defaultBinding": "F5", "userBinding": null},
+              {"id": "act_mfd2_starcitizen", "actionName": "MFD 2", "defaultBinding": "F6", "userBinding": null},
+              {"id": "act_mfd3_starcitizen", "actionName": "MFD 3", "defaultBinding": "F7", "userBinding": null},
+              {"id": "act_mfd4_starcitizen", "actionName": "MFD 4", "defaultBinding": "F8", "userBinding": null},
+              {"id": "act_comms_starcitizen", "actionName": "Comms", "defaultBinding": "F11", "userBinding": null},
+              {"id": "act_chatWindow_starcitizen", "actionName": "Chat Window", "defaultBinding": "F12", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_groundVehicles_starcitizen",
+            "categoryName": "Ground Vehicles",
+            "actions": [
+              {"id": "act_groundAccelerate_starcitizen", "actionName": "Accelerate", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_groundBrake_starcitizen", "actionName": "Brake", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_groundSteerLeft_starcitizen", "actionName": "Steer Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_groundSteerRight_starcitizen", "actionName": "Steer Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_groundHandbrake_starcitizen", "actionName": "Handbrake", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_groundBoost_starcitizen", "actionName": "Boost", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_groundEnterExit_starcitizen", "actionName": "Enter / Exit Vehicle", "defaultBinding": "F", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_starcitizen",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerFlight_starcitizen",
+            "categoryName": "Flight & Combat",
+            "actions": [
+              {"id": "act_controllerPitchYaw_starcitizen", "actionName": "Pitch / Yaw", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerStrafe_starcitizen", "actionName": "Strafe", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerRoll_starcitizen", "actionName": "Roll", "defaultBinding": "LB/RB or L1/R1", "userBinding": null},
+              {"id": "act_controllerThrottle_starcitizen", "actionName": "Throttle", "defaultBinding": "LT/RT or L2/R2", "userBinding": null},
+              {"id": "act_controllerAfterburner_starcitizen", "actionName": "Afterburner", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerFire1_starcitizen", "actionName": "Fire Weapon Group 1", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerFire2_starcitizen", "actionName": "Fire Weapon Group 2", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerTarget_starcitizen", "actionName": "Cycle Targets", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerCountermeasures_starcitizen", "actionName": "Countermeasures", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerQuantum_starcitizen", "actionName": "Quantum Travel", "defaultBinding": "D-Pad Up", "userBinding": null},
+              {"id": "act_controllerLandingGear_starcitizen", "actionName": "Landing Gear", "defaultBinding": "D-Pad Down", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerSystem_starcitizen",
+            "categoryName": "Systems & Interface",
+            "actions": [
+              {"id": "act_controllerMobiGlas_starcitizen", "actionName": "MobiGlas", "defaultBinding": "Start/Options", "userBinding": null},
+              {"id": "act_controllerInventory_starcitizen", "actionName": "Inventory", "defaultBinding": "View/Share", "userBinding": null},
+              {"id": "act_controllerPowerManage_starcitizen", "actionName": "Power Management", "defaultBinding": "D-Pad Left/Right", "userBinding": null},
+              {"id": "act_controllerInteract_starcitizen", "actionName": "Interact", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerSprint_starcitizen", "actionName": "Sprint", "defaultBinding": "Left Stick Click", "userBinding": null},
+              {"id": "act_controllerCrouch_starcitizen", "actionName": "Crouch", "defaultBinding": "Right Stick Click", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["StarCitizen.exe", "SC.exe", "Star Citizen.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
