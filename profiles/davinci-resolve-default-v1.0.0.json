@@ -1,0 +1,151 @@
+{
+  "profileId": "davinci_resolve_default_v1",
+  "gameName": "DaVinci Resolve",
+  "profileName": "DaVinci Resolve",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729513500,
+  "description": "Essential keyboard shortcuts for DaVinci Resolve - Professional video editing, color grading & audio post-production. Covers Edit, Color, and Fairlight pages.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_davinci",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_playbackNav_davinci",
+            "categoryName": "Playback & Navigation",
+            "actions": [
+              {"id": "act_reversePlay_davinci", "actionName": "Reverse Playback", "defaultBinding": "J", "userBinding": null},
+              {"id": "act_stop_davinci", "actionName": "Stop / Pause", "defaultBinding": "K", "userBinding": null},
+              {"id": "act_forwardPlay_davinci", "actionName": "Forward Playback", "defaultBinding": "L", "userBinding": null},
+              {"id": "act_playPause_davinci", "actionName": "Play / Pause Toggle", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_markIn_davinci", "actionName": "Mark In", "defaultBinding": "I", "userBinding": null},
+              {"id": "act_markOut_davinci", "actionName": "Mark Out", "defaultBinding": "O", "userBinding": null},
+              {"id": "act_previousEdit_davinci", "actionName": "Previous Edit", "defaultBinding": "Up Arrow", "userBinding": null},
+              {"id": "act_nextEdit_davinci", "actionName": "Next Edit", "defaultBinding": "Down Arrow", "userBinding": null},
+              {"id": "act_goToStart_davinci", "actionName": "Go to Start", "defaultBinding": "Home", "userBinding": null},
+              {"id": "act_goToEnd_davinci", "actionName": "Go to End", "defaultBinding": "End", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_timelineBasic_davinci",
+            "categoryName": "Timeline Editing - Basic",
+            "actions": [
+              {"id": "act_bladeTool_davinci", "actionName": "Blade / Cut Tool", "defaultBinding": "LCtrl+B", "userBinding": null},
+              {"id": "act_selectionMode_davinci", "actionName": "Selection Mode", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_trimMode_davinci", "actionName": "Trim Edit Mode", "defaultBinding": "T", "userBinding": null},
+              {"id": "act_bladeMode_davinci", "actionName": "Blade Edit Mode", "defaultBinding": "B", "userBinding": null},
+              {"id": "act_rippleDelete_davinci", "actionName": "Ripple Delete", "defaultBinding": "Delete", "userBinding": null},
+              {"id": "act_delete_davinci", "actionName": "Delete", "defaultBinding": "Backspace", "userBinding": null},
+              {"id": "act_deleteGap_davinci", "actionName": "Delete Gap", "defaultBinding": "LShift+Delete", "userBinding": null},
+              {"id": "act_copy_davinci", "actionName": "Copy", "defaultBinding": "LCtrl+C", "userBinding": null},
+              {"id": "act_cut_davinci", "actionName": "Cut", "defaultBinding": "LCtrl+X", "userBinding": null},
+              {"id": "act_paste_davinci", "actionName": "Paste", "defaultBinding": "LCtrl+V", "userBinding": null},
+              {"id": "act_duplicate_davinci", "actionName": "Duplicate", "defaultBinding": "LCtrl+D", "userBinding": null},
+              {"id": "act_undo_davinci", "actionName": "Undo", "defaultBinding": "LCtrl+Z", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_timelineAdvanced_davinci",
+            "categoryName": "Timeline Editing - Advanced",
+            "actions": [
+              {"id": "act_insertEdit_davinci", "actionName": "Insert Edit", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_insertF9_davinci", "actionName": "Insert (Alternative)", "defaultBinding": "F9", "userBinding": null},
+              {"id": "act_overwrite_davinci", "actionName": "Overwrite", "defaultBinding": "F10", "userBinding": null},
+              {"id": "act_replace_davinci", "actionName": "Replace", "defaultBinding": "F11", "userBinding": null},
+              {"id": "act_extendEdit_davinci", "actionName": "Extend Edit", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_appendEnd_davinci", "actionName": "Append to End", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_extendLeft_davinci", "actionName": "Extend Edit Left", "defaultBinding": "LShift+[", "userBinding": null},
+              {"id": "act_extendRight_davinci", "actionName": "Extend Edit Right", "defaultBinding": "LShift+]", "userBinding": null},
+              {"id": "act_speedChange_davinci", "actionName": "Speed Change", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_reverseClip_davinci", "actionName": "Reverse Clip", "defaultBinding": "LShift+R", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_marksClips_davinci",
+            "categoryName": "Marks & Clips",
+            "actions": [
+              {"id": "act_addMarker_davinci", "actionName": "Add Marker", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_addMarkerPrompt_davinci", "actionName": "Add Marker (Prompt)", "defaultBinding": "LShift+M", "userBinding": null},
+              {"id": "act_editMarker_davinci", "actionName": "Edit Marker", "defaultBinding": "LCtrl+M", "userBinding": null},
+              {"id": "act_matchFrame_davinci", "actionName": "Match Frame", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_revealMedia_davinci", "actionName": "Reveal in Media Pool", "defaultBinding": "LShift+F", "userBinding": null},
+              {"id": "act_selectClip_davinci", "actionName": "Select Clip", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_selectForward_davinci", "actionName": "Select Clips Forward", "defaultBinding": "LShift+X", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_colorPage_davinci",
+            "categoryName": "Color Page",
+            "actions": [
+              {"id": "act_highlight_davinci", "actionName": "Highlight", "defaultBinding": "LShift+H", "userBinding": null},
+              {"id": "act_midtone_davinci", "actionName": "Midtone", "defaultBinding": "LShift+M", "userBinding": null},
+              {"id": "act_shadow_davinci", "actionName": "Shadow", "defaultBinding": "LShift+S", "userBinding": null},
+              {"id": "act_addSerialNode_davinci", "actionName": "Add Serial Node", "defaultBinding": "LAlt+S", "userBinding": null},
+              {"id": "act_addParallelNode_davinci", "actionName": "Add Parallel Node", "defaultBinding": "LAlt+P", "userBinding": null},
+              {"id": "act_resetNode_davinci", "actionName": "Reset Node", "defaultBinding": "LCtrl+Home", "userBinding": null},
+              {"id": "act_previousClipColor_davinci", "actionName": "Previous Clip (Color)", "defaultBinding": "LShift+PgUp", "userBinding": null},
+              {"id": "act_nextClipColor_davinci", "actionName": "Next Clip (Color)", "defaultBinding": "LShift+PgDn", "userBinding": null},
+              {"id": "act_disableNode_davinci", "actionName": "Disable / Enable Node", "defaultBinding": "LCtrl+D", "userBinding": null},
+              {"id": "act_showCurves_davinci", "actionName": "Show / Hide Curves", "defaultBinding": "D", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_viewDisplay_davinci",
+            "categoryName": "View & Display",
+            "actions": [
+              {"id": "act_fullScreenTimeline_davinci", "actionName": "Full Screen Timeline", "defaultBinding": "LCtrl+F", "userBinding": null},
+              {"id": "act_fullScreenViewer_davinci", "actionName": "Full Screen Viewer", "defaultBinding": "LShift+F", "userBinding": null},
+              {"id": "act_toggleFullscreen_davinci", "actionName": "Toggle Fullscreen", "defaultBinding": "`", "userBinding": null},
+              {"id": "act_showHideSidebar_davinci", "actionName": "Show / Hide Sidebar", "defaultBinding": "LCtrl+\\", "userBinding": null},
+              {"id": "act_zoomToFit_davinci", "actionName": "Zoom to Fit", "defaultBinding": "LShift+Z", "userBinding": null},
+              {"id": "act_zoomTimeline_davinci", "actionName": "Zoom In Timeline", "defaultBinding": "Z", "userBinding": null},
+              {"id": "act_zoomIn_davinci", "actionName": "Zoom In", "defaultBinding": "LCtrl+=", "userBinding": null},
+              {"id": "act_zoomOut_davinci", "actionName": "Zoom Out", "defaultBinding": "LCtrl+-", "userBinding": null},
+              {"id": "act_highlightClip_davinci", "actionName": "Highlight Selected Clip", "defaultBinding": "H", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_projectFile_davinci",
+            "categoryName": "Project & File",
+            "actions": [
+              {"id": "act_save_davinci", "actionName": "Save Project", "defaultBinding": "LCtrl+S", "userBinding": null},
+              {"id": "act_newProject_davinci", "actionName": "New Project", "defaultBinding": "LCtrl+N", "userBinding": null},
+              {"id": "act_newTimeline_davinci", "actionName": "New Timeline", "defaultBinding": "LCtrl+LShift+N", "userBinding": null},
+              {"id": "act_openProject_davinci", "actionName": "Open Project", "defaultBinding": "LCtrl+O", "userBinding": null},
+              {"id": "act_closeTab_davinci", "actionName": "Close Tab", "defaultBinding": "LCtrl+W", "userBinding": null},
+              {"id": "act_quit_davinci", "actionName": "Quit", "defaultBinding": "LCtrl+Q", "userBinding": null},
+              {"id": "act_render_davinci", "actionName": "Render", "defaultBinding": "LCtrl+R", "userBinding": null},
+              {"id": "act_importMedia_davinci", "actionName": "Import Media", "defaultBinding": "LCtrl+LShift+I", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_fairlightAudio_davinci",
+            "categoryName": "Fairlight Audio",
+            "actions": [
+              {"id": "act_soloTrack_davinci", "actionName": "Solo Track", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_muteTrack_davinci", "actionName": "Mute Track", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_recordEnable_davinci", "actionName": "Record Enable", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_newTrack_davinci", "actionName": "Create New Track", "defaultBinding": "LCtrl+T", "userBinding": null},
+              {"id": "act_volumeUp_davinci", "actionName": "Volume Up", "defaultBinding": "LAlt+Up Arrow", "userBinding": null},
+              {"id": "act_volumeDown_davinci", "actionName": "Volume Down", "defaultBinding": "LAlt+Down Arrow", "userBinding": null},
+              {"id": "act_setInPoint_davinci", "actionName": "Set In Point", "defaultBinding": "[", "userBinding": null},
+              {"id": "act_setOutPoint_davinci", "actionName": "Set Out Point", "defaultBinding": "]", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["Resolve.exe", "DaVinciResolve.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}

@@ -187,5 +187,12 @@
     "gameName": "Blender",
     "profileDisplayName": "Essential Blender Shortcuts",
     "lastUpdated": "2025-10-21T08:00:00Z"
+  },
+  "davinci_resolve_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/davinci-resolve-default-v1.0.0.json",
+    "gameName": "DaVinci Resolve",
+    "profileDisplayName": "Essential DaVinci Resolve Shortcuts",
+    "lastUpdated": "2025-10-21T08:30:00Z"
   }
 } 
