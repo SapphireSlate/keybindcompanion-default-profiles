@@ -1,0 +1,417 @@
+{
+  "profileId": "worldofwarcraft_default_v1",
+  "gameName": "World of Warcraft",
+  "profileName": "World of Warcraft",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729425600,
+  "description": "Essential keybindings for World of Warcraft - MMORPG with action bars, targeting, and interface management. Keyboard & mouse only.",
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "gameProcessNames": ["Wow.exe", "WowClassic.exe", "World of Warcraft.exe"],
+  "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_wow",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_wow",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_forward_wow",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_backward_wow",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeLeft_wow",
+                "actionName": "Strafe Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_strafeRight_wow",
+                "actionName": "Strafe Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_jump_wow",
+                "actionName": "Jump",
+                "defaultBinding": "Space",
+                "userBinding": null
+              },
+              {
+                "id": "act_toggleRunWalk_wow",
+                "actionName": "Toggle Run / Walk",
+                "defaultBinding": "Num Lock",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_actionBar_wow",
+            "categoryName": "Action Bar",
+            "actions": [
+              {
+                "id": "act_action1_wow",
+                "actionName": "Action Button 1",
+                "defaultBinding": "1",
+                "userBinding": null
+              },
+              {
+                "id": "act_action2_wow",
+                "actionName": "Action Button 2",
+                "defaultBinding": "2",
+                "userBinding": null
+              },
+              {
+                "id": "act_action3_wow",
+                "actionName": "Action Button 3",
+                "defaultBinding": "3",
+                "userBinding": null
+              },
+              {
+                "id": "act_action4_wow",
+                "actionName": "Action Button 4",
+                "defaultBinding": "4",
+                "userBinding": null
+              },
+              {
+                "id": "act_action5_wow",
+                "actionName": "Action Button 5",
+                "defaultBinding": "5",
+                "userBinding": null
+              },
+              {
+                "id": "act_action6_wow",
+                "actionName": "Action Button 6",
+                "defaultBinding": "6",
+                "userBinding": null
+              },
+              {
+                "id": "act_action7_wow",
+                "actionName": "Action Button 7",
+                "defaultBinding": "7",
+                "userBinding": null
+              },
+              {
+                "id": "act_action8_wow",
+                "actionName": "Action Button 8",
+                "defaultBinding": "8",
+                "userBinding": null
+              },
+              {
+                "id": "act_action9_wow",
+                "actionName": "Action Button 9",
+                "defaultBinding": "9",
+                "userBinding": null
+              },
+              {
+                "id": "act_action10_wow",
+                "actionName": "Action Button 10",
+                "defaultBinding": "0",
+                "userBinding": null
+              },
+              {
+                "id": "act_action11_wow",
+                "actionName": "Action Button 11",
+                "defaultBinding": "-",
+                "userBinding": null
+              },
+              {
+                "id": "act_action12_wow",
+                "actionName": "Action Button 12",
+                "defaultBinding": "=",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_targeting_wow",
+            "categoryName": "Targeting",
+            "actions": [
+              {
+                "id": "act_targetEnemy_wow",
+                "actionName": "Target Nearest Enemy",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_targetSelf_wow",
+                "actionName": "Target Self",
+                "defaultBinding": "F1",
+                "userBinding": null
+              },
+              {
+                "id": "act_targetParty1_wow",
+                "actionName": "Target Party Member 1",
+                "defaultBinding": "F2",
+                "userBinding": null
+              },
+              {
+                "id": "act_targetParty2_wow",
+                "actionName": "Target Party Member 2",
+                "defaultBinding": "F3",
+                "userBinding": null
+              },
+              {
+                "id": "act_targetParty3_wow",
+                "actionName": "Target Party Member 3",
+                "defaultBinding": "F4",
+                "userBinding": null
+              },
+              {
+                "id": "act_targetParty4_wow",
+                "actionName": "Target Party Member 4",
+                "defaultBinding": "F5",
+                "userBinding": null
+              },
+              {
+                "id": "act_interact_wow",
+                "actionName": "Interact with Target",
+                "defaultBinding": "G",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_interfacePanels_wow",
+            "categoryName": "Interface Panels",
+            "actions": [
+              {
+                "id": "act_character_wow",
+                "actionName": "Character Panel",
+                "defaultBinding": "C",
+                "userBinding": null
+              },
+              {
+                "id": "act_spellbook_wow",
+                "actionName": "Spellbook",
+                "defaultBinding": "P",
+                "userBinding": null
+              },
+              {
+                "id": "act_questLog_wow",
+                "actionName": "Quest Log",
+                "defaultBinding": "L",
+                "userBinding": null
+              },
+              {
+                "id": "act_map_wow",
+                "actionName": "Map",
+                "defaultBinding": "M",
+                "userBinding": null
+              },
+              {
+                "id": "act_social_wow",
+                "actionName": "Social Panel",
+                "defaultBinding": "O",
+                "userBinding": null
+              },
+              {
+                "id": "act_guild_wow",
+                "actionName": "Guild & Communities",
+                "defaultBinding": "J",
+                "userBinding": null
+              },
+              {
+                "id": "act_achievements_wow",
+                "actionName": "Achievements",
+                "defaultBinding": "Y",
+                "userBinding": null
+              },
+              {
+                "id": "act_inventory_wow",
+                "actionName": "Inventory (Backpack)",
+                "defaultBinding": "B",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_combatInteraction_wow",
+            "categoryName": "Combat & Interaction",
+            "actions": [
+              {
+                "id": "act_interactAttack_wow",
+                "actionName": "Interact / Attack",
+                "defaultBinding": "LMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_cameraTurn_wow",
+                "actionName": "Camera / Turn",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              },
+              {
+                "id": "act_nameplates_wow",
+                "actionName": "Toggle Nameplates",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_enemyNameplates_wow",
+                "actionName": "Toggle Enemy Nameplates",
+                "defaultBinding": "LShift+V",
+                "userBinding": null
+              },
+              {
+                "id": "act_assist_wow",
+                "actionName": "Assist",
+                "defaultBinding": "F",
+                "userBinding": null
+              },
+              {
+                "id": "act_targetOfTarget_wow",
+                "actionName": "Target of Target",
+                "defaultBinding": "T",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_wow",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_openChat_wow",
+                "actionName": "Open Chat",
+                "defaultBinding": "Enter",
+                "userBinding": null
+              },
+              {
+                "id": "act_replyWhisper_wow",
+                "actionName": "Reply to Whisper",
+                "defaultBinding": "R",
+                "userBinding": null
+              },
+              {
+                "id": "act_emoteMenu_wow",
+                "actionName": "Emote Menu",
+                "defaultBinding": "/",
+                "userBinding": null
+              },
+              {
+                "id": "act_partyChat_wow",
+                "actionName": "Party Chat",
+                "defaultBinding": "LShift+Enter",
+                "userBinding": null
+              },
+              {
+                "id": "act_guildChat_wow",
+                "actionName": "Guild Chat",
+                "defaultBinding": "LCtrl+Enter",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_camera_wow",
+            "categoryName": "Camera",
+            "actions": [
+              {
+                "id": "act_cameraLeft_wow",
+                "actionName": "Rotate Camera Left",
+                "defaultBinding": "Left Arrow",
+                "userBinding": null
+              },
+              {
+                "id": "act_cameraRight_wow",
+                "actionName": "Rotate Camera Right",
+                "defaultBinding": "Right Arrow",
+                "userBinding": null
+              },
+              {
+                "id": "act_cameraPitchUp_wow",
+                "actionName": "Pitch Camera Up",
+                "defaultBinding": "Up Arrow",
+                "userBinding": null
+              },
+              {
+                "id": "act_cameraPitchDown_wow",
+                "actionName": "Pitch Camera Down",
+                "defaultBinding": "Down Arrow",
+                "userBinding": null
+              },
+              {
+                "id": "act_zoomIn_wow",
+                "actionName": "Zoom In",
+                "defaultBinding": "MWheelUp",
+                "userBinding": null
+              },
+              {
+                "id": "act_zoomOut_wow",
+                "actionName": "Zoom Out",
+                "defaultBinding": "MWheelDown",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_miscSystem_wow",
+            "categoryName": "Misc & System",
+            "actions": [
+              {
+                "id": "act_sheathWeapon_wow",
+                "actionName": "Sheath / Unsheath Weapon",
+                "defaultBinding": "Z",
+                "userBinding": null
+              },
+              {
+                "id": "act_sitStand_wow",
+                "actionName": "Sit / Stand",
+                "defaultBinding": "X",
+                "userBinding": null
+              },
+              {
+                "id": "act_menu_wow",
+                "actionName": "Game Menu",
+                "defaultBinding": "Escape",
+                "userBinding": null
+              },
+              {
+                "id": "act_petBar_wow",
+                "actionName": "Toggle Pet Bar",
+                "defaultBinding": "N",
+                "userBinding": null
+              },
+              {
+                "id": "act_worldMap_wow",
+                "actionName": "World Map",
+                "defaultBinding": "LShift+M",
+                "userBinding": null
+              },
+              {
+                "id": "act_hideHelm_wow",
+                "actionName": "Hide / Show Helm",
+                "defaultBinding": "H",
+                "userBinding": null
+              },
+              {
+                "id": "act_screenshot_wow",
+                "actionName": "Screenshot",
+                "defaultBinding": "LCtrl+S",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+

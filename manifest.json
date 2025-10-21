@@ -243,5 +243,12 @@
     "gameName": "Rocket League",
     "profileDisplayName": "Default Rocket League Controls",
     "lastUpdated": "2025-10-20T12:00:00Z"
+  },
+  "worldofwarcraft_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/world-of-warcraft-default-v1.0.0.json",
+    "gameName": "World of Warcraft",
+    "profileDisplayName": "Default World of Warcraft Controls",
+    "lastUpdated": "2025-10-20T12:00:00Z"
   }
 } 
