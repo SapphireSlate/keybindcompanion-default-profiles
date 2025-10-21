@@ -1,0 +1,144 @@
+{
+  "profileId": "godot_default_v1",
+  "gameName": "Godot Engine",
+  "profileName": "Godot Engine",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729513800,
+  "description": "Essential keyboard shortcuts for Godot Engine - Open-source game engine for 2D and 3D development. Based on official Godot documentation.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_godot",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_generalEditor_godot",
+            "categoryName": "General Editor",
+            "actions": [
+              {"id": "act_playProject_godot", "actionName": "Play Project", "defaultBinding": "F5", "userBinding": null},
+              {"id": "act_playScene_godot", "actionName": "Play Scene", "defaultBinding": "F6", "userBinding": null},
+              {"id": "act_saveScene_godot", "actionName": "Save Scene", "defaultBinding": "LCtrl+S", "userBinding": null},
+              {"id": "act_saveSceneAs_godot", "actionName": "Save Scene As", "defaultBinding": "LCtrl+LShift+S", "userBinding": null},
+              {"id": "act_undo_godot", "actionName": "Undo", "defaultBinding": "LCtrl+Z", "userBinding": null},
+              {"id": "act_redo_godot", "actionName": "Redo", "defaultBinding": "LCtrl+Y", "userBinding": null},
+              {"id": "act_openScene_godot", "actionName": "Open Scene", "defaultBinding": "LCtrl+O", "userBinding": null},
+              {"id": "act_newScene_godot", "actionName": "New Scene", "defaultBinding": "LCtrl+N", "userBinding": null},
+              {"id": "act_quit_godot", "actionName": "Quit", "defaultBinding": "LCtrl+Q", "userBinding": null},
+              {"id": "act_copy_godot", "actionName": "Copy", "defaultBinding": "LCtrl+C", "userBinding": null},
+              {"id": "act_cut_godot", "actionName": "Cut", "defaultBinding": "LCtrl+X", "userBinding": null},
+              {"id": "act_paste_godot", "actionName": "Paste", "defaultBinding": "LCtrl+V", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_sceneTree_godot",
+            "categoryName": "Scene Tree",
+            "actions": [
+              {"id": "act_addChildNode_godot", "actionName": "Add Child Node", "defaultBinding": "LCtrl+A", "userBinding": null},
+              {"id": "act_batchRename_godot", "actionName": "Batch Rename", "defaultBinding": "LCtrl+F2", "userBinding": null},
+              {"id": "act_copyNodePath_godot", "actionName": "Copy Node Path", "defaultBinding": "LCtrl+LShift+C", "userBinding": null},
+              {"id": "act_duplicate_godot", "actionName": "Duplicate", "defaultBinding": "LCtrl+D", "userBinding": null},
+              {"id": "act_delete_godot", "actionName": "Delete", "defaultBinding": "Delete", "userBinding": null},
+              {"id": "act_moveUp_godot", "actionName": "Move Up", "defaultBinding": "LCtrl+Up Arrow", "userBinding": null},
+              {"id": "act_moveDown_godot", "actionName": "Move Down", "defaultBinding": "LCtrl+Down Arrow", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_3dEditor_godot",
+            "categoryName": "3D Editor (Spatial)",
+            "actions": [
+              {"id": "act_selectMode_godot", "actionName": "Select Mode", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_moveMode_godot", "actionName": "Move Mode", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_rotateMode_godot", "actionName": "Rotate Mode", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_scaleMode_godot", "actionName": "Scale Mode", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_listSelectMode_godot", "actionName": "List Select Mode", "defaultBinding": "T", "userBinding": null},
+              {"id": "act_focusSelection_godot", "actionName": "Focus on Selection", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_panView_godot", "actionName": "Pan View", "defaultBinding": "MMB", "userBinding": null},
+              {"id": "act_freelook_godot", "actionName": "Freelook Mode", "defaultBinding": "LShift+F", "userBinding": null},
+              {"id": "act_findNode_godot", "actionName": "Find Node", "defaultBinding": "LCtrl+F", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_2dEditor_godot",
+            "categoryName": "2D Editor (CanvasItem)",
+            "actions": [
+              {"id": "act_selectMode2d_godot", "actionName": "Select Mode", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_moveMode2d_godot", "actionName": "Move Mode", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_rotateMode2d_godot", "actionName": "Rotate Mode", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_scaleMode2d_godot", "actionName": "Scale Mode", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_panMode2d_godot", "actionName": "Pan Mode", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_zoomMode2d_godot", "actionName": "Zoom Mode", "defaultBinding": "Z", "userBinding": null},
+              {"id": "act_duplicate2d_godot", "actionName": "Duplicate", "defaultBinding": "LCtrl+D", "userBinding": null},
+              {"id": "act_gridSnap_godot", "actionName": "Grid Snap Toggle", "defaultBinding": "LCtrl+G", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_scriptEditor_godot",
+            "categoryName": "Script Editor",
+            "actions": [
+              {"id": "act_runScript_godot", "actionName": "Run Script", "defaultBinding": "F5", "userBinding": null},
+              {"id": "act_runCurrentScene_godot", "actionName": "Run Current Scene", "defaultBinding": "F6", "userBinding": null},
+              {"id": "act_find_godot", "actionName": "Find", "defaultBinding": "LCtrl+F", "userBinding": null},
+              {"id": "act_replace_godot", "actionName": "Replace", "defaultBinding": "LCtrl+H", "userBinding": null},
+              {"id": "act_findInFiles_godot", "actionName": "Find in Files", "defaultBinding": "LCtrl+LShift+F", "userBinding": null},
+              {"id": "act_deleteLine_godot", "actionName": "Delete Line", "defaultBinding": "LCtrl+LShift+K", "userBinding": null},
+              {"id": "act_toggleBreakpoint_godot", "actionName": "Toggle Breakpoint", "defaultBinding": "LCtrl+B", "userBinding": null},
+              {"id": "act_clearOutput_godot", "actionName": "Clear Output", "defaultBinding": "LCtrl+LShift+K", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_debugger_godot",
+            "categoryName": "Debugger",
+            "actions": [
+              {"id": "act_stepOver_godot", "actionName": "Step Over", "defaultBinding": "F10", "userBinding": null},
+              {"id": "act_stepInto_godot", "actionName": "Step Into", "defaultBinding": "F11", "userBinding": null},
+              {"id": "act_continue_godot", "actionName": "Continue", "defaultBinding": "F12", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_fileSystem_godot",
+            "categoryName": "FileSystem Dock",
+            "actions": [
+              {"id": "act_copyPath_godot", "actionName": "Copy Path", "defaultBinding": "LCtrl+C", "userBinding": null},
+              {"id": "act_duplicateFile_godot", "actionName": "Duplicate", "defaultBinding": "LCtrl+D", "userBinding": null},
+              {"id": "act_deleteFile_godot", "actionName": "Delete", "defaultBinding": "Delete", "userBinding": null},
+              {"id": "act_refresh_godot", "actionName": "Refresh", "defaultBinding": "F5", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_animation_godot",
+            "categoryName": "Animation Editor",
+            "actions": [
+              {"id": "act_duplicateAnim_godot", "actionName": "Duplicate Selection", "defaultBinding": "LCtrl+D", "userBinding": null},
+              {"id": "act_deleteAnim_godot", "actionName": "Delete Selection", "defaultBinding": "Delete", "userBinding": null},
+              {"id": "act_nextStep_godot", "actionName": "Go to Next Step", "defaultBinding": "LCtrl+Right Arrow", "userBinding": null},
+              {"id": "act_prevStep_godot", "actionName": "Go to Previous Step", "defaultBinding": "LCtrl+Left Arrow", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_projectManager_godot",
+            "categoryName": "Project Manager",
+            "actions": [
+              {"id": "act_newProject_godot", "actionName": "New Project", "defaultBinding": "LCtrl+N", "userBinding": null},
+              {"id": "act_importProject_godot", "actionName": "Import Project", "defaultBinding": "LCtrl+I", "userBinding": null},
+              {"id": "act_scanProjects_godot", "actionName": "Scan for Projects", "defaultBinding": "LCtrl+S", "userBinding": null},
+              {"id": "act_editProject_godot", "actionName": "Edit Project", "defaultBinding": "LCtrl+E", "userBinding": null},
+              {"id": "act_runProject_godot", "actionName": "Run Project", "defaultBinding": "LCtrl+R", "userBinding": null},
+              {"id": "act_renameProject_godot", "actionName": "Rename Project", "defaultBinding": "F2", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["Godot.exe", "Godot_v4.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}

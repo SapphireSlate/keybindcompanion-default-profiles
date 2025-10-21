@@ -194,5 +194,12 @@
     "gameName": "DaVinci Resolve",
     "profileDisplayName": "Essential DaVinci Resolve Shortcuts",
     "lastUpdated": "2025-10-21T08:30:00Z"
+  },
+  "godot_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/godot-default-v1.0.0.json",
+    "gameName": "Godot Engine",
+    "profileDisplayName": "Essential Godot Engine Shortcuts",
+    "lastUpdated": "2025-10-21T09:00:00Z"
   }
 } 
