@@ -1,0 +1,268 @@
+{
+  "profileId": "phasmophobia_default_v1",
+  "gameName": "Phasmophobia",
+  "profileName": "Phasmophobia",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729425600,
+  "description": "4-player online co-op psychological horror investigation game. Features ghost hunting equipment, voice recognition, and immersive horror gameplay. Keyboard/mouse and controller support.",
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "gameProcessNames": ["Phasmophobia.exe"],
+  "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_phas",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_phas",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_forward_phas",
+                "actionName": "Move Forward",
+                "defaultBinding": "W",
+                "userBinding": null
+              },
+              {
+                "id": "act_left_phas",
+                "actionName": "Move Left",
+                "defaultBinding": "A",
+                "userBinding": null
+              },
+              {
+                "id": "act_backward_phas",
+                "actionName": "Move Backward",
+                "defaultBinding": "S",
+                "userBinding": null
+              },
+              {
+                "id": "act_right_phas",
+                "actionName": "Move Right",
+                "defaultBinding": "D",
+                "userBinding": null
+              },
+              {
+                "id": "act_sprint_phas",
+                "actionName": "Sprint",
+                "defaultBinding": "LShift",
+                "userBinding": null
+              },
+              {
+                "id": "act_crouch_phas",
+                "actionName": "Crouch",
+                "defaultBinding": "C",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_interaction_phas",
+            "categoryName": "Interaction",
+            "actions": [
+              {
+                "id": "act_interact_phas",
+                "actionName": "Interact",
+                "defaultBinding": "E",
+                "userBinding": null
+              },
+              {
+                "id": "act_journal_phas",
+                "actionName": "Journal",
+                "defaultBinding": "J",
+                "userBinding": null
+              },
+              {
+                "id": "act_dropItem_phas",
+                "actionName": "Drop Item",
+                "defaultBinding": "G",
+                "userBinding": null
+              },
+              {
+                "id": "act_flashlight_phas",
+                "actionName": "Toggle Flashlight",
+                "defaultBinding": "T",
+                "userBinding": null
+              },
+              {
+                "id": "act_inventorySwap_phas",
+                "actionName": "Inventory Swap",
+                "defaultBinding": "Q",
+                "userBinding": null
+              },
+              {
+                "id": "act_useItem_phas",
+                "actionName": "Use Item",
+                "defaultBinding": "RMB",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_communication_phas",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_pushToTalkLocal_phas",
+                "actionName": "Push to Talk (Local)",
+                "defaultBinding": "V",
+                "userBinding": null
+              },
+              {
+                "id": "act_pushToTalkGlobal_phas",
+                "actionName": "Push to Talk (Global)",
+                "defaultBinding": "B",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_cameraSystem_phas",
+            "categoryName": "Camera & System",
+            "actions": [
+              {
+                "id": "act_lookAround_phas",
+                "actionName": "Look Around",
+                "defaultBinding": "Mouse",
+                "userBinding": null
+              },
+              {
+                "id": "act_scoreboard_phas",
+                "actionName": "Scoreboard",
+                "defaultBinding": "Tab",
+                "userBinding": null
+              },
+              {
+                "id": "act_menu_phas",
+                "actionName": "Menu",
+                "defaultBinding": "Escape",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_phas",
+        "deviceType": "controller",
+        "customName": "Xbox Controller",
+        "categories": [
+          {
+            "id": "cat_controllerMovement_phas",
+            "categoryName": "Movement",
+            "actions": [
+              {
+                "id": "act_controllerMove_phas",
+                "actionName": "Movement",
+                "defaultBinding": "Left Stick",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerLook_phas",
+                "actionName": "Look Around",
+                "defaultBinding": "Right Stick",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerSprint_phas",
+                "actionName": "Sprint",
+                "defaultBinding": "L3/LS",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerCrouch_phas",
+                "actionName": "Crouch",
+                "defaultBinding": "B/Circle",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_controllerInteraction_phas",
+            "categoryName": "Interaction",
+            "actions": [
+              {
+                "id": "act_controllerInteract_phas",
+                "actionName": "Interact",
+                "defaultBinding": "A/Cross",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerJournal_phas",
+                "actionName": "Journal",
+                "defaultBinding": "D-Pad Up",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerDropItem_phas",
+                "actionName": "Drop Item",
+                "defaultBinding": "X/Square",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerFlashlight_phas",
+                "actionName": "Toggle Flashlight",
+                "defaultBinding": "Y/Triangle",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerInventorySwap_phas",
+                "actionName": "Inventory Swap",
+                "defaultBinding": "D-Pad Left/Right",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerUseItem_phas",
+                "actionName": "Use Item",
+                "defaultBinding": "RT/R2",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_controllerCommunication_phas",
+            "categoryName": "Communication",
+            "actions": [
+              {
+                "id": "act_controllerPushToTalkLocal_phas",
+                "actionName": "Push to Talk (Local)",
+                "defaultBinding": "LB/L1",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerPushToTalkGlobal_phas",
+                "actionName": "Push to Talk (Global)",
+                "defaultBinding": "RB/R1",
+                "userBinding": null
+              }
+            ]
+          },
+          {
+            "id": "cat_controllerSystem_phas",
+            "categoryName": "System",
+            "actions": [
+              {
+                "id": "act_controllerScoreboard_phas",
+                "actionName": "Scoreboard",
+                "defaultBinding": "View/Share",
+                "userBinding": null
+              },
+              {
+                "id": "act_controllerMenu_phas",
+                "actionName": "Pause Menu",
+                "defaultBinding": "Menu/Options",
+                "userBinding": null
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
+

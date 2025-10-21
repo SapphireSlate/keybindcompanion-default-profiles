@@ -250,5 +250,12 @@
     "gameName": "World of Warcraft",
     "profileDisplayName": "Default World of Warcraft Controls",
     "lastUpdated": "2025-10-20T12:00:00Z"
+  },
+  "phasmophobia_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/phasmophobia-default-v1.0.0.json",
+    "gameName": "Phasmophobia",
+    "profileDisplayName": "Default Phasmophobia Controls",
+    "lastUpdated": "2025-10-20T12:00:00Z"
   }
 } 
