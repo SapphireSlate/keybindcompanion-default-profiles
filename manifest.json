@@ -208,5 +208,12 @@
     "gameName": "Unreal Engine 5",
     "profileDisplayName": "Essential Unreal Engine 5 Shortcuts",
     "lastUpdated": "2025-10-20T09:30:00Z"
+  },
+  "thefinals_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/the-finals-default-v1.0.0.json",
+    "gameName": "THE FINALS",
+    "profileDisplayName": "Default THE FINALS Controls",
+    "lastUpdated": "2025-10-20T10:00:00Z"
   }
 } 

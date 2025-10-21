@@ -1,0 +1,127 @@
+{
+  "profileId": "thefinals_default_v1",
+  "gameName": "THE FINALS",
+  "profileName": "THE FINALS",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729459500,
+  "description": "Complete default keybindings for THE FINALS - Fast-paced destruction FPS with environmental interaction. Includes keyboard/mouse and controller support.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_finals",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_finals",
+            "categoryName": "Movement",
+            "actions": [
+              {"id": "act_forward_finals", "actionName": "Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_backward_finals", "actionName": "Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_strafeLeft_finals", "actionName": "Strafe Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_strafeRight_finals", "actionName": "Strafe Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_jump_finals", "actionName": "Jump", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_sprint_finals", "actionName": "Sprint", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_crouchHold_finals", "actionName": "Crouch / Slide (Hold)", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_crouchToggle_finals", "actionName": "Crouch / Slide (Toggle)", "defaultBinding": "C", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_combat_finals",
+            "categoryName": "Combat",
+            "actions": [
+              {"id": "act_primaryFire_finals", "actionName": "Primary Fire", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_aimDownSight_finals", "actionName": "Aim Down Sight / Secondary Fire", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_reload_finals", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_quickMelee_finals", "actionName": "Quick Melee", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_specialization_finals", "actionName": "Specialization", "defaultBinding": "Q", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_interaction_finals",
+            "categoryName": "Interaction",
+            "actions": [
+              {"id": "act_interact_finals", "actionName": "Interact", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_pickUpObject_finals", "actionName": "Pick Up Object", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_ping_finals", "actionName": "Ping", "defaultBinding": "MMB", "userBinding": null},
+              {"id": "act_emote_finals", "actionName": "Emote", "defaultBinding": "H", "userBinding": null},
+              {"id": "act_expression_finals", "actionName": "Expression", "defaultBinding": "T", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_inventory_finals",
+            "categoryName": "Inventory",
+            "actions": [
+              {"id": "act_nextItem_finals", "actionName": "Next Item", "defaultBinding": "MWheelDown", "userBinding": null},
+              {"id": "act_previousItem_finals", "actionName": "Previous Item", "defaultBinding": "MWheelUp", "userBinding": null},
+              {"id": "act_weapon_finals", "actionName": "Weapon", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_gadget1_finals", "actionName": "Gadget 1", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_gadget2_finals", "actionName": "Gadget 2", "defaultBinding": "3", "userBinding": null},
+              {"id": "act_gadget3_finals", "actionName": "Gadget 3", "defaultBinding": "4", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_finals",
+            "categoryName": "Communication & Interface",
+            "actions": [
+              {"id": "act_scoreboard_finals", "actionName": "Scoreboard", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_pushToTalk_finals", "actionName": "Push To Talk", "defaultBinding": "Z", "userBinding": null},
+              {"id": "act_social_finals", "actionName": "Social", "defaultBinding": "P", "userBinding": null},
+              {"id": "act_toggleVoiceChat_finals", "actionName": "Toggle Voice Chat", "defaultBinding": "K", "userBinding": null},
+              {"id": "act_changeLoadout_finals", "actionName": "Change Loadout", "defaultBinding": "J", "userBinding": null},
+              {"id": "act_commWheel_finals", "actionName": "Communication Wheel", "defaultBinding": "B", "userBinding": null},
+              {"id": "act_systemMenu_finals", "actionName": "System Menu", "defaultBinding": "Escape", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_finals",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerCombatMovement_finals",
+            "categoryName": "Combat & Movement",
+            "actions": [
+              {"id": "act_controllerMove_finals", "actionName": "Movement", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerLook_finals", "actionName": "Look", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerInteract_finals", "actionName": "Interact", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerPrimaryFire_finals", "actionName": "Primary Fire", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerAimDownSight_finals", "actionName": "Aim Down Sight", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerSpecialization_finals", "actionName": "Specialization", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerReload_finals", "actionName": "Reload", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerMelee_finals", "actionName": "Quick Melee", "defaultBinding": "Right Stick Click", "userBinding": null},
+              {"id": "act_controllerCrouch_finals", "actionName": "Crouch / Slide", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerSprint_finals", "actionName": "Sprint", "defaultBinding": "Left Stick Click", "userBinding": null},
+              {"id": "act_controllerJump_finals", "actionName": "Jump", "defaultBinding": "A/X", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerSystems_finals",
+            "categoryName": "Systems & Interface",
+            "actions": [
+              {"id": "act_controllerPing_finals", "actionName": "Ping", "defaultBinding": "D-Pad Left", "userBinding": null},
+              {"id": "act_controllerInspect_finals", "actionName": "Inspect Weapon", "defaultBinding": "D-Pad Right", "userBinding": null},
+              {"id": "act_controllerEmote_finals", "actionName": "Emote", "defaultBinding": "D-Pad Down", "userBinding": null},
+              {"id": "act_controllerCommWheel_finals", "actionName": "Communication Wheel", "defaultBinding": "D-Pad Up", "userBinding": null},
+              {"id": "act_controllerWeapon_finals", "actionName": "Weapon", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerEquipmentWheel_finals", "actionName": "Equipment Wheel", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerScoreboard_finals", "actionName": "Scoreboard", "defaultBinding": "View/Touchpad", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["THE FINALS.exe", "TheFinals.exe", "Discovery-Win64-Shipping.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
