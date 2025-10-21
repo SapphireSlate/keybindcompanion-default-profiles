@@ -222,5 +222,12 @@
     "gameName": "Fortnite",
     "profileDisplayName": "Default Fortnite Controls",
     "lastUpdated": "2025-10-20T10:30:00Z"
+  },
+  "league_of_legends_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/league-of-legends-default-v1.0.0.json",
+    "gameName": "League of Legends",
+    "profileDisplayName": "Default League of Legends Controls",
+    "lastUpdated": "2025-10-20T11:00:00Z"
   }
 } 

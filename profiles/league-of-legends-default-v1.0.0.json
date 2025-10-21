@@ -1,0 +1,122 @@
+{
+  "profileId": "league_of_legends_default_v1",
+  "gameName": "League of Legends",
+  "profileName": "League of Legends",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729460100,
+  "description": "Complete default keybindings for League of Legends - MOBA with champion abilities, items, and strategic gameplay. Keyboard & mouse only.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_lol",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_championAbilities_lol",
+            "categoryName": "Champion Abilities",
+            "actions": [
+              {"id": "act_qAbility_lol", "actionName": "Q Ability", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_wAbility_lol", "actionName": "W Ability", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_eAbility_lol", "actionName": "E Ability", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_rAbility_lol", "actionName": "R Ability (Ultimate)", "defaultBinding": "R", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_abilityLeveling_lol",
+            "categoryName": "Ability Leveling",
+            "actions": [
+              {"id": "act_levelQ_lol", "actionName": "Level Up Q", "defaultBinding": "LCtrl+Q", "userBinding": null},
+              {"id": "act_levelW_lol", "actionName": "Level Up W", "defaultBinding": "LCtrl+W", "userBinding": null},
+              {"id": "act_levelE_lol", "actionName": "Level Up E", "defaultBinding": "LCtrl+E", "userBinding": null},
+              {"id": "act_levelR_lol", "actionName": "Level Up R", "defaultBinding": "LCtrl+R", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_summonerSpells_lol",
+            "categoryName": "Summoner Spells",
+            "actions": [
+              {"id": "act_summonerD_lol", "actionName": "Summoner Spell D", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_summonerF_lol", "actionName": "Summoner Spell F", "defaultBinding": "F", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_items_lol",
+            "categoryName": "Items",
+            "actions": [
+              {"id": "act_item1_lol", "actionName": "Item Slot 1", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_item2_lol", "actionName": "Item Slot 2", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_item3_lol", "actionName": "Item Slot 3", "defaultBinding": "3", "userBinding": null},
+              {"id": "act_trinket_lol", "actionName": "Trinket", "defaultBinding": "4", "userBinding": null},
+              {"id": "act_item5_lol", "actionName": "Item Slot 5", "defaultBinding": "5", "userBinding": null},
+              {"id": "act_item6_lol", "actionName": "Item Slot 6", "defaultBinding": "6", "userBinding": null},
+              {"id": "act_trinketAlt_lol", "actionName": "Trinket (Alternative)", "defaultBinding": "7", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_movementCombat_lol",
+            "categoryName": "Movement & Combat",
+            "actions": [
+              {"id": "act_moveAttack_lol", "actionName": "Move / Attack", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_attackMove_lol", "actionName": "Attack Move", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_attackMoveX_lol", "actionName": "Attack Move (Alternative)", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_stop_lol", "actionName": "Stop", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_holdPosition_lol", "actionName": "Hold Position", "defaultBinding": "H", "userBinding": null},
+              {"id": "act_attackMoveClick_lol", "actionName": "Attack Move Click", "defaultBinding": "LShift+RMB", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_cameraView_lol",
+            "categoryName": "Camera & View",
+            "actions": [
+              {"id": "act_toggleCameraLock_lol", "actionName": "Toggle Camera Lock", "defaultBinding": "Y", "userBinding": null},
+              {"id": "act_centerCamera_lol", "actionName": "Center Camera on Champion", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_viewAlly1_lol", "actionName": "View Ally 1", "defaultBinding": "F1", "userBinding": null},
+              {"id": "act_viewAlly2_lol", "actionName": "View Ally 2", "defaultBinding": "F2", "userBinding": null},
+              {"id": "act_viewAlly3_lol", "actionName": "View Ally 3", "defaultBinding": "F3", "userBinding": null},
+              {"id": "act_viewAlly4_lol", "actionName": "View Ally 4", "defaultBinding": "F4", "userBinding": null},
+              {"id": "act_viewAlly5_lol", "actionName": "View Ally 5", "defaultBinding": "F5", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_lol",
+            "categoryName": "Communication",
+            "actions": [
+              {"id": "act_pingMenu_lol", "actionName": "Ping Menu", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_dangerPing_lol", "actionName": "Danger Ping", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_jokeEmote_lol", "actionName": "Joke Emote", "defaultBinding": "LCtrl+1", "userBinding": null},
+              {"id": "act_tauntEmote_lol", "actionName": "Taunt Emote", "defaultBinding": "LCtrl+2", "userBinding": null},
+              {"id": "act_danceEmote_lol", "actionName": "Dance Emote", "defaultBinding": "LCtrl+3", "userBinding": null},
+              {"id": "act_laughEmote_lol", "actionName": "Laugh Emote", "defaultBinding": "LCtrl+4", "userBinding": null},
+              {"id": "act_openChat_lol", "actionName": "Open Chat", "defaultBinding": "Enter", "userBinding": null},
+              {"id": "act_allChat_lol", "actionName": "All Chat", "defaultBinding": "LShift+Enter", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_interface_lol",
+            "categoryName": "Interface",
+            "actions": [
+              {"id": "act_shop_lol", "actionName": "Open Shop", "defaultBinding": "P", "userBinding": null},
+              {"id": "act_scoreboard_lol", "actionName": "Show Scoreboard", "defaultBinding": "O", "userBinding": null},
+              {"id": "act_characterInfo_lol", "actionName": "Show Character Info", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_scoreboardTemp_lol", "actionName": "Show Scoreboard (Hold)", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_recall_lol", "actionName": "Recall to Base", "defaultBinding": "B", "userBinding": null},
+              {"id": "act_menu_lol", "actionName": "Menu", "defaultBinding": "Escape", "userBinding": null},
+              {"id": "act_chatHistory_lol", "actionName": "Show Chat History", "defaultBinding": "Z", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["League of Legends.exe", "LeagueClient.exe", "LeagueClientUx.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
