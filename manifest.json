@@ -215,5 +215,12 @@
     "gameName": "THE FINALS",
     "profileDisplayName": "Default THE FINALS Controls",
     "lastUpdated": "2025-10-20T10:00:00Z"
+  },
+  "fortnite_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/fortnite-default-v1.0.0.json",
+    "gameName": "Fortnite",
+    "profileDisplayName": "Default Fortnite Controls",
+    "lastUpdated": "2025-10-20T10:30:00Z"
   }
 } 

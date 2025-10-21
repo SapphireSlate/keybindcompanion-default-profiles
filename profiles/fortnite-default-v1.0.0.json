@@ -1,0 +1,150 @@
+{
+  "profileId": "fortnite_default_v1",
+  "gameName": "Fortnite",
+  "profileName": "Fortnite",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729459800,
+  "description": "Complete default keybindings for Fortnite - Battle royale with unique building mechanics. Includes combat, building, editing, and controller support.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_fortnite",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_fortnite",
+            "categoryName": "Movement",
+            "actions": [
+              {"id": "act_forward_fortnite", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_backward_fortnite", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_left_fortnite", "actionName": "Move Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_right_fortnite", "actionName": "Move Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_jump_fortnite", "actionName": "Jump", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_sprint_fortnite", "actionName": "Sprint", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_crouch_fortnite", "actionName": "Crouch", "defaultBinding": "LCtrl", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_combat_fortnite",
+            "categoryName": "Combat",
+            "actions": [
+              {"id": "act_fire_fortnite", "actionName": "Fire", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_targetADS_fortnite", "actionName": "Target / Aim Down Sights", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_reload_fortnite", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_use_fortnite", "actionName": "Use / Interact", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_harvestingTool_fortnite", "actionName": "Harvesting Tool (Pickaxe)", "defaultBinding": "1", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_buildingPieces_fortnite",
+            "categoryName": "Building Pieces",
+            "actions": [
+              {"id": "act_wall_fortnite", "actionName": "Wall", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_floor_fortnite", "actionName": "Floor", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_stairs_fortnite", "actionName": "Stairs / Ramp", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_roof_fortnite", "actionName": "Roof / Pyramid", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_trap_fortnite", "actionName": "Trap", "defaultBinding": "T", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_buildingControls_fortnite",
+            "categoryName": "Building Controls",
+            "actions": [
+              {"id": "act_buildMode_fortnite", "actionName": "Toggle Building Mode", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_editMode_fortnite", "actionName": "Building Edit", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_placeBuilding_fortnite", "actionName": "Place Building", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_rotateBuild_fortnite", "actionName": "Rotate Building", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_changeMaterial_fortnite", "actionName": "Change Building Material", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_repairBuild_fortnite", "actionName": "Repair Building", "defaultBinding": "H", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_inventory_fortnite",
+            "categoryName": "Inventory & Quick Bar",
+            "actions": [
+              {"id": "act_slot1_fortnite", "actionName": "Quick Bar Slot 1", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_slot2_fortnite", "actionName": "Quick Bar Slot 2", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_slot3_fortnite", "actionName": "Quick Bar Slot 3", "defaultBinding": "3", "userBinding": null},
+              {"id": "act_slot4_fortnite", "actionName": "Quick Bar Slot 4", "defaultBinding": "4", "userBinding": null},
+              {"id": "act_slot5_fortnite", "actionName": "Quick Bar Slot 5", "defaultBinding": "5", "userBinding": null},
+              {"id": "act_slot6_fortnite", "actionName": "Quick Bar Slot 6", "defaultBinding": "6", "userBinding": null},
+              {"id": "act_cycleNext_fortnite", "actionName": "Cycle Weapons (Next)", "defaultBinding": "MWheelDown", "userBinding": null},
+              {"id": "act_cyclePrev_fortnite", "actionName": "Cycle Weapons (Previous)", "defaultBinding": "MWheelUp", "userBinding": null},
+              {"id": "act_inventory_fortnite", "actionName": "Inventory", "defaultBinding": "Tab", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_mapInterface_fortnite",
+            "categoryName": "Map & Interface",
+            "actions": [
+              {"id": "act_map_fortnite", "actionName": "Map", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_menu_fortnite", "actionName": "Menu", "defaultBinding": "Escape", "userBinding": null},
+              {"id": "act_emote_fortnite", "actionName": "Emote", "defaultBinding": "B", "userBinding": null},
+              {"id": "act_ping_fortnite", "actionName": "Ping", "defaultBinding": "MMB", "userBinding": null},
+              {"id": "act_marker_fortnite", "actionName": "Place Marker", "defaultBinding": "LMB", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_fortnite",
+            "categoryName": "Communication",
+            "actions": [
+              {"id": "act_pushToTalk_fortnite", "actionName": "Push to Talk", "defaultBinding": "Y", "userBinding": null},
+              {"id": "act_textChat_fortnite", "actionName": "Text Chat", "defaultBinding": "Enter", "userBinding": null},
+              {"id": "act_partyChat_fortnite", "actionName": "Party Chat", "defaultBinding": "/", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_fortnite",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerCombatMovement_fortnite",
+            "categoryName": "Combat & Movement",
+            "actions": [
+              {"id": "act_controllerMove_fortnite", "actionName": "Movement", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerLook_fortnite", "actionName": "Look", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerJump_fortnite", "actionName": "Jump", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerFire_fortnite", "actionName": "Fire", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerAim_fortnite", "actionName": "Aim Down Sights", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerReload_fortnite", "actionName": "Reload", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerInteract_fortnite", "actionName": "Use / Interact", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerSprint_fortnite", "actionName": "Sprint", "defaultBinding": "Left Stick Click", "userBinding": null},
+              {"id": "act_controllerCrouch_fortnite", "actionName": "Crouch", "defaultBinding": "Right Stick Click", "userBinding": null},
+              {"id": "act_controllerPickaxe_fortnite", "actionName": "Harvesting Tool", "defaultBinding": "Y/Triangle", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerBuildingSystems_fortnite",
+            "categoryName": "Building & Systems",
+            "actions": [
+              {"id": "act_controllerBuildMode_fortnite", "actionName": "Building Mode", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerEdit_fortnite", "actionName": "Building Edit", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerPlace_fortnite", "actionName": "Place Building", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerRotate_fortnite", "actionName": "Rotate Building", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerWall_fortnite", "actionName": "Wall", "defaultBinding": "D-Pad Up", "userBinding": null},
+              {"id": "act_controllerFloor_fortnite", "actionName": "Floor", "defaultBinding": "D-Pad Left", "userBinding": null},
+              {"id": "act_controllerStairs_fortnite", "actionName": "Stairs", "defaultBinding": "D-Pad Right", "userBinding": null},
+              {"id": "act_controllerRoof_fortnite", "actionName": "Roof", "defaultBinding": "D-Pad Down", "userBinding": null},
+              {"id": "act_controllerMap_fortnite", "actionName": "Map", "defaultBinding": "View/Touchpad", "userBinding": null},
+              {"id": "act_controllerInventory_fortnite", "actionName": "Inventory", "defaultBinding": "Start/Options", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["FortniteClient-Win64-Shipping.exe", "FortniteLauncher.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
