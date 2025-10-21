@@ -173,5 +173,12 @@
     "gameName": "Microsoft Flight Simulator 2024",
     "profileDisplayName": "Default Microsoft Flight Simulator 2024 Controls",
     "lastUpdated": "2025-10-21T07:00:00Z"
+  },
+  "iracing_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/iracing-default-v1.0.0.json",
+    "gameName": "iRacing",
+    "profileDisplayName": "Default iRacing Controls",
+    "lastUpdated": "2025-10-21T07:30:00Z"
   }
 } 

@@ -1,0 +1,180 @@
+{
+  "profileId": "iracing_default_v1",
+  "gameName": "iRacing",
+  "profileName": "iRacing",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729512900,
+  "description": "Complete default keybindings for iRacing - Professional racing simulation with keyboard, gamepad, and wheel/pedals support.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_iracing",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard",
+        "categories": [
+          {
+            "id": "cat_basicDriving_iracing",
+            "categoryName": "Basic Driving Controls",
+            "actions": [
+              {"id": "act_throttle_iracing", "actionName": "Throttle", "defaultBinding": "Up Arrow", "userBinding": null},
+              {"id": "act_brake_iracing", "actionName": "Brake", "defaultBinding": "Down Arrow", "userBinding": null},
+              {"id": "act_steerLeft_iracing", "actionName": "Steer Left", "defaultBinding": "Left Arrow", "userBinding": null},
+              {"id": "act_steerRight_iracing", "actionName": "Steer Right", "defaultBinding": "Right Arrow", "userBinding": null},
+              {"id": "act_upshift_iracing", "actionName": "Upshift", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_downshift_iracing", "actionName": "Downshift", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_clutch_iracing", "actionName": "Clutch", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_handbrake_iracing", "actionName": "Handbrake", "defaultBinding": "Space", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_carControls_iracing",
+            "categoryName": "Car Controls",
+            "actions": [
+              {"id": "act_ignition_iracing", "actionName": "Ignition", "defaultBinding": "I", "userBinding": null},
+              {"id": "act_starter_iracing", "actionName": "Starter", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_pitLimiter_iracing", "actionName": "Pit Speed Limiter", "defaultBinding": "P", "userBinding": null},
+              {"id": "act_brakeBias_iracing", "actionName": "Brake Bias Adjust", "defaultBinding": "B", "userBinding": null},
+              {"id": "act_tractionControl_iracing", "actionName": "Traction Control", "defaultBinding": "T", "userBinding": null},
+              {"id": "act_drs_iracing", "actionName": "DRS Activate", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_tearOffVisor_iracing", "actionName": "Tear Off Visor", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_pitLights_iracing", "actionName": "Pit Lane Lights", "defaultBinding": "L", "userBinding": null},
+              {"id": "act_headlights_iracing", "actionName": "Headlights", "defaultBinding": "H", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_cameraViews_iracing",
+            "categoryName": "Camera & Views",
+            "actions": [
+              {"id": "act_cockpitView_iracing", "actionName": "Cockpit View", "defaultBinding": "F1", "userBinding": null},
+              {"id": "act_chaseView_iracing", "actionName": "Chase View", "defaultBinding": "F2", "userBinding": null},
+              {"id": "act_tvView_iracing", "actionName": "TV Camera", "defaultBinding": "F3", "userBinding": null},
+              {"id": "act_blimp_iracing", "actionName": "Blimp View", "defaultBinding": "F4", "userBinding": null},
+              {"id": "act_lookLeft_iracing", "actionName": "Look Left", "defaultBinding": "Home", "userBinding": null},
+              {"id": "act_lookRight_iracing", "actionName": "Look Right", "defaultBinding": "End", "userBinding": null},
+              {"id": "act_lookBack_iracing", "actionName": "Look Back", "defaultBinding": "PgDn", "userBinding": null},
+              {"id": "act_recenterView_iracing", "actionName": "Recenter View / HMD", "defaultBinding": "Num 5", "userBinding": null},
+              {"id": "act_zoomIn_iracing", "actionName": "Zoom In", "defaultBinding": "PgUp", "userBinding": null},
+              {"id": "act_zoomOut_iracing", "actionName": "Zoom Out", "defaultBinding": "PgDn", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_interface_iracing",
+            "categoryName": "Interface & Menu",
+            "actions": [
+              {"id": "act_blackBox_iracing", "actionName": "Black Box", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_menu_iracing", "actionName": "Menu", "defaultBinding": "Escape", "userBinding": null},
+              {"id": "act_select_iracing", "actionName": "Select", "defaultBinding": "Enter", "userBinding": null},
+              {"id": "act_hud_iracing", "actionName": "Toggle HUD", "defaultBinding": "F9", "userBinding": null},
+              {"id": "act_standings_iracing", "actionName": "Standings", "defaultBinding": "F10", "userBinding": null},
+              {"id": "act_relativeBox_iracing", "actionName": "Relative Box", "defaultBinding": "F11", "userBinding": null},
+              {"id": "act_fuelCalc_iracing", "actionName": "Fuel Calculator", "defaultBinding": "F12", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_iracing",
+            "categoryName": "Communication",
+            "actions": [
+              {"id": "act_pushToTalk_iracing", "actionName": "Push to Talk", "defaultBinding": "LAlt", "userBinding": null},
+              {"id": "act_spotter_iracing", "actionName": "Spotter", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_crewChief_iracing", "actionName": "Crew Chief", "defaultBinding": "W", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_iracing",
+        "deviceType": "controller",
+        "customName": "Gamepad",
+        "categories": [
+          {
+            "id": "cat_controllerDriving_iracing",
+            "categoryName": "Driving Controls",
+            "actions": [
+              {"id": "act_controllerSteer_iracing", "actionName": "Steering", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerThrottle_iracing", "actionName": "Throttle", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerBrake_iracing", "actionName": "Brake", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerClutch_iracing", "actionName": "Clutch", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerUpshift_iracing", "actionName": "Upshift", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerDownshift_iracing", "actionName": "Downshift", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerHandbrake_iracing", "actionName": "Handbrake", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerPitLimiter_iracing", "actionName": "Pit Limiter", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerLook_iracing", "actionName": "Look Around", "defaultBinding": "Right Stick", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerSystems_iracing",
+            "categoryName": "Systems & Interface",
+            "actions": [
+              {"id": "act_controllerBrakeBias_iracing", "actionName": "Brake Bias", "defaultBinding": "D-Pad Up/Down", "userBinding": null},
+              {"id": "act_controllerTractionControl_iracing", "actionName": "Traction Control", "defaultBinding": "D-Pad Left", "userBinding": null},
+              {"id": "act_controllerDRS_iracing", "actionName": "DRS", "defaultBinding": "D-Pad Right", "userBinding": null},
+              {"id": "act_controllerMenu_iracing", "actionName": "Menu", "defaultBinding": "Start/Options", "userBinding": null},
+              {"id": "act_controllerBlackBox_iracing", "actionName": "Black Box", "defaultBinding": "View/Share", "userBinding": null},
+              {"id": "act_controllerCamera_iracing", "actionName": "Change Camera", "defaultBinding": "X/Square", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_wheel_iracing",
+        "deviceType": "racingWheel",
+        "customName": "Racing Wheel & Pedals",
+        "categories": [
+          {
+            "id": "cat_wheelAxes_iracing",
+            "categoryName": "Wheel & Pedal Axes",
+            "actions": [
+              {"id": "act_wheelSteeringAxis_iracing", "actionName": "Steering Axis", "defaultBinding": "Wheel Axis", "userBinding": null},
+              {"id": "act_wheelThrottleAxis_iracing", "actionName": "Throttle Pedal Axis", "defaultBinding": "Throttle Pedal", "userBinding": null},
+              {"id": "act_wheelBrakeAxis_iracing", "actionName": "Brake Pedal Axis", "defaultBinding": "Brake Pedal", "userBinding": null},
+              {"id": "act_wheelClutchAxis_iracing", "actionName": "Clutch Pedal Axis", "defaultBinding": "Clutch Pedal", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_shifterPaddles_iracing",
+            "categoryName": "Shifter & Paddles",
+            "actions": [
+              {"id": "act_wheelPaddleUp_iracing", "actionName": "Paddle Shift Up", "defaultBinding": "Right Paddle", "userBinding": null},
+              {"id": "act_wheelPaddleDown_iracing", "actionName": "Paddle Shift Down", "defaultBinding": "Left Paddle", "userBinding": null},
+              {"id": "act_wheelSequentialUp_iracing", "actionName": "Sequential Up", "defaultBinding": "Shifter Forward", "userBinding": null},
+              {"id": "act_wheelSequentialDown_iracing", "actionName": "Sequential Down", "defaultBinding": "Shifter Back", "userBinding": null},
+              {"id": "act_wheelGear1_iracing", "actionName": "Gear 1", "defaultBinding": "H-Pattern Gear 1", "userBinding": null},
+              {"id": "act_wheelGear2_iracing", "actionName": "Gear 2", "defaultBinding": "H-Pattern Gear 2", "userBinding": null},
+              {"id": "act_wheelGear3_iracing", "actionName": "Gear 3", "defaultBinding": "H-Pattern Gear 3", "userBinding": null},
+              {"id": "act_wheelGear4_iracing", "actionName": "Gear 4", "defaultBinding": "H-Pattern Gear 4", "userBinding": null},
+              {"id": "act_wheelGear5_iracing", "actionName": "Gear 5", "defaultBinding": "H-Pattern Gear 5", "userBinding": null},
+              {"id": "act_wheelGear6_iracing", "actionName": "Gear 6", "defaultBinding": "H-Pattern Gear 6", "userBinding": null},
+              {"id": "act_wheelReverse_iracing", "actionName": "Reverse", "defaultBinding": "H-Pattern Reverse", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_wheelButtons_iracing",
+            "categoryName": "Wheel Buttons",
+            "actions": [
+              {"id": "act_wheelButton1_iracing", "actionName": "Button 1 (Pit Limiter)", "defaultBinding": "Wheel Button 1", "userBinding": null},
+              {"id": "act_wheelButton2_iracing", "actionName": "Button 2 (Brake Bias+)", "defaultBinding": "Wheel Button 2", "userBinding": null},
+              {"id": "act_wheelButton3_iracing", "actionName": "Button 3 (Brake Bias-)", "defaultBinding": "Wheel Button 3", "userBinding": null},
+              {"id": "act_wheelButton4_iracing", "actionName": "Button 4 (DRS)", "defaultBinding": "Wheel Button 4", "userBinding": null},
+              {"id": "act_wheelButton5_iracing", "actionName": "Button 5 (TC Toggle)", "defaultBinding": "Wheel Button 5", "userBinding": null},
+              {"id": "act_wheelButton6_iracing", "actionName": "Button 6 (Look Left)", "defaultBinding": "Wheel Button 6", "userBinding": null},
+              {"id": "act_wheelButton7_iracing", "actionName": "Button 7 (Look Right)", "defaultBinding": "Wheel Button 7", "userBinding": null},
+              {"id": "act_wheelButton8_iracing", "actionName": "Button 8 (Black Box)", "defaultBinding": "Wheel Button 8", "userBinding": null},
+              {"id": "act_wheelButton9_iracing", "actionName": "Button 9 (Ignition)", "defaultBinding": "Wheel Button 9", "userBinding": null},
+              {"id": "act_wheelButton10_iracing", "actionName": "Button 10 (Starter)", "defaultBinding": "Wheel Button 10", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["iRacingSim64.exe", "iRacingSim.exe", "iRacingService.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
