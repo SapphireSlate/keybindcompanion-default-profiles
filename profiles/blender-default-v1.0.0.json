@@ -1,0 +1,127 @@
+{
+  "profileId": "blender_default_v1",
+  "gameName": "Blender",
+  "profileName": "Blender",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729513200,
+  "description": "Essential keyboard shortcuts for Blender - Professional 3D creation suite. Covers the most-used operations for modeling, animation, and rendering.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_blender",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_transform_blender",
+            "categoryName": "Transform Tools",
+            "actions": [
+              {"id": "act_grab_blender", "actionName": "Grab / Move", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_rotate_blender", "actionName": "Rotate", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_scale_blender", "actionName": "Scale", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_delete_blender", "actionName": "Delete", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_duplicate_blender", "actionName": "Duplicate", "defaultBinding": "LShift+D", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_selection_blender",
+            "categoryName": "Selection",
+            "actions": [
+              {"id": "act_selectAll_blender", "actionName": "Select All / Deselect All", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_boxSelect_blender", "actionName": "Box Select", "defaultBinding": "B", "userBinding": null},
+              {"id": "act_circleSelect_blender", "actionName": "Circle Select", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_invertSelection_blender", "actionName": "Invert Selection", "defaultBinding": "LCtrl+I", "userBinding": null},
+              {"id": "act_selectLinked_blender", "actionName": "Select Linked", "defaultBinding": "L", "userBinding": null},
+              {"id": "act_deselectAll_blender", "actionName": "Deselect All", "defaultBinding": "LAlt+A", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_viewNavigation_blender",
+            "categoryName": "View Navigation",
+            "actions": [
+              {"id": "act_rotateView_blender", "actionName": "Rotate View", "defaultBinding": "MMB", "userBinding": null},
+              {"id": "act_panView_blender", "actionName": "Pan View", "defaultBinding": "LShift+MMB", "userBinding": null},
+              {"id": "act_zoomView_blender", "actionName": "Zoom View", "defaultBinding": "MWheel", "userBinding": null},
+              {"id": "act_frontView_blender", "actionName": "Front View", "defaultBinding": "Numpad 1", "userBinding": null},
+              {"id": "act_sideView_blender", "actionName": "Side View", "defaultBinding": "Numpad 3", "userBinding": null},
+              {"id": "act_topView_blender", "actionName": "Top View", "defaultBinding": "Numpad 7", "userBinding": null},
+              {"id": "act_togglePerspective_blender", "actionName": "Toggle Perspective / Ortho", "defaultBinding": "Numpad 5", "userBinding": null},
+              {"id": "act_cameraView_blender", "actionName": "Camera View", "defaultBinding": "Numpad 0", "userBinding": null},
+              {"id": "act_frameSelected_blender", "actionName": "Frame Selected", "defaultBinding": "Numpad .", "userBinding": null},
+              {"id": "act_viewAll_blender", "actionName": "View All", "defaultBinding": "Home", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_modesInterface_blender",
+            "categoryName": "Modes & Interface",
+            "actions": [
+              {"id": "act_toggleEditMode_blender", "actionName": "Toggle Edit / Object Mode", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_modePieMenu_blender", "actionName": "Mode Pie Menu", "defaultBinding": "LCtrl+Tab", "userBinding": null},
+              {"id": "act_shadingPieMenu_blender", "actionName": "Shading Pie Menu", "defaultBinding": "Z", "userBinding": null},
+              {"id": "act_toolbarToggle_blender", "actionName": "Toolbar Toggle", "defaultBinding": "T", "userBinding": null},
+              {"id": "act_propertiesPanel_blender", "actionName": "Properties Panel", "defaultBinding": "N", "userBinding": null},
+              {"id": "act_vertexSelect_blender", "actionName": "Vertex Select Mode", "defaultBinding": "1", "userBinding": null},
+              {"id": "act_edgeSelect_blender", "actionName": "Edge Select Mode", "defaultBinding": "2", "userBinding": null},
+              {"id": "act_faceSelect_blender", "actionName": "Face Select Mode", "defaultBinding": "3", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_commonOps_blender",
+            "categoryName": "Common Operations",
+            "actions": [
+              {"id": "act_undo_blender", "actionName": "Undo", "defaultBinding": "LCtrl+Z", "userBinding": null},
+              {"id": "act_redo_blender", "actionName": "Redo", "defaultBinding": "LCtrl+LShift+Z", "userBinding": null},
+              {"id": "act_save_blender", "actionName": "Save", "defaultBinding": "LCtrl+S", "userBinding": null},
+              {"id": "act_addObject_blender", "actionName": "Add Object Menu", "defaultBinding": "LShift+A", "userBinding": null},
+              {"id": "act_moveToCollection_blender", "actionName": "Move to Collection", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_hideSelected_blender", "actionName": "Hide Selected", "defaultBinding": "H", "userBinding": null},
+              {"id": "act_unhideAll_blender", "actionName": "Unhide All", "defaultBinding": "LAlt+H", "userBinding": null},
+              {"id": "act_joinObjects_blender", "actionName": "Join Objects", "defaultBinding": "LCtrl+J", "userBinding": null},
+              {"id": "act_separate_blender", "actionName": "Separate", "defaultBinding": "P", "userBinding": null},
+              {"id": "act_proportionalEditing_blender", "actionName": "Proportional Editing Toggle", "defaultBinding": "O", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_modelingEditing_blender",
+            "categoryName": "Modeling & Editing",
+            "actions": [
+              {"id": "act_extrude_blender", "actionName": "Extrude", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_inset_blender", "actionName": "Inset / Insert", "defaultBinding": "I", "userBinding": null},
+              {"id": "act_loopCut_blender", "actionName": "Loop Cut", "defaultBinding": "LCtrl+R", "userBinding": null},
+              {"id": "act_knifeTool_blender", "actionName": "Knife Tool", "defaultBinding": "K", "userBinding": null},
+              {"id": "act_fillFace_blender", "actionName": "Fill / Make Face", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_bevel_blender", "actionName": "Bevel", "defaultBinding": "LCtrl+B", "userBinding": null},
+              {"id": "act_extrudeMenu_blender", "actionName": "Extrude Menu", "defaultBinding": "LAlt+E", "userBinding": null},
+              {"id": "act_applyMenu_blender", "actionName": "Apply Menu", "defaultBinding": "LCtrl+A", "userBinding": null},
+              {"id": "act_snapMenu_blender", "actionName": "Snap Menu", "defaultBinding": "LShift+S", "userBinding": null},
+              {"id": "act_mergeMenu_blender", "actionName": "Merge Menu", "defaultBinding": "LAlt+M", "userBinding": null},
+              {"id": "act_constrainX_blender", "actionName": "Constrain to X Axis", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_constrainY_blender", "actionName": "Constrain to Y Axis", "defaultBinding": "Y", "userBinding": null},
+              {"id": "act_constrainZ_blender", "actionName": "Constrain to Z Axis", "defaultBinding": "Z", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_cameraRendering_blender",
+            "categoryName": "Camera & Rendering",
+            "actions": [
+              {"id": "act_renderImage_blender", "actionName": "Render Image", "defaultBinding": "F12", "userBinding": null},
+              {"id": "act_renderAnimation_blender", "actionName": "Render Animation", "defaultBinding": "LCtrl+F12", "userBinding": null},
+              {"id": "act_showRender_blender", "actionName": "Show Last Render", "defaultBinding": "F11", "userBinding": null},
+              {"id": "act_toggleWireframe_blender", "actionName": "Toggle Wireframe", "defaultBinding": "LShift+Z", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["blender.exe", "Blender.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}

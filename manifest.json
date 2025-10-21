@@ -180,5 +180,12 @@
     "gameName": "iRacing",
     "profileDisplayName": "Default iRacing Controls",
     "lastUpdated": "2025-10-21T07:30:00Z"
+  },
+  "blender_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/blender-default-v1.0.0.json",
+    "gameName": "Blender",
+    "profileDisplayName": "Essential Blender Shortcuts",
+    "lastUpdated": "2025-10-21T08:00:00Z"
   }
 } 
