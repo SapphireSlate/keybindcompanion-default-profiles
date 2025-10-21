@@ -229,5 +229,12 @@
     "gameName": "League of Legends",
     "profileDisplayName": "Default League of Legends Controls",
     "lastUpdated": "2025-10-20T11:00:00Z"
+  },
+  "overwatch2_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/overwatch-2-default-v1.0.0.json",
+    "gameName": "Overwatch 2",
+    "profileDisplayName": "Default Overwatch 2 Controls",
+    "lastUpdated": "2025-10-20T11:30:00Z"
   }
 } 

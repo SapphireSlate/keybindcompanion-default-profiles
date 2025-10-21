@@ -1,0 +1,131 @@
+{
+  "profileId": "overwatch2_default_v1",
+  "gameName": "Overwatch 2",
+  "profileName": "Overwatch 2",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729460400,
+  "description": "Complete default keybindings for Overwatch 2 - Hero-based FPS with unique abilities. Includes combat, hero abilities, communication, and controller support.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_ow2",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_movement_ow2",
+            "categoryName": "Movement",
+            "actions": [
+              {"id": "act_forward_ow2", "actionName": "Move Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_backward_ow2", "actionName": "Move Backward", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_left_ow2", "actionName": "Move Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_right_ow2", "actionName": "Move Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_jump_ow2", "actionName": "Jump", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_crouch_ow2", "actionName": "Crouch", "defaultBinding": "LCtrl", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_combat_ow2",
+            "categoryName": "Combat",
+            "actions": [
+              {"id": "act_primaryFire_ow2", "actionName": "Primary Fire", "defaultBinding": "LMB", "userBinding": null},
+              {"id": "act_secondaryFire_ow2", "actionName": "Secondary Fire", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_reload_ow2", "actionName": "Reload", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_melee_ow2", "actionName": "Melee", "defaultBinding": "V", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_heroAbilities_ow2",
+            "categoryName": "Hero Abilities",
+            "actions": [
+              {"id": "act_ability1_ow2", "actionName": "Ability 1", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_ability2_ow2", "actionName": "Ability 2", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_ultimate_ow2", "actionName": "Ultimate Ability", "defaultBinding": "Q", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_interaction_ow2",
+            "categoryName": "Interaction",
+            "actions": [
+              {"id": "act_interact_ow2", "actionName": "Interact", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_heroInfo_ow2", "actionName": "Hero Information", "defaultBinding": "H", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_ow2",
+            "categoryName": "Communication",
+            "actions": [
+              {"id": "act_commWheel_ow2", "actionName": "Communication Wheel", "defaultBinding": "C", "userBinding": null},
+              {"id": "act_acknowledge_ow2", "actionName": "Acknowledge", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_ultimateStatus_ow2", "actionName": "Ultimate Status", "defaultBinding": "Z", "userBinding": null},
+              {"id": "act_needHealing_ow2", "actionName": "Need Healing", "defaultBinding": "X", "userBinding": null},
+              {"id": "act_groupUp_ow2", "actionName": "Group Up", "defaultBinding": "P", "userBinding": null},
+              {"id": "act_understood_ow2", "actionName": "Understood", "defaultBinding": "U", "userBinding": null},
+              {"id": "act_voiceLine_ow2", "actionName": "Voice Line", "defaultBinding": "V", "userBinding": null},
+              {"id": "act_pushToTalk_ow2", "actionName": "Push to Talk", "defaultBinding": "T", "userBinding": null},
+              {"id": "act_textChat_ow2", "actionName": "Text Chat", "defaultBinding": "Enter", "userBinding": null},
+              {"id": "act_teamChat_ow2", "actionName": "Team Chat", "defaultBinding": "Y", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_interface_ow2",
+            "categoryName": "Interface",
+            "actions": [
+              {"id": "act_scoreboard_ow2", "actionName": "Scoreboard", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_menu_ow2", "actionName": "Menu", "defaultBinding": "Escape", "userBinding": null},
+              {"id": "act_social_ow2", "actionName": "Social", "defaultBinding": "O", "userBinding": null},
+              {"id": "act_careerProfile_ow2", "actionName": "Career Profile", "defaultBinding": "P", "userBinding": null},
+              {"id": "act_heroGallery_ow2", "actionName": "Hero Gallery", "defaultBinding": "I", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_ow2",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerCombatMovement_ow2",
+            "categoryName": "Combat & Movement",
+            "actions": [
+              {"id": "act_controllerMove_ow2", "actionName": "Movement", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerLook_ow2", "actionName": "Look", "defaultBinding": "Right Stick", "userBinding": null},
+              {"id": "act_controllerJump_ow2", "actionName": "Jump", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerPrimaryFire_ow2", "actionName": "Primary Fire", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerSecondaryFire_ow2", "actionName": "Secondary Fire", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerAbility1_ow2", "actionName": "Ability 1", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerAbility2_ow2", "actionName": "Ability 2", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerUltimate_ow2", "actionName": "Ultimate", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerReload_ow2", "actionName": "Reload", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerMelee_ow2", "actionName": "Melee", "defaultBinding": "Right Stick Click", "userBinding": null},
+              {"id": "act_controllerCrouch_ow2", "actionName": "Crouch", "defaultBinding": "B/Circle", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerSystemsComm_ow2",
+            "categoryName": "Systems & Communication",
+            "actions": [
+              {"id": "act_controllerCommWheel_ow2", "actionName": "Communication Wheel", "defaultBinding": "D-Pad Up", "userBinding": null},
+              {"id": "act_controllerUltStatus_ow2", "actionName": "Ultimate Status", "defaultBinding": "D-Pad Down", "userBinding": null},
+              {"id": "act_controllerNeedHealing_ow2", "actionName": "Need Healing", "defaultBinding": "D-Pad Left", "userBinding": null},
+              {"id": "act_controllerInteract_ow2", "actionName": "Interact", "defaultBinding": "D-Pad Right", "userBinding": null},
+              {"id": "act_controllerScoreboard_ow2", "actionName": "Scoreboard", "defaultBinding": "View/Touchpad", "userBinding": null},
+              {"id": "act_controllerMenu_ow2", "actionName": "Menu", "defaultBinding": "Start/Options", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["Overwatch.exe", "Overwatch2.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
