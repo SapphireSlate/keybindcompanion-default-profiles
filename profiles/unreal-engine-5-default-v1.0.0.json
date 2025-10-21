@@ -1,0 +1,135 @@
+{
+  "profileId": "unreal_engine_5_default_v1",
+  "gameName": "Unreal Engine 5",
+  "profileName": "Unreal Engine 5",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729459200,
+  "description": "Essential keyboard shortcuts for Unreal Engine 5 - Industry-standard game engine for AAA development. Covers viewport, transforms, play testing, and editor workflow.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_ue5",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_navigationViewport_ue5",
+            "categoryName": "Navigation & Viewport",
+            "actions": [
+              {"id": "act_focusSelected_ue5", "actionName": "Focus on Selected", "defaultBinding": "F", "userBinding": null},
+              {"id": "act_toggleGameView_ue5", "actionName": "Toggle Game View", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_perspectiveView_ue5", "actionName": "Perspective View", "defaultBinding": "LAlt+G", "userBinding": null},
+              {"id": "act_frontView_ue5", "actionName": "Front View", "defaultBinding": "LAlt+H", "userBinding": null},
+              {"id": "act_topView_ue5", "actionName": "Top View", "defaultBinding": "LAlt+J", "userBinding": null},
+              {"id": "act_sideView_ue5", "actionName": "Side View", "defaultBinding": "LAlt+K", "userBinding": null},
+              {"id": "act_cameraForward_ue5", "actionName": "Camera Forward", "defaultBinding": "RMB+W", "userBinding": null},
+              {"id": "act_cameraBack_ue5", "actionName": "Camera Back", "defaultBinding": "RMB+S", "userBinding": null},
+              {"id": "act_cameraLeft_ue5", "actionName": "Camera Left", "defaultBinding": "RMB+A", "userBinding": null},
+              {"id": "act_cameraRight_ue5", "actionName": "Camera Right", "defaultBinding": "RMB+D", "userBinding": null},
+              {"id": "act_cameraUp_ue5", "actionName": "Camera Up", "defaultBinding": "RMB+E", "userBinding": null},
+              {"id": "act_cameraDown_ue5", "actionName": "Camera Down", "defaultBinding": "RMB+Q", "userBinding": null},
+              {"id": "act_panCamera_ue5", "actionName": "Pan Camera", "defaultBinding": "MMB", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_transformTools_ue5",
+            "categoryName": "Transform Tools",
+            "actions": [
+              {"id": "act_translateTool_ue5", "actionName": "Translate / Move Tool", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_rotateTool_ue5", "actionName": "Rotate Tool", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_scaleTool_ue5", "actionName": "Scale Tool", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_toggleTransform_ue5", "actionName": "Toggle Transform Mode", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_snapToFloor_ue5", "actionName": "Snap to Floor", "defaultBinding": "End", "userBinding": null},
+              {"id": "act_snapToGrid_ue5", "actionName": "Snap to Grid", "defaultBinding": "LCtrl+End", "userBinding": null},
+              {"id": "act_decreaseGridSize_ue5", "actionName": "Decrease Grid Size", "defaultBinding": "[", "userBinding": null},
+              {"id": "act_increaseGridSize_ue5", "actionName": "Increase Grid Size", "defaultBinding": "]", "userBinding": null},
+              {"id": "act_decreaseRotSnap_ue5", "actionName": "Decrease Rotation Snap", "defaultBinding": "LShift+[", "userBinding": null},
+              {"id": "act_increaseRotSnap_ue5", "actionName": "Increase Rotation Snap", "defaultBinding": "LShift+]", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_selectionManip_ue5",
+            "categoryName": "Selection & Manipulation",
+            "actions": [
+              {"id": "act_selectAll_ue5", "actionName": "Select All", "defaultBinding": "LCtrl+A", "userBinding": null},
+              {"id": "act_duplicate_ue5", "actionName": "Duplicate Selected", "defaultBinding": "LCtrl+D", "userBinding": null},
+              {"id": "act_hideSelected_ue5", "actionName": "Hide Selected", "defaultBinding": "H", "userBinding": null},
+              {"id": "act_unhideAll_ue5", "actionName": "Unhide All", "defaultBinding": "LCtrl+H", "userBinding": null},
+              {"id": "act_groupActors_ue5", "actionName": "Group Actors", "defaultBinding": "LCtrl+G", "userBinding": null},
+              {"id": "act_ungroupActors_ue5", "actionName": "Ungroup Actors", "defaultBinding": "LShift+G", "userBinding": null},
+              {"id": "act_selectSameMesh_ue5", "actionName": "Select All with Same Mesh", "defaultBinding": "LShift+E", "userBinding": null},
+              {"id": "act_selectSameClass_ue5", "actionName": "Select All of Same Class", "defaultBinding": "LCtrl+LShift+A", "userBinding": null},
+              {"id": "act_delete_ue5", "actionName": "Delete Selected", "defaultBinding": "Delete", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_editorModes_ue5",
+            "categoryName": "Editor Modes",
+            "actions": [
+              {"id": "act_selectMode_ue5", "actionName": "Select Mode", "defaultBinding": "LShift+1", "userBinding": null},
+              {"id": "act_landscapeMode_ue5", "actionName": "Landscape Mode", "defaultBinding": "LShift+2", "userBinding": null},
+              {"id": "act_foliageMode_ue5", "actionName": "Foliage Mode", "defaultBinding": "LShift+3", "userBinding": null},
+              {"id": "act_modelingMode_ue5", "actionName": "Modeling Mode", "defaultBinding": "LShift+4", "userBinding": null},
+              {"id": "act_fractureMode_ue5", "actionName": "Fracture Mode", "defaultBinding": "LShift+5", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_playSimulation_ue5",
+            "categoryName": "Play & Simulation",
+            "actions": [
+              {"id": "act_playInEditor_ue5", "actionName": "Play in Editor", "defaultBinding": "LAlt+P", "userBinding": null},
+              {"id": "act_simulateInEditor_ue5", "actionName": "Simulate in Editor", "defaultBinding": "LAlt+S", "userBinding": null},
+              {"id": "act_stopPlay_ue5", "actionName": "Stop Play / Simulation", "defaultBinding": "Escape", "userBinding": null},
+              {"id": "act_immersiveMode_ue5", "actionName": "Immersive Mode", "defaultBinding": "F11", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_fileProject_ue5",
+            "categoryName": "File & Project",
+            "actions": [
+              {"id": "act_saveLevel_ue5", "actionName": "Save Current Level", "defaultBinding": "LCtrl+S", "userBinding": null},
+              {"id": "act_saveAll_ue5", "actionName": "Save All", "defaultBinding": "LCtrl+LShift+S", "userBinding": null},
+              {"id": "act_newLevel_ue5", "actionName": "New Level", "defaultBinding": "LCtrl+N", "userBinding": null},
+              {"id": "act_openLevel_ue5", "actionName": "Open Level", "defaultBinding": "LCtrl+O", "userBinding": null},
+              {"id": "act_undo_ue5", "actionName": "Undo", "defaultBinding": "LCtrl+Z", "userBinding": null},
+              {"id": "act_redo_ue5", "actionName": "Redo", "defaultBinding": "LCtrl+Y", "userBinding": null},
+              {"id": "act_copy_ue5", "actionName": "Copy", "defaultBinding": "LCtrl+C", "userBinding": null},
+              {"id": "act_cut_ue5", "actionName": "Cut", "defaultBinding": "LCtrl+X", "userBinding": null},
+              {"id": "act_paste_ue5", "actionName": "Paste", "defaultBinding": "LCtrl+V", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_contentBrowser_ue5",
+            "categoryName": "Content Browser & Assets",
+            "actions": [
+              {"id": "act_findInBrowser_ue5", "actionName": "Find in Content Browser", "defaultBinding": "LCtrl+B", "userBinding": null},
+              {"id": "act_rename_ue5", "actionName": "Rename Selected", "defaultBinding": "F2", "userBinding": null},
+              {"id": "act_findActors_ue5", "actionName": "Find Actors", "defaultBinding": "LCtrl+F", "userBinding": null},
+              {"id": "act_editAsset_ue5", "actionName": "Edit Selected Asset", "defaultBinding": "LCtrl+E", "userBinding": null},
+              {"id": "act_contentBrowser_ue5", "actionName": "Open Content Browser", "defaultBinding": "LCtrl+Space", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_buildTools_ue5",
+            "categoryName": "Build & Tools",
+            "actions": [
+              {"id": "act_buildLighting_ue5", "actionName": "Build Lighting", "defaultBinding": "LCtrl+LAlt+F11", "userBinding": null},
+              {"id": "act_buildAll_ue5", "actionName": "Build All", "defaultBinding": "LShift+F11", "userBinding": null},
+              {"id": "act_buildGeometry_ue5", "actionName": "Build Geometry", "defaultBinding": "LCtrl+LShift+.", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["UnrealEditor.exe", "UE5Editor.exe", "UnrealEditor-Win64-DebugGame.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
