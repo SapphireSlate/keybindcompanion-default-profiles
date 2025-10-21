@@ -1,0 +1,205 @@
+{
+  "profileId": "msfs2024_default_v1",
+  "gameName": "Microsoft Flight Simulator 2024",
+  "profileName": "Microsoft Flight Simulator 2024",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729512600,
+  "description": "Complete default keybindings for Microsoft Flight Simulator 2024 - Flight simulation with keyboard, Xbox controller, and HOTAS support.",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_msfs2024",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_basicFlight_msfs2024",
+            "categoryName": "Basic Flight Controls",
+            "actions": [
+              {"id": "act_elevatorUp_msfs2024", "actionName": "Elevator Up", "defaultBinding": "Numpad 8", "userBinding": null},
+              {"id": "act_elevatorDown_msfs2024", "actionName": "Elevator Down", "defaultBinding": "Numpad 2", "userBinding": null},
+              {"id": "act_aileronLeft_msfs2024", "actionName": "Aileron Left", "defaultBinding": "Numpad 4", "userBinding": null},
+              {"id": "act_aileronRight_msfs2024", "actionName": "Aileron Right", "defaultBinding": "Numpad 6", "userBinding": null},
+              {"id": "act_rudderLeft_msfs2024", "actionName": "Rudder Left", "defaultBinding": "Numpad 0", "userBinding": null},
+              {"id": "act_rudderRight_msfs2024", "actionName": "Rudder Right", "defaultBinding": "Numpad Enter", "userBinding": null},
+              {"id": "act_throttleIncrease_msfs2024", "actionName": "Throttle Increase", "defaultBinding": "F1", "userBinding": null},
+              {"id": "act_throttleDecrease_msfs2024", "actionName": "Throttle Decrease", "defaultBinding": "F2", "userBinding": null},
+              {"id": "act_throttleFull_msfs2024", "actionName": "Throttle Full", "defaultBinding": "F3", "userBinding": null},
+              {"id": "act_throttleIdle_msfs2024", "actionName": "Throttle Idle", "defaultBinding": "F4", "userBinding": null},
+              {"id": "act_mixture_msfs2024", "actionName": "Mixture", "defaultBinding": "M", "userBinding": null},
+              {"id": "act_propellerPitch_msfs2024", "actionName": "Propeller Pitch", "defaultBinding": "P", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_aircraftSystems_msfs2024",
+            "categoryName": "Aircraft Systems",
+            "actions": [
+              {"id": "act_landingGear_msfs2024", "actionName": "Landing Gear", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_parkingBrake_msfs2024", "actionName": "Parking Brake", "defaultBinding": "LCtrl+.", "userBinding": null},
+              {"id": "act_brakes_msfs2024", "actionName": "Brakes", "defaultBinding": ".", "userBinding": null},
+              {"id": "act_flapsUp_msfs2024", "actionName": "Flaps Up", "defaultBinding": "F5", "userBinding": null},
+              {"id": "act_flapsDown_msfs2024", "actionName": "Flaps Down", "defaultBinding": "F6", "userBinding": null},
+              {"id": "act_flaps1_msfs2024", "actionName": "Flaps Position 1", "defaultBinding": "F7", "userBinding": null},
+              {"id": "act_flaps2_msfs2024", "actionName": "Flaps Position 2", "defaultBinding": "F8", "userBinding": null},
+              {"id": "act_spoilers_msfs2024", "actionName": "Spoilers", "defaultBinding": "/", "userBinding": null},
+              {"id": "act_engineStart_msfs2024", "actionName": "Engine Start", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_allEngines_msfs2024", "actionName": "All Engines", "defaultBinding": "LCtrl+E", "userBinding": null},
+              {"id": "act_lights_msfs2024", "actionName": "Lights", "defaultBinding": "L", "userBinding": null},
+              {"id": "act_pitotHeat_msfs2024", "actionName": "Pitot Heat", "defaultBinding": "K", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_autopilot_msfs2024",
+            "categoryName": "Autopilot",
+            "actions": [
+              {"id": "act_autopilotMaster_msfs2024", "actionName": "Autopilot Master", "defaultBinding": "Z", "userBinding": null},
+              {"id": "act_autopilotOff_msfs2024", "actionName": "Autopilot Off", "defaultBinding": "LAlt+Z", "userBinding": null},
+              {"id": "act_flightDirector_msfs2024", "actionName": "Flight Director", "defaultBinding": "LCtrl+Z", "userBinding": null},
+              {"id": "act_altitudeHold_msfs2024", "actionName": "Altitude Hold", "defaultBinding": "LAlt+H", "userBinding": null},
+              {"id": "act_vsHold_msfs2024", "actionName": "Vertical Speed Hold", "defaultBinding": "LAlt+V", "userBinding": null},
+              {"id": "act_headingHold_msfs2024", "actionName": "Heading Hold", "defaultBinding": "LAlt+W", "userBinding": null},
+              {"id": "act_navHold_msfs2024", "actionName": "Nav Hold", "defaultBinding": "LAlt+N", "userBinding": null},
+              {"id": "act_approachMode_msfs2024", "actionName": "Approach Mode", "defaultBinding": "LAlt+A", "userBinding": null},
+              {"id": "act_airspeedHold_msfs2024", "actionName": "Airspeed Hold", "defaultBinding": "LCtrl+V", "userBinding": null},
+              {"id": "act_backcourse_msfs2024", "actionName": "Backcourse", "defaultBinding": "LCtrl+B", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_trim_msfs2024",
+            "categoryName": "Trim Controls",
+            "actions": [
+              {"id": "act_elevatorTrimUp_msfs2024", "actionName": "Elevator Trim Up", "defaultBinding": "Numpad 7", "userBinding": null},
+              {"id": "act_elevatorTrimDown_msfs2024", "actionName": "Elevator Trim Down", "defaultBinding": "Numpad 1", "userBinding": null},
+              {"id": "act_aileronTrimLeft_msfs2024", "actionName": "Aileron Trim Left", "defaultBinding": "LCtrl+Numpad 4", "userBinding": null},
+              {"id": "act_aileronTrimRight_msfs2024", "actionName": "Aileron Trim Right", "defaultBinding": "LCtrl+Numpad 6", "userBinding": null},
+              {"id": "act_rudderTrimLeft_msfs2024", "actionName": "Rudder Trim Left", "defaultBinding": "LCtrl+Numpad 0", "userBinding": null},
+              {"id": "act_rudderTrimRight_msfs2024", "actionName": "Rudder Trim Right", "defaultBinding": "LCtrl+Numpad Enter", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_cameraViews_msfs2024",
+            "categoryName": "Camera & Views",
+            "actions": [
+              {"id": "act_cockpitView_msfs2024", "actionName": "Cockpit View", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_externalView_msfs2024", "actionName": "External View", "defaultBinding": "F9", "userBinding": null},
+              {"id": "act_chaseView_msfs2024", "actionName": "Chase View", "defaultBinding": "F10", "userBinding": null},
+              {"id": "act_flybyView_msfs2024", "actionName": "Flyby View", "defaultBinding": "F11", "userBinding": null},
+              {"id": "act_towerView_msfs2024", "actionName": "Tower View", "defaultBinding": "F12", "userBinding": null},
+              {"id": "act_resetView_msfs2024", "actionName": "Reset View", "defaultBinding": "Num 5", "userBinding": null},
+              {"id": "act_zoomIn_msfs2024", "actionName": "Zoom In", "defaultBinding": "Ins", "userBinding": null},
+              {"id": "act_zoomOut_msfs2024", "actionName": "Zoom Out", "defaultBinding": "Del", "userBinding": null},
+              {"id": "act_droneCamera_msfs2024", "actionName": "Drone Camera", "defaultBinding": "Insert", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_navigation_msfs2024",
+            "categoryName": "Navigation & Radio",
+            "actions": [
+              {"id": "act_gps_msfs2024", "actionName": "GPS", "defaultBinding": "LShift+F3", "userBinding": null},
+              {"id": "act_vor1_msfs2024", "actionName": "VOR 1", "defaultBinding": "LShift+F1", "userBinding": null},
+              {"id": "act_vor2_msfs2024", "actionName": "VOR 2", "defaultBinding": "LShift+F2", "userBinding": null},
+              {"id": "act_adf_msfs2024", "actionName": "ADF", "defaultBinding": "LShift+F4", "userBinding": null},
+              {"id": "act_transponder_msfs2024", "actionName": "Transponder", "defaultBinding": "LShift+F5", "userBinding": null},
+              {"id": "act_radioPanel_msfs2024", "actionName": "Radio Panel", "defaultBinding": "C", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_msfs2024",
+            "categoryName": "Communication",
+            "actions": [
+              {"id": "act_atcMenu_msfs2024", "actionName": "ATC Menu", "defaultBinding": "Scroll Lock", "userBinding": null},
+              {"id": "act_pushToTalk_msfs2024", "actionName": "Push to Talk", "defaultBinding": "Caps Lock", "userBinding": null},
+              {"id": "act_com1_msfs2024", "actionName": "COM 1", "defaultBinding": "LShift+C", "userBinding": null},
+              {"id": "act_com2_msfs2024", "actionName": "COM 2", "defaultBinding": "LShift+LCtrl+C", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_environmental_msfs2024",
+            "categoryName": "Environmental Systems",
+            "actions": [
+              {"id": "act_landingLights_msfs2024", "actionName": "Landing Lights", "defaultBinding": "LCtrl+L", "userBinding": null},
+              {"id": "act_taxiLights_msfs2024", "actionName": "Taxi Lights", "defaultBinding": "LShift+L", "userBinding": null},
+              {"id": "act_strobes_msfs2024", "actionName": "Strobe Lights", "defaultBinding": "O", "userBinding": null},
+              {"id": "act_beaconLights_msfs2024", "actionName": "Beacon Lights", "defaultBinding": "LShift+O", "userBinding": null},
+              {"id": "act_wipers_msfs2024", "actionName": "Wipers", "defaultBinding": "W", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_msfs2024",
+        "deviceType": "controller",
+        "customName": "Xbox Controller",
+        "categories": [
+          {
+            "id": "cat_controllerFlight_msfs2024",
+            "categoryName": "Flight Controls",
+            "actions": [
+              {"id": "act_controllerPitchRoll_msfs2024", "actionName": "Pitch / Roll", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerRudder_msfs2024", "actionName": "Rudder", "defaultBinding": "Right Stick (Left/Right)", "userBinding": null},
+              {"id": "act_controllerThrottle_msfs2024", "actionName": "Throttle", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerBrakes_msfs2024", "actionName": "Brakes", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerGear_msfs2024", "actionName": "Landing Gear", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerFlapsUp_msfs2024", "actionName": "Flaps Up", "defaultBinding": "D-Pad Up", "userBinding": null},
+              {"id": "act_controllerFlapsDown_msfs2024", "actionName": "Flaps Down", "defaultBinding": "D-Pad Down", "userBinding": null},
+              {"id": "act_controllerView_msfs2024", "actionName": "View", "defaultBinding": "Right Stick (Up/Down)", "userBinding": null},
+              {"id": "act_controllerParkingBrake_msfs2024", "actionName": "Parking Brake", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerAutopilot_msfs2024", "actionName": "Autopilot", "defaultBinding": "Y/Triangle", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerSystems_msfs2024",
+            "categoryName": "Systems & Interface",
+            "actions": [
+              {"id": "act_controllerMenu_msfs2024", "actionName": "Menu", "defaultBinding": "Start/Options", "userBinding": null},
+              {"id": "act_controllerCamera_msfs2024", "actionName": "Camera", "defaultBinding": "View/Share", "userBinding": null},
+              {"id": "act_controllerLights_msfs2024", "actionName": "Lights", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerSpoilers_msfs2024", "actionName": "Spoilers", "defaultBinding": "RB/R1", "userBinding": null},
+              {"id": "act_controllerTrimUp_msfs2024", "actionName": "Trim Up", "defaultBinding": "D-Pad Left", "userBinding": null},
+              {"id": "act_controllerTrimDown_msfs2024", "actionName": "Trim Down", "defaultBinding": "D-Pad Right", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_hotas_msfs2024",
+        "deviceType": "flightStick",
+        "customName": "HOTAS (Flight Stick & Throttle)",
+        "categories": [
+          {
+            "id": "cat_hotasFlightAxes_msfs2024",
+            "categoryName": "Flight Axes",
+            "actions": [
+              {"id": "act_hotasPitch_msfs2024", "actionName": "Pitch Axis", "defaultBinding": "Stick Y-Axis", "userBinding": null},
+              {"id": "act_hotasRoll_msfs2024", "actionName": "Roll Axis", "defaultBinding": "Stick X-Axis", "userBinding": null},
+              {"id": "act_hotasRudder_msfs2024", "actionName": "Rudder Axis", "defaultBinding": "Stick Z-Axis", "userBinding": null},
+              {"id": "act_hotasThrottle_msfs2024", "actionName": "Throttle Axis", "defaultBinding": "Throttle Axis", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_hotasControls_msfs2024",
+            "categoryName": "HOTAS Controls",
+            "actions": [
+              {"id": "act_hotasTrigger_msfs2024", "actionName": "Trigger (Brakes)", "defaultBinding": "Stick Trigger", "userBinding": null},
+              {"id": "act_hotasHatSwitch_msfs2024", "actionName": "Hat Switch (View)", "defaultBinding": "Stick Hat", "userBinding": null},
+              {"id": "act_hotasButton1_msfs2024", "actionName": "Button 1 (Landing Gear)", "defaultBinding": "Stick Button 1", "userBinding": null},
+              {"id": "act_hotasButton2_msfs2024", "actionName": "Button 2 (Flaps)", "defaultBinding": "Stick Button 2", "userBinding": null},
+              {"id": "act_hotasThrottleButton1_msfs2024", "actionName": "Throttle Button 1 (AP)", "defaultBinding": "Throttle Button 1", "userBinding": null},
+              {"id": "act_hotasThrottleButton2_msfs2024", "actionName": "Throttle Button 2 (Trim)", "defaultBinding": "Throttle Button 2", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["FlightSimulator.exe", "MSFS.exe", "MicrosoftFlightSimulator.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}

@@ -166,5 +166,12 @@
     "gameName": "Star Citizen",
     "profileDisplayName": "Default Star Citizen Controls",
     "lastUpdated": "2025-10-21T06:30:00Z"
+  },
+  "msfs2024_default_v1": {
+    "version": "1.0.0",
+    "filePath": "profiles/microsoft-flight-simulator-2024-default-v1.0.0.json",
+    "gameName": "Microsoft Flight Simulator 2024",
+    "profileDisplayName": "Default Microsoft Flight Simulator 2024 Controls",
+    "lastUpdated": "2025-10-21T07:00:00Z"
   }
 } 
