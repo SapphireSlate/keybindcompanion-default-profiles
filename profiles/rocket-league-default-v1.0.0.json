@@ -1,0 +1,125 @@
+{
+  "profileId": "rocketleague_default_v1",
+  "gameName": "Rocket League",
+  "profileName": "Rocket League",
+  "version": "1.0.0",
+  "author": "KeybindCompanion",
+  "updated": 1729460700,
+  "description": "Complete default keybindings for Rocket League - Vehicular soccer with aerial mechanics. Includes keyboard and controller (controller recommended by pros).",
+  "profileData": {
+    "devices": [
+      {
+        "id": "default_keyboardMouse_rl",
+        "deviceType": "keyboardMouse",
+        "customName": "Keyboard & Mouse",
+        "categories": [
+          {
+            "id": "cat_carControls_rl",
+            "categoryName": "Car Controls",
+            "actions": [
+              {"id": "act_throttle_rl", "actionName": "Throttle", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_reverse_rl", "actionName": "Reverse", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_steerLeft_rl", "actionName": "Steer Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_steerRight_rl", "actionName": "Steer Right", "defaultBinding": "D", "userBinding": null},
+              {"id": "act_boost_rl", "actionName": "Boost", "defaultBinding": "LShift", "userBinding": null},
+              {"id": "act_jump_rl", "actionName": "Jump / Double Jump", "defaultBinding": "Space", "userBinding": null},
+              {"id": "act_powerslide_rl", "actionName": "Powerslide", "defaultBinding": "E", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_aerialControls_rl",
+            "categoryName": "Aerial Controls",
+            "actions": [
+              {"id": "act_airRoll_rl", "actionName": "Air Roll", "defaultBinding": "E", "userBinding": null},
+              {"id": "act_airRollLeft_rl", "actionName": "Air Roll Left", "defaultBinding": "Q", "userBinding": null},
+              {"id": "act_airRollRight_rl", "actionName": "Air Roll Right", "defaultBinding": "R", "userBinding": null},
+              {"id": "act_pitchForward_rl", "actionName": "Pitch Forward", "defaultBinding": "W", "userBinding": null},
+              {"id": "act_pitchBack_rl", "actionName": "Pitch Back", "defaultBinding": "S", "userBinding": null},
+              {"id": "act_yawLeft_rl", "actionName": "Yaw Left", "defaultBinding": "A", "userBinding": null},
+              {"id": "act_yawRight_rl", "actionName": "Yaw Right", "defaultBinding": "D", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_camera_rl",
+            "categoryName": "Camera",
+            "actions": [
+              {"id": "act_ballCamToggle_rl", "actionName": "Ball Cam Toggle", "defaultBinding": "LCtrl", "userBinding": null},
+              {"id": "act_lookBehind_rl", "actionName": "Look Behind", "defaultBinding": "RMB", "userBinding": null},
+              {"id": "act_freeCam_rl", "actionName": "Free Cam Control", "defaultBinding": "Mouse", "userBinding": null},
+              {"id": "act_resetCamera_rl", "actionName": "Reset Camera", "defaultBinding": "Y", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_communication_rl",
+            "categoryName": "Communication",
+            "actions": [
+              {"id": "act_quickChat1_rl", "actionName": "Quick Chat 1", "defaultBinding": "T", "userBinding": null},
+              {"id": "act_quickChat2_rl", "actionName": "Quick Chat 2", "defaultBinding": "G", "userBinding": null},
+              {"id": "act_quickChat3_rl", "actionName": "Quick Chat 3", "defaultBinding": "H", "userBinding": null},
+              {"id": "act_quickChat4_rl", "actionName": "Quick Chat 4", "defaultBinding": "B", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_interface_rl",
+            "categoryName": "Interface",
+            "actions": [
+              {"id": "act_scoreboard_rl", "actionName": "Scoreboard", "defaultBinding": "Tab", "userBinding": null},
+              {"id": "act_menu_rl", "actionName": "Menu", "defaultBinding": "Escape", "userBinding": null},
+              {"id": "act_useItem_rl", "actionName": "Use Item (Rumble)", "defaultBinding": "F", "userBinding": null}
+            ]
+          }
+        ]
+      },
+      {
+        "id": "default_controller_rl",
+        "deviceType": "controller",
+        "customName": "Controller",
+        "categories": [
+          {
+            "id": "cat_controllerCarControls_rl",
+            "categoryName": "Car Controls",
+            "actions": [
+              {"id": "act_controllerSteering_rl", "actionName": "Steering", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerThrottle_rl", "actionName": "Throttle", "defaultBinding": "RT/R2", "userBinding": null},
+              {"id": "act_controllerReverse_rl", "actionName": "Reverse", "defaultBinding": "LT/L2", "userBinding": null},
+              {"id": "act_controllerBoost_rl", "actionName": "Boost", "defaultBinding": "B/Circle", "userBinding": null},
+              {"id": "act_controllerJump_rl", "actionName": "Jump / Double Jump", "defaultBinding": "A/X", "userBinding": null},
+              {"id": "act_controllerPowerslide_rl", "actionName": "Powerslide / Air Roll", "defaultBinding": "X/Square", "userBinding": null},
+              {"id": "act_controllerAirRollLeft_rl", "actionName": "Air Roll Left", "defaultBinding": "LB/L1", "userBinding": null},
+              {"id": "act_controllerAirRollRight_rl", "actionName": "Air Roll Right", "defaultBinding": "RB/R1", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerAerialCamera_rl",
+            "categoryName": "Aerial & Camera",
+            "actions": [
+              {"id": "act_controllerPitchYaw_rl", "actionName": "Pitch / Yaw", "defaultBinding": "Left Stick", "userBinding": null},
+              {"id": "act_controllerBallCam_rl", "actionName": "Ball Cam Toggle", "defaultBinding": "Y/Triangle", "userBinding": null},
+              {"id": "act_controllerLookBehind_rl", "actionName": "Look Behind", "defaultBinding": "Right Stick Click", "userBinding": null},
+              {"id": "act_controllerFreeCam_rl", "actionName": "Free Cam", "defaultBinding": "Right Stick", "userBinding": null}
+            ]
+          },
+          {
+            "id": "cat_controllerSystems_rl",
+            "categoryName": "Systems & Communication",
+            "actions": [
+              {"id": "act_controllerQuickChat_rl", "actionName": "Quick Chat", "defaultBinding": "D-Pad", "userBinding": null},
+              {"id": "act_controllerScoreboard_rl", "actionName": "Scoreboard", "defaultBinding": "View/Touchpad", "userBinding": null},
+              {"id": "act_controllerMenu_rl", "actionName": "Menu", "defaultBinding": "Start/Options", "userBinding": null},
+              {"id": "act_controllerUseItem_rl", "actionName": "Use Item (Rumble)", "defaultBinding": "LB/L1", "userBinding": null}
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "isDefault": true,
+  "isEditable": false,
+  "provenance": "app",
+  "verifiedDefault": true,
+  "userLastUsed": null,
+  "gameProcessNames": ["RocketLeague.exe", "RLGame.exe"],
+  "gameWindowTitles": null,
+  "thumbnailUrl": null,
+  "originWorkshopId": null
+}
