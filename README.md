@@ -41,8 +41,8 @@ Official and community keybind profiles for [KeybindCompanion](https://github.co
 Profiles are served via jsDelivr CDN:
 
 ```
-https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main/manifest.json
-https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main/profiles/{profile-file}.json
+https://cdn.jsdelivr.net/gh/SapphireSlate/keybindcompanion-default-profiles@main/manifest.json
+https://cdn.jsdelivr.net/gh/SapphireSlate/keybindcompanion-default-profiles@main/profiles/{profile-file}.json
 ```
 
 ## 🤝 Contributing
