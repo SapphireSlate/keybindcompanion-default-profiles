@@ -1,261 +1,784 @@
 {
-  "csgo_default_v2": {
-    "version": "2.0.0",
-    "filePath": "profiles/cs2-default-v2.0.0.json",
-    "gameName": "Counter-Strike 2",
-    "profileDisplayName": "Default CS2 Controls",
-    "lastUpdated": "2025-10-17T18:00:00Z"
-  },
-  "valorant_default_v2": {
-    "version": "2.0.0",
-    "filePath": "profiles/valorant-default-v2.0.0.json",
-    "gameName": "Valorant",
-    "profileDisplayName": "Default Valorant Controls",
-    "lastUpdated": "2025-10-17T18:00:00Z"
-  },
-  "diablo4_default_v2": {
-    "version": "2.0.0",
-    "filePath": "profiles/diablo4-default-v2.0.0.json",
-    "gameName": "Diablo IV",
-    "profileDisplayName": "Default Diablo IV Controls",
-    "lastUpdated": "2025-10-17T19:00:00Z"
-  },
-  "starcraft2_default_v2": {
-    "version": "2.0.0",
-    "filePath": "profiles/starcraft2-default-v2.0.0.json",
-    "gameName": "StarCraft II",
-    "profileDisplayName": "Default Terran Hotkeys",
-    "lastUpdated": "2025-10-17T19:00:00Z"
-  },
-  "readyornot_defaultTactical": {
-    "version": "1.0.0",
-    "filePath": "profiles/readyornot_defaultTactical_1.0.0.json",
-    "gameName": "Ready Or Not",
-    "profileDisplayName": "Default Tactical Controls",
-    "lastUpdated": "2025-01-25T12:00:00Z"
-  },
-  "minecraft_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/minecraft-default-v1.0.0.json",
-    "gameName": "Minecraft",
-    "profileDisplayName": "Default Minecraft Controls",
-    "lastUpdated": "2025-10-20T12:00:00Z"
-  },
-  "apexlegends_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/apex-legends-default-v1.0.0.json",
-    "gameName": "Apex Legends",
-    "profileDisplayName": "Default Apex Legends Controls",
-    "lastUpdated": "2025-10-20T14:00:00Z"
-  },
-  "r6siege_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/rainbow-six-siege-default-v1.0.0.json",
-    "gameName": "Rainbow Six Siege",
-    "profileDisplayName": "Default Rainbow Six Siege Controls",
-    "lastUpdated": "2025-10-20T16:00:00Z"
-  },
-  "eft_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/escape-from-tarkov-default-v1.0.0.json",
-    "gameName": "Escape From Tarkov",
-    "profileDisplayName": "Default Escape From Tarkov Controls",
-    "lastUpdated": "2025-10-20T18:00:00Z"
-  },
-  "pubg_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/pubg-default-v1.0.0.json",
-    "gameName": "PUBG: BATTLEGROUNDS",
-    "profileDisplayName": "Default PUBG: BATTLEGROUNDS Controls",
-    "lastUpdated": "2025-10-20T20:00:00Z"
-  },
-  "arcraiders_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/arc-raiders-default-v1.0.0.json",
-    "gameName": "ARC Raiders",
-    "profileDisplayName": "Default ARC Raiders Controls",
-    "lastUpdated": "2025-10-20T22:00:00Z"
-  },
-  "battlefield6_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/battlefield-6-default-v1.0.0.json",
-    "gameName": "Battlefield™ 6",
-    "profileDisplayName": "Default Battlefield™ 6 Controls",
-    "lastUpdated": "2025-10-20T23:00:00Z"
-  },
-  "dota2_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/dota-2-default-v1.0.0.json",
-    "gameName": "Dota 2",
-    "profileDisplayName": "Default Dota 2 Controls",
-    "lastUpdated": "2025-10-20T00:00:00Z"
-  },
-  "rust_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/rust-default-v1.0.0.json",
-    "gameName": "Rust",
-    "profileDisplayName": "Default Rust Controls",
-    "lastUpdated": "2025-10-20T01:00:00Z"
-  },
-  "marvelrivals_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/marvel-rivals-default-v1.0.0.json",
-    "gameName": "Marvel Rivals",
-    "profileDisplayName": "Default Marvel Rivals Controls",
-    "lastUpdated": "2025-10-20T02:00:00Z"
-  },
-  "deadbydaylight_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/dead-by-daylight-default-v1.0.0.json",
-    "gameName": "Dead by Daylight",
-    "profileDisplayName": "Default Dead by Daylight Controls",
-    "lastUpdated": "2025-10-20T02:30:00Z"
-  },
-  "destiny2_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/destiny-2-default-v1.0.0.json",
-    "gameName": "Destiny 2",
-    "profileDisplayName": "Default Destiny 2 Controls",
-    "lastUpdated": "2025-10-20T03:00:00Z"
-  },
-  "codwarzone_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/call-of-duty-warzone-default-v1.0.0.json",
-    "gameName": "Call of Duty: Warzone",
-    "profileDisplayName": "Default Call of Duty: Warzone Controls",
-    "lastUpdated": "2025-10-20T03:30:00Z"
-  },
-  "gtav_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/gta-v-default-v1.0.0.json",
-    "gameName": "Grand Theft Auto V",
-    "profileDisplayName": "Default Grand Theft Auto V Controls",
-    "lastUpdated": "2025-10-20T04:00:00Z"
-  },
-  "deltaforce_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/delta-force-default-v1.0.0.json",
-    "gameName": "Delta Force",
-    "profileDisplayName": "Default Delta Force Controls",
-    "lastUpdated": "2025-10-20T04:30:00Z"
-  },
-  "armareforger_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/arma-reforger-default-v1.0.0.json",
-    "gameName": "Arma Reforger",
-    "profileDisplayName": "Default Arma Reforger Controls",
-    "lastUpdated": "2025-10-20T05:00:00Z"
-  },
-  "arenabreakout_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/arena-breakout-infinite-default-v1.0.0.json",
-    "gameName": "Arena Breakout: Infinite",
-    "profileDisplayName": "Default Arena Breakout: Infinite Controls",
-    "lastUpdated": "2025-10-20T05:30:00Z"
-  },
-  "dayz_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/dayz-default-v1.0.0.json",
-    "gameName": "DayZ",
-    "profileDisplayName": "Default DayZ Controls",
-    "lastUpdated": "2025-10-20T06:00:00Z"
-  },
-  "starcitizen_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/star-citizen-default-v1.0.0.json",
-    "gameName": "Star Citizen",
-    "profileDisplayName": "Default Star Citizen Controls",
-    "lastUpdated": "2025-10-20T06:30:00Z"
-  },
-  "msfs2024_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/microsoft-flight-simulator-2024-default-v1.0.0.json",
-    "gameName": "Microsoft Flight Simulator 2024",
-    "profileDisplayName": "Default Microsoft Flight Simulator 2024 Controls",
-    "lastUpdated": "2025-10-20T07:00:00Z"
-  },
-  "iracing_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/iracing-default-v1.0.0.json",
-    "gameName": "iRacing",
-    "profileDisplayName": "Default iRacing Controls",
-    "lastUpdated": "2025-10-20T07:30:00Z"
-  },
-  "blender_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/blender-default-v1.0.0.json",
-    "gameName": "Blender",
-    "profileDisplayName": "Essential Blender Shortcuts",
-    "lastUpdated": "2025-10-20T08:00:00Z"
-  },
-  "davinci_resolve_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/davinci-resolve-default-v1.0.0.json",
-    "gameName": "DaVinci Resolve",
-    "profileDisplayName": "Essential DaVinci Resolve Shortcuts",
-    "lastUpdated": "2025-10-20T08:30:00Z"
-  },
-  "godot_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/godot-default-v1.0.0.json",
-    "gameName": "Godot Engine",
-    "profileDisplayName": "Essential Godot Engine Shortcuts",
-    "lastUpdated": "2025-10-20T09:00:00Z"
-  },
-  "unreal_engine_5_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/unreal-engine-5-default-v1.0.0.json",
-    "gameName": "Unreal Engine 5",
-    "profileDisplayName": "Essential Unreal Engine 5 Shortcuts",
-    "lastUpdated": "2025-10-20T09:30:00Z"
-  },
-  "thefinals_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/the-finals-default-v1.0.0.json",
-    "gameName": "THE FINALS",
-    "profileDisplayName": "Default THE FINALS Controls",
-    "lastUpdated": "2025-10-20T10:00:00Z"
-  },
-  "fortnite_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/fortnite-default-v1.0.0.json",
-    "gameName": "Fortnite",
-    "profileDisplayName": "Default Fortnite Controls",
-    "lastUpdated": "2025-10-20T10:30:00Z"
-  },
-  "league_of_legends_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/league-of-legends-default-v1.0.0.json",
-    "gameName": "League of Legends",
-    "profileDisplayName": "Default League of Legends Controls",
-    "lastUpdated": "2025-10-20T11:00:00Z"
-  },
-  "overwatch2_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/overwatch-2-default-v1.0.0.json",
-    "gameName": "Overwatch 2",
-    "profileDisplayName": "Default Overwatch 2 Controls",
-    "lastUpdated": "2025-10-20T11:30:00Z"
-  },
-  "rocketleague_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/rocket-league-default-v1.0.0.json",
-    "gameName": "Rocket League",
-    "profileDisplayName": "Default Rocket League Controls",
-    "lastUpdated": "2025-10-20T12:00:00Z"
-  },
-  "worldofwarcraft_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/world-of-warcraft-default-v1.0.0.json",
-    "gameName": "World of Warcraft",
-    "profileDisplayName": "Default World of Warcraft Controls",
-    "lastUpdated": "2025-10-20T12:00:00Z"
-  },
-  "phasmophobia_default_v1": {
-    "version": "1.0.0",
-    "filePath": "profiles/phasmophobia-default-v1.0.0.json",
-    "gameName": "Phasmophobia",
-    "profileDisplayName": "Default Phasmophobia Controls",
-    "lastUpdated": "2025-10-20T12:00:00Z"
-  }
-} 
+  "version": "1.0.0",
+  "lastUpdated": "2025-12-06T23:57:09.302Z",
+  "cdnBaseUrl": "https://cdn.jsdelivr.net/gh/SapphireSlate/keybind-profiles@main",
+  "games": [
+    {
+      "gameId": "apex-legends",
+      "gameName": "Apex Legends",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "apexlegends_default_v1",
+          "name": "Default Apex Legends Controls",
+          "type": "official",
+          "path": "profiles/apex-legends-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Apex Legends",
+          "lastUpdated": "2025-10-20T14:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "arc-raiders",
+      "gameName": "ARC Raiders",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "arcraiders_default_v1",
+          "name": "Default ARC Raiders Controls",
+          "type": "official",
+          "path": "profiles/arc-raiders-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for ARC Raiders",
+          "lastUpdated": "2025-10-20T22:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "arena-breakout-infinite",
+      "gameName": "Arena Breakout: Infinite",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "arenabreakout_default_v1",
+          "name": "Default Arena Breakout: Infinite Controls",
+          "type": "official",
+          "path": "profiles/arena-breakout-infinite-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Arena Breakout: Infinite",
+          "lastUpdated": "2025-10-20T05:30:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "arma-reforger",
+      "gameName": "Arma Reforger",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "armareforger_default_v1",
+          "name": "Default Arma Reforger Controls",
+          "type": "official",
+          "path": "profiles/arma-reforger-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Arma Reforger",
+          "lastUpdated": "2025-10-20T05:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "battlefield-6",
+      "gameName": "Battlefield™ 6",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "battlefield6_default_v1",
+          "name": "Default Battlefield™ 6 Controls",
+          "type": "official",
+          "path": "profiles/battlefield-6-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Battlefield™ 6",
+          "lastUpdated": "2025-10-20T23:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "blender",
+      "gameName": "Blender",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "blender_default_v1",
+          "name": "Essential Blender Shortcuts",
+          "type": "official",
+          "path": "profiles/blender-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Keybind profile for Blender",
+          "lastUpdated": "2025-10-20T08:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "call-of-duty-warzone",
+      "gameName": "Call of Duty: Warzone",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "codwarzone_default_v1",
+          "name": "Default Call of Duty: Warzone Controls",
+          "type": "official",
+          "path": "profiles/call-of-duty-warzone-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Call of Duty: Warzone",
+          "lastUpdated": "2025-10-20T03:30:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "counter-strike-2",
+      "gameName": "Counter-Strike 2",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "csgo_default_v2",
+          "name": "Default CS2 Controls",
+          "type": "official",
+          "path": "profiles/cs2-default-v2.0.0.json",
+          "version": "2.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Counter-Strike 2",
+          "lastUpdated": "2025-10-17T18:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "davinci-resolve",
+      "gameName": "DaVinci Resolve",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "davinci_resolve_default_v1",
+          "name": "Essential DaVinci Resolve Shortcuts",
+          "type": "official",
+          "path": "profiles/davinci-resolve-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Keybind profile for DaVinci Resolve",
+          "lastUpdated": "2025-10-20T08:30:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "dayz",
+      "gameName": "DayZ",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "dayz_default_v1",
+          "name": "Default DayZ Controls",
+          "type": "official",
+          "path": "profiles/dayz-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for DayZ",
+          "lastUpdated": "2025-10-20T06:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "dead-by-daylight",
+      "gameName": "Dead by Daylight",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "deadbydaylight_default_v1",
+          "name": "Default Dead by Daylight Controls",
+          "type": "official",
+          "path": "profiles/dead-by-daylight-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Dead by Daylight",
+          "lastUpdated": "2025-10-20T02:30:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "delta-force",
+      "gameName": "Delta Force",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "deltaforce_default_v1",
+          "name": "Default Delta Force Controls",
+          "type": "official",
+          "path": "profiles/delta-force-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Delta Force",
+          "lastUpdated": "2025-10-20T04:30:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "destiny-2",
+      "gameName": "Destiny 2",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "destiny2_default_v1",
+          "name": "Default Destiny 2 Controls",
+          "type": "official",
+          "path": "profiles/destiny-2-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Destiny 2",
+          "lastUpdated": "2025-10-20T03:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "diablo-iv",
+      "gameName": "Diablo IV",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "diablo4_default_v2",
+          "name": "Default Diablo IV Controls",
+          "type": "official",
+          "path": "profiles/diablo4-default-v2.0.0.json",
+          "version": "2.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Diablo IV",
+          "lastUpdated": "2025-10-17T19:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "dota-2",
+      "gameName": "Dota 2",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "dota2_default_v1",
+          "name": "Default Dota 2 Controls",
+          "type": "official",
+          "path": "profiles/dota-2-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Dota 2",
+          "lastUpdated": "2025-10-20T00:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "escape-from-tarkov",
+      "gameName": "Escape From Tarkov",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "eft_default_v1",
+          "name": "Default Escape From Tarkov Controls",
+          "type": "official",
+          "path": "profiles/escape-from-tarkov-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Escape From Tarkov",
+          "lastUpdated": "2025-10-20T18:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "fortnite",
+      "gameName": "Fortnite",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "fortnite_default_v1",
+          "name": "Default Fortnite Controls",
+          "type": "official",
+          "path": "profiles/fortnite-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Fortnite",
+          "lastUpdated": "2025-10-20T10:30:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "godot-engine",
+      "gameName": "Godot Engine",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "godot_default_v1",
+          "name": "Essential Godot Engine Shortcuts",
+          "type": "official",
+          "path": "profiles/godot-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Keybind profile for Godot Engine",
+          "lastUpdated": "2025-10-20T09:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "grand-theft-auto-v",
+      "gameName": "Grand Theft Auto V",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "gtav_default_v1",
+          "name": "Default Grand Theft Auto V Controls",
+          "type": "official",
+          "path": "profiles/gta-v-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Grand Theft Auto V",
+          "lastUpdated": "2025-10-20T04:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "iracing",
+      "gameName": "iRacing",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "iracing_default_v1",
+          "name": "Default iRacing Controls",
+          "type": "official",
+          "path": "profiles/iracing-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for iRacing",
+          "lastUpdated": "2025-10-20T07:30:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "league-of-legends",
+      "gameName": "League of Legends",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "league_of_legends_default_v1",
+          "name": "Default League of Legends Controls",
+          "type": "official",
+          "path": "profiles/league-of-legends-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for League of Legends",
+          "lastUpdated": "2025-10-20T11:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "marvel-rivals",
+      "gameName": "Marvel Rivals",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "marvelrivals_default_v1",
+          "name": "Default Marvel Rivals Controls",
+          "type": "official",
+          "path": "profiles/marvel-rivals-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Marvel Rivals",
+          "lastUpdated": "2025-10-20T02:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "microsoft-flight-simulator-2024",
+      "gameName": "Microsoft Flight Simulator 2024",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "msfs2024_default_v1",
+          "name": "Default Microsoft Flight Simulator 2024 Controls",
+          "type": "official",
+          "path": "profiles/microsoft-flight-simulator-2024-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Microsoft Flight Simulator 2024",
+          "lastUpdated": "2025-10-20T07:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "minecraft",
+      "gameName": "Minecraft",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "minecraft_default_v1",
+          "name": "Default Minecraft Controls",
+          "type": "official",
+          "path": "profiles/minecraft-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Minecraft",
+          "lastUpdated": "2025-10-20T12:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "overwatch-2",
+      "gameName": "Overwatch 2",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "overwatch2_default_v1",
+          "name": "Default Overwatch 2 Controls",
+          "type": "official",
+          "path": "profiles/overwatch-2-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Overwatch 2",
+          "lastUpdated": "2025-10-20T11:30:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "phasmophobia",
+      "gameName": "Phasmophobia",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "phasmophobia_default_v1",
+          "name": "Default Phasmophobia Controls",
+          "type": "official",
+          "path": "profiles/phasmophobia-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Phasmophobia",
+          "lastUpdated": "2025-10-20T12:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "pubg-battlegrounds",
+      "gameName": "PUBG: BATTLEGROUNDS",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "pubg_default_v1",
+          "name": "Default PUBG: BATTLEGROUNDS Controls",
+          "type": "official",
+          "path": "profiles/pubg-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for PUBG: BATTLEGROUNDS",
+          "lastUpdated": "2025-10-20T20:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "rainbow-six-siege",
+      "gameName": "Rainbow Six Siege",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "r6siege_default_v1",
+          "name": "Default Rainbow Six Siege Controls",
+          "type": "official",
+          "path": "profiles/rainbow-six-siege-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Rainbow Six Siege",
+          "lastUpdated": "2025-10-20T16:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "ready-or-not",
+      "gameName": "Ready Or Not",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "readyornot_defaultTactical",
+          "name": "Default Tactical Controls",
+          "type": "official",
+          "path": "profiles/readyornot_defaultTactical_1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Ready Or Not",
+          "lastUpdated": "2025-01-25T12:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "rocket-league",
+      "gameName": "Rocket League",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "rocketleague_default_v1",
+          "name": "Default Rocket League Controls",
+          "type": "official",
+          "path": "profiles/rocket-league-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Rocket League",
+          "lastUpdated": "2025-10-20T12:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "rust",
+      "gameName": "Rust",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "rust_default_v1",
+          "name": "Default Rust Controls",
+          "type": "official",
+          "path": "profiles/rust-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Rust",
+          "lastUpdated": "2025-10-20T01:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "star-citizen",
+      "gameName": "Star Citizen",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "starcitizen_default_v1",
+          "name": "Default Star Citizen Controls",
+          "type": "official",
+          "path": "profiles/star-citizen-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Star Citizen",
+          "lastUpdated": "2025-10-20T06:30:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "starcraft-ii",
+      "gameName": "StarCraft II",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "starcraft2_default_v2",
+          "name": "Default Terran Hotkeys",
+          "type": "official",
+          "path": "profiles/starcraft2-default-v2.0.0.json",
+          "version": "2.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for StarCraft II",
+          "lastUpdated": "2025-10-17T19:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "the-finals",
+      "gameName": "THE FINALS",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "thefinals_default_v1",
+          "name": "Default THE FINALS Controls",
+          "type": "official",
+          "path": "profiles/the-finals-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for THE FINALS",
+          "lastUpdated": "2025-10-20T10:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "unreal-engine-5",
+      "gameName": "Unreal Engine 5",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "unreal_engine_5_default_v1",
+          "name": "Essential Unreal Engine 5 Shortcuts",
+          "type": "official",
+          "path": "profiles/unreal-engine-5-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Keybind profile for Unreal Engine 5",
+          "lastUpdated": "2025-10-20T09:30:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "valorant",
+      "gameName": "Valorant",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "valorant_default_v2",
+          "name": "Default Valorant Controls",
+          "type": "official",
+          "path": "profiles/valorant-default-v2.0.0.json",
+          "version": "2.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for Valorant",
+          "lastUpdated": "2025-10-17T18:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    },
+    {
+      "gameId": "world-of-warcraft",
+      "gameName": "World of Warcraft",
+      "coverImage": null,
+      "profiles": [
+        {
+          "id": "worldofwarcraft_default_v1",
+          "name": "Default World of Warcraft Controls",
+          "type": "official",
+          "path": "profiles/world-of-warcraft-default-v1.0.0.json",
+          "version": "1.0.0",
+          "author": "KeybindCompanion",
+          "description": "Official default keybindings for World of Warcraft",
+          "lastUpdated": "2025-10-20T12:00:00Z",
+          "tags": [
+            "default",
+            "official"
+          ]
+        }
+      ]
+    }
+  ]
+}
